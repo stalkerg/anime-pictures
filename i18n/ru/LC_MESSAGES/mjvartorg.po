@@ -1758,7 +1758,7 @@ msgstr ""
 
 #: thandler/add_wall.py:319 thandler/add_wall.py:327
 msgid "Duplicate! Such a image is already in the database"
-msgstr "Дубликат! Этак картинка уже есть в базе данных"
+msgstr "Дубликат! Эта картинка уже есть в базе данных"
 
 #: thandler/add_wall.py:346
 msgid "error"
