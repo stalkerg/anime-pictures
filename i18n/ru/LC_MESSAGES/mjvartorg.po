@@ -1,0 +1,2147 @@
+# Russian translations for mjv-art.org.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the mjv-art.org
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mjv-art.org 0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-06-30 14:24+0900\n"
+"PO-Revision-Date: 2011-07-02 01:44+0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: mjvartorg/templates/about.mako:6 mjvartorg/templates/about.mako:19
+msgid "About site"
+msgstr "О сайте"
+
+#: mjvartorg/templates/about.mako:21
+msgid "The site aims to unite people who love Modern Japanese Visual ART"
+msgstr ""
+"Сайт призван объединить людей, которые любят Современное Японское "
+"Изобразительное Искусство"
+
+#: mjvartorg/templates/about.mako:23
+msgid "Moderators:"
+msgstr "Модераторы:"
+
+#: mjvartorg/templates/about.mako:25
+msgid "Creator, Administrator, Producer"
+msgstr "Создатель, администратор, продюсер"
+
+#: mjvartorg/templates/about.mako:31
+msgid "Main moderator"
+msgstr "Главный модератор"
+
+#: mjvartorg/templates/about.mako:33
+msgid "Moderator"
+msgstr "Модератор"
+
+#: mjvartorg/templates/about.mako:39
+msgid "Commiters:"
+msgstr "Коммитеры:"
+
+#: mjvartorg/templates/about.mako:43
+msgid "Honored commiter"
+msgstr "Заслуженный коммитер"
+
+#: mjvartorg/templates/about.mako:47
+msgid "The French translation team:"
+msgstr "Комманда переводчиков на французкий язык:"
+
+#: mjvartorg/templates/about.mako:55
+msgid "The Japanese translation team:"
+msgstr "Комманда переводчиков на японский язык:"
+
+#: mjvartorg/templates/about.mako:63
+msgid "German translation team:"
+msgstr "Комманда переводчиков на немецкий язык:"
+
+#: mjvartorg/templates/about.mako:71
+msgid "People who helped the site before:"
+msgstr "Люди, помогавшие сайту ранее:"
+
+#: mjvartorg/templates/all_users.mako:6 mjvartorg/templates/all_users.mako:29
+msgid "All users"
+msgstr "Все пользователи"
+
+#: mjvartorg/templates/android_app.mako:6
+#: mjvartorg/templates/android_app.mako:17
+msgid "Android app"
+msgstr "Андроид приложение"
+
+#: mjvartorg/templates/android_app.mako:19
+msgid "Because Google Play removed our app we forced to publish app here."
+msgstr ""
+"Так как Google Play удалил наше приложение, то теперь мы распространяем "
+"его здесь."
+
+#: mjvartorg/templates/android_app.mako:20
+msgid "About ALL problems with app please write here:"
+msgstr "По ВСЕМ проблемам с приложением пожалуйста пишите сюда:"
+
+#: mjvartorg/templates/android_app.mako:22
+msgid "Last version:"
+msgstr "Последняя версия:"
+
+#: mjvartorg/templates/android_app.mako:28
+msgid "Download app"
+msgstr "Скачать приложение"
+
+#: mjvartorg/templates/android_app.mako:31
+msgid ""
+"For install app you need enable \"Unknown Sources\" in settings. After "
+"that you can download and open apk file."
+msgstr ""
+"Для установки приложения необходим включить \"Неизвестные Источники\" в "
+"настройках.После чего вы можете скачать и установить приложение."
+
+#: mjvartorg/templates/android_app.mako:32
+msgid "Sometimes you need remove old our app."
+msgstr "Иногда вам нужно удалить ваше старое приложение."
+
+#: mjvartorg/templates/android_app.mako:37
+msgid "Changelog"
+msgstr "Изменения"
+
+#: mjvartorg/templates/bone.mako:72 mjvartorg/templates/index.mako:10
+#: mjvartorg/templates/moderator_statistic.mako:10
+msgid ""
+"Anime pictures and wallpapers with a unique search for free. More than "
+"100,000 pictures"
+msgstr ""
+"Аниме картинки и обои с уникальным поиском бесплатно. Более 500,000 "
+"картинок. Для зарегистрированных пользователей генерируются "
+"рекомендованные к просмотру аниме обои и аниме картинки на базе "
+"предпочтений пользователя."
+
+#: mjvartorg/templates/bone.mako:108
+msgid "Ok"
+msgstr ""
+
+#: mjvartorg/templates/bone.mako:109
+#: mjvartorg/templates/jvwall/edit_tag.mako:94
+#: mjvartorg/templates/jvwall/edit_tag.mako:128
+msgid "Error"
+msgstr "Ошибка"
+
+#: mjvartorg/templates/bone.mako:110
+#: mjvartorg/templates/jvwall/post_body.mako:218
+msgid "Download picture"
+msgstr "Скачать картинку"
+
+#: mjvartorg/templates/bone.mako:111
+#: mjvartorg/templates/jvwall/edit_tag.mako:90
+msgid "Done"
+msgstr "Выполнено"
+
+#: mjvartorg/templates/bone.mako:112
+msgid "Cancel"
+msgstr "Отменить"
+
+#: mjvartorg/templates/bone.mako:113
+msgid "WARNING! You add a completely new tag: "
+msgstr "ВНИМАНИЕ! Вы добавляете совершенно новый тег: "
+
+#: mjvartorg/templates/bone.mako:114
+msgid ""
+"ERROR! You should not add new tags. Please choose existing tag. Any "
+"requests please write in comments. Tag:"
+msgstr ""
+"ОШИБКА! Вы не должны добавлять новые теги. Пожалуйста выберите из "
+"существующих. Любые запросы пишите в комментариях. Тег: "
+
+#: mjvartorg/templates/bone.mako:115
+msgid "Remove the tag?"
+msgstr "Удалить тег?"
+
+#: mjvartorg/templates/bone.mako:116
+#: mjvartorg/templates/jvwall/all_tags.mako:52
+#: mjvartorg/templates/jvwall/all_tags.mako:53
+#: mjvartorg/templates/jvwall/post_tags_ajax.mako:44
+msgid "Edit tag"
+msgstr "Редактировать тег"
+
+#: mjvartorg/templates/bone.mako:117
+msgid "Remove area"
+msgstr "Удалить выделение"
+
+#: mjvartorg/templates/bone.mako:118
+#: mjvartorg/templates/jvwall/posts_body_head.mako:21
+msgid "subscribe"
+msgstr "подписаться"
+
+#: mjvartorg/templates/bone.mako:119
+#: mjvartorg/templates/jvwall/posts_body_head.mako:15
+msgid "unsubscribe"
+msgstr "отписаться"
+
+#: mjvartorg/templates/bone.mako:120 mjvartorg/templates/jvwall/posts.mako:10
+msgid "Anime pictures and wallpapers search"
+msgstr "Поиск аниме картинок и обоев"
+
+#: mjvartorg/templates/bone.mako:121
+msgid "but we have problems with next tags:"
+msgstr "но у нас есть проблемы со следующими тегами:"
+
+#: mjvartorg/templates/bone.mako:122
+msgid "unknown tag"
+msgstr "неизвестный тег"
+
+#: mjvartorg/templates/bone.mako:123
+msgid "have already in recommendation"
+msgstr "уже есть в рекомендованных"
+
+#: mjvartorg/templates/bone.mako:124
+msgid "have already on picture"
+msgstr "уже добавлен на картинку"
+
+#: mjvartorg/templates/bone.mako:152 mjvartorg/templates/bone.mako:154
+msgid "Main"
+msgstr "Главная"
+
+#: mjvartorg/templates/bone.mako:158
+msgid "Pictures"
+msgstr "Картинки"
+
+#: mjvartorg/templates/bone.mako:159 mjvartorg/templates/jvwall/post.mako:90
+#: mjvartorg/templates/jvwall/post_body.mako:283
+msgid "Tags"
+msgstr "Теги"
+
+#: mjvartorg/templates/bone.mako:160 mjvartorg/templates/faq.mako:6
+#: mjvartorg/templates/faq.mako:15 mjvartorg/templates/jvwall/add_wall.mako:29
+msgid "FAQ"
+msgstr ""
+
+#: mjvartorg/templates/bone.mako:161 mjvartorg/templates/chat/view.mako:6
+#: mjvartorg/templates/chat/view.mako:10
+msgid "Chat"
+msgstr "Чат"
+
+#: mjvartorg/templates/bone.mako:166
+msgid "About"
+msgstr "О нас"
+
+#: mjvartorg/templates/bone.mako:170 mjvartorg/templates/bone.mako:252
+#: mjvartorg/templates/bone.mako:337
+#: mjvartorg/templates/profile/ext_profile.mako:108
+msgid "Add image"
+msgstr "Добавить изображение"
+
+#: mjvartorg/templates/bone.mako:179 mjvartorg/templates/bone.mako:181
+#: mjvartorg/templates/bone.mako:202
+msgid "New images"
+msgstr "Новые изображения"
+
+#: mjvartorg/templates/bone.mako:193
+msgid "New messages"
+msgstr "Новые сообщения"
+
+#: mjvartorg/templates/bone.mako:214 mjvartorg/templates/bone.mako:267
+msgid "Language"
+msgstr "Язык"
+
+#: mjvartorg/templates/bone.mako:223 mjvartorg/templates/bone.mako:278
+msgid "Theme"
+msgstr "Тема"
+
+#: mjvartorg/templates/bone.mako:234 mjvartorg/templates/bone.mako:250
+msgid "Logout"
+msgstr "Выйти"
+
+#: mjvartorg/templates/bone.mako:248
+msgid "My profile"
+msgstr "Мой профиль"
+
+#: mjvartorg/templates/bone.mako:251 mjvartorg/templates/bone.mako:334
+#: mjvartorg/templates/profile/ext_profile.mako:107
+#: mjvartorg/templates/profile/view.mako:385
+msgid "Settings"
+msgstr "Настройки"
+
+#: mjvartorg/templates/bone.mako:254 mjvartorg/templates/bone.mako:369
+#: mjvartorg/templates/profile/login.mako:6
+#: mjvartorg/templates/profile/login_body.mako:4
+#: mjvartorg/templates/profile/password_recovery.mako:59
+#: mjvartorg/templates/profile/register.mako:91
+#: mjvartorg/templates/profile/view.mako:389
+msgid "Login"
+msgstr "Логин"
+
+#: mjvartorg/templates/bone.mako:256 mjvartorg/templates/bone.mako:400
+#: mjvartorg/templates/jvwall/all_comments.mako:26
+#: mjvartorg/templates/jvwall/post_body.mako:428
+msgid "Comments"
+msgstr "Комментарии"
+
+#: mjvartorg/templates/bone.mako:258 mjvartorg/templates/bone.mako:402
+#: mjvartorg/templates/bone.mako:596
+msgid "Last stars"
+msgstr "Последние звёзды"
+
+#: mjvartorg/templates/bone.mako:259 mjvartorg/templates/bone.mako:404
+#: mjvartorg/templates/jvwall/anime_girls.mako:6
+#: mjvartorg/templates/jvwall/anime_girls.mako:22
+msgid "Anime girls"
+msgstr "Аниме девушки"
+
+#: mjvartorg/templates/bone.mako:296
+msgid ""
+"In the last 24 hours <span "
+"class='sub_menu_number'>{approved_images}</span> approved pictures."
+msgstr ""
+"За последние 24 часа <span "
+"class='sub_menu_number'>{approved_images}</span> принятых картинок."
+
+#: mjvartorg/templates/bone.mako:297
+msgid "New pictures: <span class='sub_menu_number'>{new_pictures}</span>."
+msgstr "Новых картинок: <span class='sub_menu_number'>{new_pictures}</span>."
+
+#: mjvartorg/templates/bone.mako:298
+msgid "In pre public mode: <span class='sub_menu_number'>{pre_images}</span>."
+msgstr "Готово к публикации: <span class='sub_menu_number'>{pre_images}</span>."
+
+#: mjvartorg/templates/bone.mako:299
+msgid "Banned: <span class='sub_menu_number'>{banned_pictures}</span>."
+msgstr "Забаненных: <span class='sub_menu_number'>{banned_pictures}</span>."
+
+#: mjvartorg/templates/bone.mako:322
+msgid "Hello"
+msgstr "Привет"
+
+#: mjvartorg/templates/bone.mako:340
+#: mjvartorg/templates/profile/ext_profile.mako:109
+msgid "Your own wallpapers "
+msgstr "Ваши изображения"
+
+#: mjvartorg/templates/bone.mako:343
+#: mjvartorg/templates/profile/ext_profile.mako:110
+msgid "Your own stars"
+msgstr "Ваши звёзды"
+
+#: mjvartorg/templates/bone.mako:346
+#: mjvartorg/templates/profile/ext_profile.mako:111
+msgid "Comments for your posts"
+msgstr "Комментарии к вашим картинкам"
+
+#: mjvartorg/templates/bone.mako:349
+#: mjvartorg/templates/profile/ext_profile.mako:112
+msgid "Recommend tags"
+msgstr "Рекомендованные теги"
+
+#: mjvartorg/templates/bone.mako:352
+#: mjvartorg/templates/jvwall/accepted_pre_tags.mako:6
+#: mjvartorg/templates/profile/ext_profile.mako:113
+msgid "Accepted recommend tags"
+msgstr "Принятые рек. тег"
+
+#: mjvartorg/templates/bone.mako:356
+#: mjvartorg/templates/jvwall/moderating_pre_tags.mako:6
+#: mjvartorg/templates/jvwall/moderating_pre_tags.mako:79
+#: mjvartorg/templates/profile/ext_profile.mako:116
+msgid "Moderating recommend tags"
+msgstr "Модерирование рек. тегов"
+
+#: mjvartorg/templates/bone.mako:359
+#: mjvartorg/templates/jvwall/tags_history.mako:6
+#: mjvartorg/templates/jvwall/tags_history.mako:22
+#: mjvartorg/templates/profile/ext_profile.mako:117
+msgid "Tags history"
+msgstr "История тегов"
+
+#: mjvartorg/templates/bone.mako:362
+msgid "Tags changes"
+msgstr "Изменения тегов"
+
+#: mjvartorg/templates/bone.mako:373
+#: mjvartorg/templates/profile/login_body.mako:13
+msgid "Username"
+msgstr "Имя"
+
+#: mjvartorg/templates/bone.mako:374
+#: mjvartorg/templates/profile/login_body.mako:19
+#: mjvartorg/templates/profile/register.mako:96
+msgid "Password"
+msgstr "Пароль"
+
+#: mjvartorg/templates/bone.mako:378
+#: mjvartorg/templates/jvwall/add_wall.mako:27
+#: mjvartorg/templates/profile/login_body.mako:27
+#: mjvartorg/templates/profile/password_recovery.mako:73
+msgid "Submit"
+msgstr "Отправить"
+
+#: mjvartorg/templates/bone.mako:379
+#: mjvartorg/templates/profile/login_body.mako:28
+msgid "Registration"
+msgstr "Регистрация"
+
+#: mjvartorg/templates/bone.mako:383
+#: mjvartorg/templates/profile/login_body.mako:32
+msgid "Enter through"
+msgstr "Войти через"
+
+#: mjvartorg/templates/bone.mako:391
+#: mjvartorg/templates/profile/login_body.mako:40
+msgid "Recovery password"
+msgstr "Востановление пароля"
+
+#: mjvartorg/templates/bone.mako:403
+msgid "Pre pictures"
+msgstr "Предварительные картинки"
+
+#: mjvartorg/templates/bone.mako:406
+msgid "Moderators statistic"
+msgstr "Статистика модераторов"
+
+#: mjvartorg/templates/bone.mako:431
+#: mjvartorg/templates/jvwall/all_tags.mako:101
+#: mjvartorg/templates/jvwall/tag_changes.mako:33
+#: mjvartorg/templates/std.mako:866
+msgid "Search"
+msgstr "Искать"
+
+#: mjvartorg/templates/bone.mako:440 mjvartorg/templates/profile/view.mako:519
+msgid "Subscribed tags"
+msgstr "Отслеживаемые теги"
+
+#: mjvartorg/templates/bone.mako:440
+msgid "all pics"
+msgstr "все картинки"
+
+#: mjvartorg/templates/bone.mako:461
+msgid "Now watching"
+msgstr "Сейчас смотрят"
+
+#: mjvartorg/templates/bone.mako:475
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: mjvartorg/templates/bone.mako:499
+msgid "Desktop version"
+msgstr "Версия для ПК"
+
+#: mjvartorg/templates/bone.mako:502
+msgid "Mobile version"
+msgstr "Мобильная версия"
+
+#: mjvartorg/templates/bone.mako:597 mjvartorg/templates/index.mako:102
+#: mjvartorg/templates/index.mako:128
+#: mjvartorg/templates/profile/ext_profile.mako:130
+msgid "all"
+msgstr "все"
+
+#: mjvartorg/templates/faq.mako:20 mjvartorg/templates/jvwall/all_tags.mako:29
+#: mjvartorg/templates/std.mako:497 mjvartorg/templates/std.mako:515
+msgid "Edit"
+msgstr "Редактировать"
+
+#: mjvartorg/templates/index.mako:6
+#: mjvartorg/templates/moderator_statistic.mako:6
+msgid "Anime pictures and wallpapers"
+msgstr "Аниме картинки и обои"
+
+#: mjvartorg/templates/index.mako:29
+#: mjvartorg/templates/jvwall/posts_mrss.mako:7
+#: mjvartorg/templates/jvwall/posts_rss.mako:8
+msgid "Anime pictures and wallpapers for everyone!"
+msgstr "Аниме картинки и обои на любой вкус!"
+
+#: mjvartorg/templates/index.mako:30
+msgid ""
+"You can see a lot of pictures, upload your, track trends, and "
+"communicate! We want to make the best collection Modern Asian fine art."
+msgstr ""
+"Вы можете смотреть сотни тысяч аниме картинок, загружать свои, "
+"отслеживать тренды и общаться! Мы хотим создать лучшую коллекцию "
+"Современного Азиатского графического искусства."
+
+#: mjvartorg/templates/index.mako:35
+msgid "Last pictures"
+msgstr "Последние картинки"
+
+#: mjvartorg/templates/index.mako:41
+msgid "Last messages from chat"
+msgstr "Последние сообщения из чата"
+
+#: mjvartorg/templates/index.mako:50
+msgid "Highest rated anime pictures of the day"
+msgstr "Наиболее популярные картинки за день"
+
+#: mjvartorg/templates/index.mako:52
+msgid "erotics top"
+msgstr "эротический рейтинг"
+
+#: mjvartorg/templates/index.mako:58
+msgid "Highest rated anime pictures of the week"
+msgstr "Наиболее популярные картинки за неделю"
+
+#: mjvartorg/templates/index.mako:102
+msgid "TOP users"
+msgstr "ТОП пользователей"
+
+#: mjvartorg/templates/index.mako:128
+msgid "Last comments"
+msgstr "Последние комментарии"
+
+#: mjvartorg/templates/index.mako:149
+msgid "TOP moderators"
+msgstr "ТОП модераторов:"
+
+#: mjvartorg/templates/moderator_statistic.mako:210
+msgid "Filters"
+msgstr "Фильтры"
+
+#: mjvartorg/templates/moderator_statistic.mako:214
+msgid "type"
+msgstr "тип"
+
+#: mjvartorg/templates/moderator_statistic.mako:217
+msgid "posts"
+msgstr "посты"
+
+#: mjvartorg/templates/moderator_statistic.mako:218
+msgid "tags"
+msgstr "теги"
+
+#: mjvartorg/templates/moderator_statistic.mako:223
+msgid "interval"
+msgstr "интервал"
+
+#: mjvartorg/templates/moderator_statistic.mako:226
+msgid "month"
+msgstr "месяц"
+
+#: mjvartorg/templates/moderator_statistic.mako:227
+msgid "week"
+msgstr "неделя"
+
+#: mjvartorg/templates/moderator_statistic.mako:228
+msgid "day"
+msgstr "день"
+
+#: mjvartorg/templates/moderator_statistic.mako:233
+#: mjvartorg/templates/std.mako:801
+msgid "by date"
+msgstr "по дате"
+
+#: mjvartorg/templates/moderator_statistic.mako:236
+msgid "1 month"
+msgstr "1 месяц"
+
+#: mjvartorg/templates/moderator_statistic.mako:237
+msgid "3 month"
+msgstr "3 месяца"
+
+#: mjvartorg/templates/moderator_statistic.mako:238
+msgid "6 month"
+msgstr "6 месяцев"
+
+#: mjvartorg/templates/moderator_statistic.mako:239
+msgid "1 year"
+msgstr "1 год"
+
+#: mjvartorg/templates/moderator_statistic.mako:240
+msgid "2 year"
+msgstr "2 года"
+
+#: mjvartorg/templates/moderator_statistic.mako:241
+msgid "3 year"
+msgstr "3 года"
+
+#: mjvartorg/templates/moderator_statistic.mako:246
+msgid "only public"
+msgstr "только опубликованные"
+
+#: mjvartorg/templates/moderator_statistic.mako:253
+msgid "Update"
+msgstr "Обновить"
+
+#: mjvartorg/templates/moderator_statistic.mako:261
+msgid "Statistic"
+msgstr "Статистика"
+
+#: mjvartorg/templates/privacy_policy.mako:6
+#: mjvartorg/templates/privacy_policy.mako:14
+msgid "Privacy Policy"
+msgstr ""
+
+#: mjvartorg/templates/jvwall/post.mako:9
+#: mjvartorg/templates/jvwall/post.mako:21
+#: mjvartorg/templates/jvwall/post_body.mako:56
+#: mjvartorg/templates/jvwall/post_body.mako:258
+#: mjvartorg/templates/jvwall/post_body.mako:274
+#: mjvartorg/templates/std.mako:234 mjvartorg/templates/std.mako:315
+#: mjvartorg/templates/std.mako:363 mjvartorg/templates/std.mako:536
+#: mjvartorg/templates/std.mako:550 mjvartorg/templates/std.mako:575
+#: mjvartorg/templates/std.mako:595
+msgid "Anime picture"
+msgstr "Аниме картинка"
+
+#: mjvartorg/templates/std.mako:268 mjvartorg/templates/std.mako:399
+msgid "Anime pictures"
+msgstr "Аниме картинки"
+
+#: mjvartorg/templates/std.mako:287 mjvartorg/templates/std.mako:343
+#: mjvartorg/templates/std.mako:418
+msgid "SPOILERS"
+msgstr "СПОЙЛЕРЫ"
+
+#: mjvartorg/templates/std.mako:290 mjvartorg/templates/std.mako:422
+msgid "TAGME"
+msgstr "ПРОТЕГИРУЙ"
+
+#: mjvartorg/templates/std.mako:292 mjvartorg/templates/std.mako:424
+msgid "PRE"
+msgstr "ПРЕ"
+
+#: mjvartorg/templates/std.mako:294 mjvartorg/templates/std.mako:426
+msgid "NEW"
+msgstr "НОВАЯ"
+
+#: mjvartorg/templates/std.mako:296 mjvartorg/templates/std.mako:428
+msgid "BAN"
+msgstr "ЗАБАНЕНА"
+
+#: mjvartorg/templates/std.mako:299 mjvartorg/templates/std.mako:431
+msgid "Log in!"
+msgstr "Войди!"
+
+#: mjvartorg/templates/std.mako:350
+msgid "remove"
+msgstr "удалить"
+
+#: mjvartorg/templates/std.mako:440
+msgid "Anime pictures with tag"
+msgstr "Аниме картинки с тегом"
+
+#: mjvartorg/templates/std.mako:516
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: mjvartorg/templates/jvwall/moderating_pre_tags.mako:103
+#: mjvartorg/templates/jvwall/pre_tags.mako:64 mjvartorg/templates/std.mako:516
+msgid "Delete"
+msgstr "Удалить"
+
+#: mjvartorg/templates/std.mako:605
+msgid "Page"
+msgstr "страница"
+
+#: mjvartorg/templates/std.mako:607
+msgid "page of"
+msgstr "из"
+
+#: mjvartorg/templates/std.mako:727
+#, python-format
+msgid "Tags (separated by %s or %s, no spaces)"
+msgstr "Теги (разделитель %s или %s)"
+
+#: mjvartorg/templates/profile/view.mako:479 mjvartorg/templates/std.mako:730
+msgid "Prohibited Tags"
+msgstr "Запрещённые теги"
+
+#: mjvartorg/templates/jvwall/post_body.mako:87
+#: mjvartorg/templates/std.mako:740
+msgid "Resolution"
+msgstr "Разрешение"
+
+#: mjvartorg/templates/std.mako:745
+msgid "Auto"
+msgstr "Авто"
+
+#: mjvartorg/templates/std.mako:754
+msgid "Aspect ratio"
+msgstr "Соотношение сторон"
+
+#: mjvartorg/templates/std.mako:756
+msgid "common"
+msgstr "стандартные"
+
+#: mjvartorg/templates/std.mako:780
+msgid "square"
+msgstr "квадрат"
+
+#: mjvartorg/templates/std.mako:794
+msgid "Sortings"
+msgstr "Сортировки"
+
+#: mjvartorg/templates/std.mako:798
+msgid "by star date"
+msgstr "по дате звезды"
+
+#: mjvartorg/templates/std.mako:803
+msgid "by date (revers)"
+msgstr "по дате (обратно)"
+
+#: mjvartorg/templates/std.mako:805
+msgid "by rating"
+msgstr "по рейтингу"
+
+#: mjvartorg/templates/std.mako:807
+msgid "by downloads"
+msgstr "по скачиваниям"
+
+#: mjvartorg/templates/std.mako:809
+msgid "by size"
+msgstr "по размеру"
+
+#: mjvartorg/templates/std.mako:811
+msgid "by tag count"
+msgstr "по количеству тегов"
+
+#: mjvartorg/templates/std.mako:813
+msgid "How recent"
+msgstr "За какое время"
+
+#: mjvartorg/templates/std.mako:815
+msgid "anytime"
+msgstr "всё"
+
+#: mjvartorg/templates/std.mako:816
+msgid "past day"
+msgstr "последний день"
+
+#: mjvartorg/templates/std.mako:817
+msgid "past week"
+msgstr "последняя неделя"
+
+#: mjvartorg/templates/std.mako:818
+msgid "past month"
+msgstr "последний месяц"
+
+#: mjvartorg/templates/std.mako:826
+msgid "small preview"
+msgstr "маленькое превью"
+
+#: mjvartorg/templates/std.mako:828
+msgid "Show"
+msgstr "Показывать"
+
+#: mjvartorg/templates/std.mako:831
+msgid "big preview"
+msgstr "большое превью"
+
+#: mjvartorg/templates/std.mako:835
+msgid "disable moderators images"
+msgstr "откл. картинки модераторов"
+
+#: mjvartorg/templates/std.mako:836
+msgid "Extension"
+msgstr "Расширения"
+
+#: mjvartorg/templates/jvwall/post_body.mako:97
+#: mjvartorg/templates/jvwall/posts.mako:8 mjvartorg/templates/std.mako:847
+msgid "Color"
+msgstr "Цвет"
+
+#: mjvartorg/templates/std.mako:850
+msgid "clear"
+msgstr "очистить"
+
+#: mjvartorg/templates/std.mako:856
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: mjvartorg/templates/chat/users.mako:21 mjvartorg/templates/chat/view.mako:74
+msgid "profile"
+msgstr "профиль"
+
+#: mjvartorg/templates/chat/users.mako:24
+#, python-format
+msgid "Not live %i minuts"
+msgstr "Мёртв %i минут"
+
+#: mjvartorg/templates/chat/view.mako:83
+#: mjvartorg/templates/profile/register.mako:111
+msgid "Send"
+msgstr "Отправить"
+
+#: mjvartorg/templates/chat/view.mako:97
+msgid "Chat users"
+msgstr "Пользователи в чате"
+
+#: mjvartorg/templates/jvwall/accepted_pre_tags.mako:22
+#: mjvartorg/templates/jvwall/pre_tags.mako:6
+#: mjvartorg/templates/jvwall/pre_tags.mako:48
+msgid "Your recommend tags"
+msgstr "Ваши рек. теги"
+
+#: mjvartorg/templates/jvwall/accepted_pre_tags.mako:32
+#: mjvartorg/templates/jvwall/all_comments.mako:6
+#: mjvartorg/templates/jvwall/moderating_pre_tags.mako:98
+#: mjvartorg/templates/jvwall/post.mako:7
+#: mjvartorg/templates/jvwall/post.mako:19
+#: mjvartorg/templates/jvwall/post_body.mako:54
+#: mjvartorg/templates/jvwall/pre_tags.mako:58
+#: mjvartorg/templates/jvwall/scores.mako:37
+#: mjvartorg/templates/jvwall/tag_changes.mako:6
+#: mjvartorg/templates/jvwall/tags_history.mako:32
+#: mjvartorg/templates/profile/comments_for_your_posts.mako:6
+#: mjvartorg/templates/profile/register.mako:6
+msgid "Anime wallpaper"
+msgstr "Аниме обои"
+
+#: mjvartorg/templates/jvwall/add_wall.mako:6
+#: mjvartorg/templates/jvwall/add_wall.mako:19
+msgid "Add pictures"
+msgstr "Добавить картинки"
+
+#: mjvartorg/templates/jvwall/add_wall.mako:21
+#, python-format
+msgid "You have %i unproven pictures you can still upload %i"
+msgstr "У вас есть %i не проверенных картинок, вы можете загрузить %i"
+
+#: mjvartorg/templates/jvwall/add_wall.mako:24
+msgid "Picture"
+msgstr "Картинка"
+
+#: mjvartorg/templates/jvwall/add_wall.mako:31
+msgid "You need set file for upload"
+msgstr "Вам нужно указать файл для загрузки"
+
+#: mjvartorg/templates/jvwall/after_add_wall.mako:6
+msgid "Add wallpapers"
+msgstr "Добавить обои"
+
+#: mjvartorg/templates/jvwall/after_add_wall.mako:19
+msgid "You wallpapers"
+msgstr "Ваши обои"
+
+#: mjvartorg/templates/jvwall/after_add_wall.mako:22
+msgid "Image"
+msgstr "Картинка"
+
+#: mjvartorg/templates/jvwall/after_add_wall.mako:29
+msgid "Sucess"
+msgstr "Готово"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:6
+msgid "All tags"
+msgstr "Все теги"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:21
+msgid "id"
+msgstr ""
+
+#: mjvartorg/templates/jvwall/all_tags.mako:22
+msgid "English"
+msgstr "Английский"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:23
+msgid "Russian"
+msgstr "Русский"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:24
+msgid "Japan"
+msgstr "Японский"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:25
+msgid "Type"
+msgstr "Тип"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:26
+msgid "Count"
+msgstr "Количество"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:27
+msgid "Views"
+msgstr "Просмотры"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:69
+msgid "Searching tag options"
+msgstr "Настройки поиска тега"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:72
+#: mjvartorg/templates/jvwall/tag_changes.mako:39
+msgid "Tag"
+msgstr "Тег"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:74
+msgid "Tag description"
+msgstr "Описание тегов"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:77
+msgid "Sort by count"
+msgstr "Сортировка по количеству"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:79
+msgid "Sort by views"
+msgstr "Сортировка по просмотрам"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:81
+msgid "Only alias"
+msgstr "Только синонимы (алиасы)"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:82
+msgid "Sort by type"
+msgstr "Сортировка по типу"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:84 thandler/base.py:119
+msgid "unknown"
+msgstr "неизвестно"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:86 thandler/base.py:120
+msgid "character"
+msgstr "персонаж"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:88 thandler/base.py:121
+msgid "reference"
+msgstr "описание"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:90 thandler/base.py:126
+msgid "object"
+msgstr "объект"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:93 thandler/base.py:122
+msgid "copyright (product)"
+msgstr "копирайт (продукт)"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:95 thandler/base.py:124
+msgid "game copyright"
+msgstr "игровой копирайт"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:97 thandler/base.py:125
+msgid "other copyright"
+msgstr "иной копирайт"
+
+#: mjvartorg/templates/jvwall/all_tags.mako:99 thandler/base.py:123
+msgid "author"
+msgstr "автор"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:143
+#: mjvartorg/templates/jvwall/edit_tag.mako:149
+msgid "You are sure?"
+msgstr "Вы уверены?"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:149
+msgid "Save new parent before use!"
+msgstr "Сохраните нового родителя прежде чем продолжить!"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:174
+msgid "Tag ID"
+msgstr ""
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:175
+msgid "Merge to"
+msgstr "Объединить с"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:177
+msgid "Merge"
+msgstr "Объединить"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:183
+msgid "Tag type"
+msgstr "Тип тега"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:205
+msgid "Alias"
+msgstr "Синоним"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:209
+msgid "Parent"
+msgstr "Родитель"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:214
+msgid "Apply parent"
+msgstr "Установить родителя"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:216
+#: mjvartorg/templates/profile/view.mako:466
+#: mjvartorg/templates/profile/view.mako:498
+msgid "Apply"
+msgstr "Применить"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:221
+msgid "English name (strict)"
+msgstr "Английское название (обязательно)"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:225
+msgid "Russian name"
+msgstr "Русское название"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:229
+msgid "Japanese name"
+msgstr "Японское название"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:234
+msgid "English description"
+msgstr "Английское описание"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:236
+msgid "Russian description"
+msgstr "Русское описание"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:238
+msgid "Japnese description"
+msgstr "Японские описание"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:240
+msgid "Save"
+msgstr "Сохранить"
+
+#: mjvartorg/templates/jvwall/edit_tag.mako:240
+msgid "Cancle"
+msgstr "Отменить"
+
+#: mjvartorg/templates/jvwall/moderating_pre_tags.mako:70
+msgid "Order by"
+msgstr "Сортировка по"
+
+#: mjvartorg/templates/jvwall/moderating_pre_tags.mako:106
+msgid "Accept"
+msgstr "Принять"
+
+#: mjvartorg/templates/jvwall/post.mako:92
+#: mjvartorg/templates/jvwall/post_body.mako:285
+msgid "About tag(desc)"
+msgstr ""
+"Что такое теги? Это описание изображения. Именно по ним происходит поиск "
+"на сайте. Если вы загрузили изображение в этом блоке то вы должны "
+"добавлять теги. Только после этого ваше изображение будет доступно для "
+"всех. Старайтесь описать всё, что увидите на картинке."
+
+#: mjvartorg/templates/jvwall/post.mako:99
+#: mjvartorg/templates/jvwall/post_body.mako:291
+msgid "Add tag"
+msgstr "Добавить тег"
+
+#: mjvartorg/templates/jvwall/post.mako:101
+#: mjvartorg/templates/jvwall/post.mako:113
+#: mjvartorg/templates/jvwall/post_body.mako:152
+#: mjvartorg/templates/jvwall/post_body.mako:161
+#: mjvartorg/templates/jvwall/post_body.mako:175
+#: mjvartorg/templates/jvwall/post_body.mako:293
+#: mjvartorg/templates/jvwall/post_body.mako:305
+#: mjvartorg/templates/jvwall/post_body.mako:454
+#: mjvartorg/templates/profile/view.mako:512
+#: mjvartorg/templates/profile/view.mako:534
+msgid "Add"
+msgstr "Добавить"
+
+#: mjvartorg/templates/jvwall/post.mako:101
+#: mjvartorg/templates/jvwall/post_body.mako:293
+msgid "New tags can be added only in English!"
+msgstr "Новый тег можно добавлять только на Английском!"
+
+#: mjvartorg/templates/jvwall/post.mako:102
+#: mjvartorg/templates/jvwall/post.mako:110
+#: mjvartorg/templates/jvwall/post_body.mako:294
+#: mjvartorg/templates/jvwall/post_body.mako:302
+msgid "Recommend tag"
+msgstr "Рекомендация тегов"
+
+#: mjvartorg/templates/jvwall/post.mako:113
+#: mjvartorg/templates/jvwall/post_body.mako:305
+msgid "You can`t recommend new tags"
+msgstr "Вы можете рекомендовать новые теги"
+
+#: mjvartorg/templates/jvwall/post_body.mako:7
+msgid ""
+"Your wallpaper will be available to others only after verification by the"
+" moderator"
+msgstr "Ваша картинка будет доступна другим только после проверки модератором"
+
+#: mjvartorg/templates/jvwall/post_body.mako:8
+#: mjvartorg/templates/jvwall/post_body.mako:14
+msgid "Remember to tag your picture with a basic tag set"
+msgstr "Не забудьте проставить базовый набор тегов"
+
+#: mjvartorg/templates/jvwall/post_body.mako:21
+msgid "These wallpapers are banned:"
+msgstr "Эти обои забанены:"
+
+#: mjvartorg/templates/jvwall/post_body.mako:23
+#: mjvartorg/templates/jvwall/post_body.mako:41
+#: mjvartorg/templates/jvwall/post_body.mako:126
+msgid "Unknown"
+msgstr "Неизвестный"
+
+#: mjvartorg/templates/jvwall/post_body.mako:25
+#: mjvartorg/templates/jvwall/post_body.mako:127
+msgid "Poor quality"
+msgstr "Плохое качество"
+
+#: mjvartorg/templates/jvwall/post_body.mako:27
+#: mjvartorg/templates/jvwall/post_body.mako:128
+msgid "Duplicate"
+msgstr "Дубликат"
+
+#: mjvartorg/templates/jvwall/post_body.mako:29
+#: mjvartorg/templates/jvwall/post_body.mako:129
+msgid "Not subjects of a site"
+msgstr "Не формат сайта"
+
+#: mjvartorg/templates/jvwall/post_body.mako:31
+#: mjvartorg/templates/jvwall/post_body.mako:130
+msgid "The author's request"
+msgstr "По запросу автора"
+
+#: mjvartorg/templates/jvwall/post_body.mako:33
+#: mjvartorg/templates/jvwall/post_body.mako:131
+msgid "Upscale"
+msgstr "Апскейл"
+
+#: mjvartorg/templates/jvwall/post_body.mako:35
+#: mjvartorg/templates/jvwall/post_body.mako:133
+msgid "Screenshot"
+msgstr "Скриншот"
+
+#: mjvartorg/templates/jvwall/post_body.mako:37
+#: mjvartorg/templates/jvwall/post_body.mako:132
+msgid "Downscale"
+msgstr "Даунскейл"
+
+#: mjvartorg/templates/jvwall/post_body.mako:39
+#: mjvartorg/templates/jvwall/post_body.mako:134
+msgid "Cropping"
+msgstr "Обрезка"
+
+#: mjvartorg/templates/jvwall/post_body.mako:45
+msgid "best"
+msgstr "лучше"
+
+#: mjvartorg/templates/jvwall/post_body.mako:66
+msgid "Delete pictures?"
+msgstr "Удалить картинку?"
+
+#: mjvartorg/templates/jvwall/post_body.mako:71
+msgid "Posted by"
+msgstr "Автор публикации"
+
+#: mjvartorg/templates/jvwall/post_body.mako:81
+msgid "Current status set by"
+msgstr "Текущий статус выставил"
+
+#: mjvartorg/templates/jvwall/post_body.mako:84
+msgid "Date Upload"
+msgstr "Дата загрузки"
+
+#: mjvartorg/templates/jvwall/post_body.mako:85
+msgid "Date Published"
+msgstr "Дата публикации"
+
+#: mjvartorg/templates/jvwall/post_body.mako:86
+msgid "Downloads"
+msgstr "Скачиваний"
+
+#: mjvartorg/templates/jvwall/post_body.mako:89
+#: mjvartorg/templates/jvwall/post_body.mako:99
+msgid "Anime wallpapers"
+msgstr "Аниме обои"
+
+#: mjvartorg/templates/jvwall/post_body.mako:96
+msgid "Size"
+msgstr "Размер"
+
+#: mjvartorg/templates/jvwall/post_body.mako:104
+msgid "Artefacts Degree"
+msgstr "Артефактность"
+
+#: mjvartorg/templates/jvwall/post_body.mako:105
+msgid "Smooth Degree"
+msgstr "Размытость"
+
+#: mjvartorg/templates/jvwall/post_body.mako:106
+msgid "Complex"
+msgstr "Общий"
+
+#: mjvartorg/templates/jvwall/post_body.mako:120
+msgid "New"
+msgstr "Новый"
+
+#: mjvartorg/templates/jvwall/post_body.mako:121
+msgid "Pre public"
+msgstr "Пред публичный"
+
+#: mjvartorg/templates/jvwall/post_body.mako:122
+msgid "Public"
+msgstr "Публичный"
+
+#: mjvartorg/templates/jvwall/post_body.mako:123
+msgid "Banned"
+msgstr "Забанены"
+
+#: mjvartorg/templates/jvwall/post_body.mako:136
+msgid "Redirect ID..."
+msgstr ""
+
+#: mjvartorg/templates/jvwall/post_body.mako:137
+#: mjvartorg/templates/profile/ext_profile.mako:76
+#: mjvartorg/templates/profile/ext_profile.mako:87
+msgid "Set"
+msgstr "Выставить"
+
+#: mjvartorg/templates/jvwall/post_body.mako:141
+msgid "Erotic integer"
+msgstr "Значение эротики"
+
+#: mjvartorg/templates/jvwall/post_body.mako:142
+msgid "Spoiler"
+msgstr "Спойлер"
+
+#: mjvartorg/templates/jvwall/post_body.mako:144
+msgid "Position"
+msgstr "Позиция"
+
+#: mjvartorg/templates/jvwall/post_body.mako:148
+msgid "Number of posts, from where you need to add tags"
+msgstr "Номер поста откуда нужно добавить теги"
+
+#: mjvartorg/templates/jvwall/post_body.mako:157
+msgid "Number of post, from where you want to migrate comments, scores list"
+msgstr "Номер поста откуда нужно перенести комментарии и очки"
+
+#: mjvartorg/templates/jvwall/post_body.mako:170
+msgid "Linked pictures"
+msgstr "Связанные картинки"
+
+#: mjvartorg/templates/jvwall/post_body.mako:174
+msgid "Post ID..."
+msgstr ""
+
+#: mjvartorg/templates/jvwall/post_body.mako:192
+msgid "Unstar it!"
+msgstr "Отзвездить это!"
+
+#: mjvartorg/templates/jvwall/post_body.mako:194
+#: mjvartorg/templates/jvwall/post_body.mako:202
+msgid "Star it!"
+msgstr "Звездануть это!"
+
+#: mjvartorg/templates/jvwall/post_body.mako:206
+msgid "Votes"
+msgstr "Голоса"
+
+#: mjvartorg/templates/jvwall/post_body.mako:231
+msgid "Download anime picture"
+msgstr "Скачать аниме картинку"
+
+#: mjvartorg/templates/jvwall/post_body.mako:231
+#: mjvartorg/templates/jvwall/post_body.mako:259
+#: mjvartorg/templates/jvwall/post_body.mako:274
+msgid "with"
+msgstr "с"
+
+#: mjvartorg/templates/jvwall/post_body.mako:319
+msgid "Favorites for"
+msgstr "Избранное для"
+
+#: mjvartorg/templates/jvwall/post_body.mako:321
+msgid "About favorites(desc)"
+msgstr ""
+"Тут показан список пользователей которые добавили это изображение к себе "
+"в избранное. Если вы авторизованы вы можете добавлять изображения в свои "
+"избранные. Для этого наведите курсор мышки на кнопку \"Не в избранных\"  "
+"и выберите пункт \"Добавить в избранное\"."
+
+#: mjvartorg/templates/jvwall/post_body.mako:336
+msgid "Your favorite"
+msgstr "Ваше избранное"
+
+#: mjvartorg/templates/jvwall/post_body.mako:338
+msgid "Not in favorites"
+msgstr "Не в избранных"
+
+#: mjvartorg/templates/jvwall/post_body.mako:342
+msgid "In favorites"
+msgstr "В избранных"
+
+#: mjvartorg/templates/jvwall/post_body.mako:344
+msgid "Add to favorites"
+msgstr "Добавить в избранные"
+
+#: mjvartorg/templates/jvwall/post_body.mako:349
+msgid "In"
+msgstr "В"
+
+#: mjvartorg/templates/jvwall/post_body.mako:351
+msgid "Add to"
+msgstr "Добавить в"
+
+#: mjvartorg/templates/jvwall/post_body.mako:363
+msgid "Similar to"
+msgstr "Похожа на"
+
+#: mjvartorg/templates/jvwall/post_body.mako:365
+msgid "About similar image(desc)"
+msgstr "В этом блоке показаны похожие изображения по цвету."
+
+#: mjvartorg/templates/jvwall/post_body.mako:384
+msgid "About artists"
+msgstr "Об авторе"
+
+#: mjvartorg/templates/jvwall/post_body.mako:386
+msgid "About artists(desc)"
+msgstr ""
+"Здесь вы можете найти информацию о художнике, который нарисовал данное "
+"изображение."
+
+#: mjvartorg/templates/jvwall/post_body.mako:400
+msgid "Tags descriptions"
+msgstr "Описание тегов"
+
+#: mjvartorg/templates/jvwall/post_body.mako:402
+msgid "Open Description"
+msgstr "Открыть описание"
+
+#: mjvartorg/templates/jvwall/post_body.mako:404
+msgid "Show descriptions"
+msgstr "Показать описание"
+
+#: mjvartorg/templates/jvwall/post_body.mako:409
+msgid "About tag description(desc)"
+msgstr ""
+"Здесь вы можете увидеть описание к тегам. Это поможет вам узнать больше о"
+" каком-либо аниме, персонаже, предмете и т.д."
+
+#: mjvartorg/templates/jvwall/post_body.mako:430
+msgid "About comments(desc)"
+msgstr ""
+"Любой зарегистрированный пользователь может оставить здесь свой "
+"комментарий."
+
+#: mjvartorg/templates/jvwall/post_tags_ajax.mako:32
+msgid "Delete tag"
+msgstr "Удалить тег"
+
+#: mjvartorg/templates/jvwall/post_tags_ajax.mako:37
+msgid "Set tag rect"
+msgstr "Выделение тега на изображении"
+
+#: mjvartorg/templates/jvwall/posts.mako:48
+msgid "Searching options"
+msgstr "Параметры поиска"
+
+#: mjvartorg/templates/jvwall/posts.mako:50
+msgid "About search options(desc)"
+msgstr ""
+"С помощью данного блока вы можете с легкостью найти действительно нужные "
+"вам обои."
+
+#: mjvartorg/templates/jvwall/posts.mako:63
+msgid "Multiaction"
+msgstr "Многодействие"
+
+#: mjvartorg/templates/jvwall/posts.mako:66
+msgid "Add tags"
+msgstr "Добавить тег"
+
+#: mjvartorg/templates/jvwall/posts.mako:68
+msgid "Check all"
+msgstr "Отметить все"
+
+#: mjvartorg/templates/jvwall/posts_ajax.mako:5
+#: mjvartorg/templates/jvwall/posts_body.mako:12
+#, python-format
+msgid "in request %i pictures"
+msgstr "в запросе %i картинок"
+
+#: mjvartorg/templates/jvwall/posts_ajax.mako:27
+msgid "Speed"
+msgstr "Скорость"
+
+#: mjvartorg/templates/jvwall/posts_body_head.mako:27
+msgid "Parent tag"
+msgstr "Родительский тег"
+
+#: mjvartorg/templates/jvwall/posts_body_head.mako:31
+msgid "Aliases tags"
+msgstr "Теги синонимы"
+
+#: mjvartorg/templates/jvwall/posts_body_head.mako:37
+msgid "Child tags"
+msgstr "Дочерние теги"
+
+#: mjvartorg/templates/jvwall/posts_body_head.mako:40
+msgid "open"
+msgstr "развернуть"
+
+#: mjvartorg/templates/jvwall/posts_rss.mako:6
+msgid "New anime picture and wallpapers"
+msgstr "Новые аниме картинки и обои"
+
+#: mjvartorg/templates/jvwall/pre_tags.mako:63
+msgid "Delete recommend tag?"
+msgstr "Удалить рекомендованный тег?"
+
+#: mjvartorg/templates/jvwall/scores.mako:6
+#: mjvartorg/templates/jvwall/scores.mako:22
+msgid "Scores"
+msgstr "Очки"
+
+#: mjvartorg/templates/jvwall/tag_changes.mako:29
+msgid "Tag changes"
+msgstr "Изменения тегов"
+
+#: mjvartorg/templates/jvwall/tag_changes.mako:38
+#: mjvartorg/templates/profile/messages_users.mako:25
+msgid "User"
+msgstr "Пользователь"
+
+#: mjvartorg/templates/jvwall/tag_changes.mako:40
+msgid "Changes"
+msgstr "Изменения"
+
+#: mjvartorg/templates/profile/comments_for_your_posts.mako:22
+msgid "Comments for your images"
+msgstr "Коментарии к вашим картинкам"
+
+#: mjvartorg/templates/profile/ext_profile.mako:6
+#: mjvartorg/templates/profile/ext_profile.mako:19
+msgid "User profile by"
+msgstr "Профиль пользователя"
+
+#: mjvartorg/templates/profile/ext_profile.mako:23
+#: mjvartorg/templates/profile/view.mako:400
+msgid "Avatar"
+msgstr "Аватар"
+
+#: mjvartorg/templates/profile/ext_profile.mako:34
+msgid "Registration Date"
+msgstr "Дата регистрации"
+
+#: mjvartorg/templates/profile/ext_profile.mako:39
+#: mjvartorg/templates/profile/view.mako:441
+msgid "Gender"
+msgstr "Пол"
+
+#: mjvartorg/templates/profile/ext_profile.mako:40
+#: mjvartorg/templates/profile/view.mako:445
+msgid "Male"
+msgstr "Мужской"
+
+#: mjvartorg/templates/profile/ext_profile.mako:40
+#: mjvartorg/templates/profile/view.mako:446
+msgid "Female"
+msgstr "Женский"
+
+#: mjvartorg/templates/profile/ext_profile.mako:40
+#: mjvartorg/templates/profile/view.mako:444
+msgid "Unknow"
+msgstr "Неизвестно"
+
+#: mjvartorg/templates/profile/ext_profile.mako:43
+msgid "Years old"
+msgstr "Возраст"
+
+#: mjvartorg/templates/profile/ext_profile.mako:53
+msgid "Site score"
+msgstr "Очки на сайте"
+
+#: mjvartorg/templates/profile/ext_profile.mako:57
+msgid "Accepted tags"
+msgstr "Принятые теги"
+
+#: mjvartorg/templates/profile/ext_profile.mako:63
+#: mjvartorg/templates/profile/password_recovery.mako:65
+#: mjvartorg/templates/profile/register.mako:106
+#: mjvartorg/templates/profile/view.mako:416
+msgid "Email"
+msgstr ""
+
+#: mjvartorg/templates/profile/ext_profile.mako:67
+msgid "Enabled"
+msgstr "Включен"
+
+#: mjvartorg/templates/profile/ext_profile.mako:72
+msgid "Upload limit"
+msgstr "Лимит загрузок"
+
+#: mjvartorg/templates/profile/ext_profile.mako:83
+msgid "Groups"
+msgstr "Группы"
+
+#: mjvartorg/templates/profile/ext_profile.mako:94
+msgid "Actions"
+msgstr "Действия"
+
+#: mjvartorg/templates/profile/ext_profile.mako:96
+msgid "Sending a message"
+msgstr "Отправить сообщение"
+
+#: mjvartorg/templates/profile/ext_profile.mako:97
+msgid "Images by"
+msgstr "Картинки от"
+
+#: mjvartorg/templates/profile/ext_profile.mako:98
+msgid "Comments by"
+msgstr "Комментарии пользователя"
+
+#: mjvartorg/templates/profile/ext_profile.mako:99
+msgid "Stars by"
+msgstr "Звёзды от"
+
+#: mjvartorg/templates/profile/ext_profile.mako:104
+msgid "You action"
+msgstr "Ваши действия"
+
+#: mjvartorg/templates/profile/ext_profile.mako:127
+msgid "Last favorites"
+msgstr "Последние избранные"
+
+#: mjvartorg/templates/profile/ext_profile.mako:129
+msgid "default"
+msgstr ""
+
+#: mjvartorg/templates/profile/ext_profile.mako:148
+msgid "Approved pictures"
+msgstr "Проверенные картинки"
+
+#: mjvartorg/templates/profile/ext_profile.mako:156
+msgid "Most downloaded image"
+msgstr "Наиболее скачиваемая картинка"
+
+#: mjvartorg/templates/profile/ext_profile.mako:164
+#: mjvartorg/templates/profile/ext_profile.mako:178
+msgid "Empty"
+msgstr "Пусто"
+
+#: mjvartorg/templates/profile/ext_profile.mako:170
+msgid "Most popular image"
+msgstr "Наиболее популярные картинки"
+
+#: mjvartorg/templates/profile/ext_profile.mako:184
+msgid "All downloads"
+msgstr "Всех скачек"
+
+#: mjvartorg/templates/profile/ext_profile.mako:192
+msgid "All stars"
+msgstr "Все звёзды"
+
+#: mjvartorg/templates/profile/ext_profile.mako:200
+msgid "Average number of downloads per picture"
+msgstr "Среднее количество закачек на картинку"
+
+#: mjvartorg/templates/profile/ext_profile.mako:210
+msgid "Average number of stars per picture"
+msgstr "Среднее количество звёзд на картинку"
+
+#: mjvartorg/templates/profile/login_body.mako:8
+msgid "You must be logged in to view this page"
+msgstr "Вы должны авторизоваться, чтобы посмотреть эту страницу"
+
+#: mjvartorg/templates/profile/login_body.mako:9
+msgid "You must be over 18 years old"
+msgstr "Вам должно быть больше 18 лет"
+
+#: mjvartorg/templates/profile/login_body.mako:38
+msgid "Forgot Password?"
+msgstr "Забыли пароль?"
+
+#: mjvartorg/templates/profile/login_body.mako:55
+#: mjvartorg/templates/profile/password_recovery.mako:24
+msgid "Network error"
+msgstr "Ошибка сети"
+
+#: mjvartorg/templates/profile/messages_from_user.mako:6
+msgid "Messages from"
+msgstr "Сообщения от"
+
+#: mjvartorg/templates/profile/messages_from_user.mako:84
+msgid "Show users messages"
+msgstr "Смотреть сообщения пользователей"
+
+#: mjvartorg/templates/profile/messages_from_user.mako:88
+msgid "Title"
+msgstr "Заголовок"
+
+#: mjvartorg/templates/profile/messages_from_user.mako:92
+msgid "Send to"
+msgstr "Отправить к"
+
+#: mjvartorg/templates/profile/messages_from_user.mako:98
+msgid "Messages"
+msgstr "Сообщения"
+
+#: mjvartorg/templates/profile/messages_from_user.mako:117
+msgid "Mark read"
+msgstr "Отметить прочтёным"
+
+#: mjvartorg/templates/profile/messages_users.mako:6
+#: mjvartorg/templates/profile/messages_users.mako:22
+msgid "Users messages"
+msgstr "Сообщения пользователей"
+
+#: mjvartorg/templates/profile/messages_users.mako:26
+msgid "Number of messages"
+msgstr "Количество сообщений"
+
+#: mjvartorg/templates/profile/messages_users.mako:27
+msgid "Number of new messages"
+msgstr "Количество новых сообщений"
+
+#: mjvartorg/templates/profile/password_recovery.mako:6
+#: mjvartorg/templates/profile/password_recovery.mako:53
+#: mjvartorg/templates/profile/password_recovery_verify.mako:6
+#: mjvartorg/templates/profile/password_recovery_verify.mako:15
+msgid "Password recovery"
+msgstr "Востановление пароля"
+
+#: mjvartorg/templates/profile/password_recovery.mako:29
+#: mjvartorg/templates/profile/view.mako:359
+msgid "To your mailbox receive a letter with further instructions"
+msgstr "На ваш электронный ящик придёт письмо с инструкциями"
+
+#: mjvartorg/templates/profile/password_recovery_verify.mako:19
+#: mjvartorg/templates/profile/view.mako:430
+msgid "New password"
+msgstr "Новый пароль"
+
+#: mjvartorg/templates/profile/register.mako:85
+msgid "After registration, we will send you an e-mail confirmation link."
+msgstr "После регистрации мы отправим к вам на почту ссылку для подтверждения."
+
+#: mjvartorg/templates/profile/register.mako:86
+msgid "We use Google reCaptcha to validate you are not a bot."
+msgstr "Мы используем Google reCaptcha для проверки что вы не робот."
+
+#: mjvartorg/templates/profile/register.mako:88
+msgid "Register"
+msgstr "Регистрация"
+
+#: mjvartorg/templates/profile/register.mako:101
+msgid "Repeat password"
+msgstr "Повторить пароль"
+
+#: mjvartorg/templates/profile/register.mako:107
+msgid ""
+"for confirmation code, please don't use phone email like "
+"blabla@docomo.ne.jp"
+msgstr "пожалуйста, указывайте работающую электронную почту"
+
+#: mjvartorg/templates/profile/register.mako:112
+msgid "Privacy policy"
+msgstr "Политика конфиденциальности"
+
+#: mjvartorg/templates/profile/view.mako:6
+msgid "Your profile options"
+msgstr "Ваши настройки профиля"
+
+#: mjvartorg/templates/profile/view.mako:70
+msgid "Remove the folder?"
+msgstr "Удалить папку?"
+
+#: mjvartorg/templates/profile/view.mako:119
+msgid "Delete folder"
+msgstr "Удалить папку"
+
+#: mjvartorg/templates/profile/view.mako:125
+msgid "Rename folder"
+msgstr "Переименовать папку"
+
+#: mjvartorg/templates/profile/view.mako:266
+msgid "Remove the subscribe tag?"
+msgstr "Удалить подписку на тег?"
+
+#: mjvartorg/templates/profile/view.mako:323
+msgid "Delete tag subscribe"
+msgstr "Удалить подписку на тег"
+
+#: mjvartorg/templates/profile/view.mako:411
+msgid "Public name"
+msgstr "Публичное имя"
+
+#: mjvartorg/templates/profile/view.mako:419
+msgid "change"
+msgstr "изменить"
+
+#: mjvartorg/templates/profile/view.mako:425
+msgid "Old password"
+msgstr "Старый пароль"
+
+#: mjvartorg/templates/profile/view.mako:427
+msgid "Need to change the old one"
+msgstr "Нужен для смены пароля"
+
+#: mjvartorg/templates/profile/view.mako:430
+msgid "more than 6 characters"
+msgstr "более 6 символов"
+
+#: mjvartorg/templates/profile/view.mako:432
+msgid "Do not enter anything if you do not want to change"
+msgstr "Ничего не вводите, если не хотите ничего поменять"
+
+#: mjvartorg/templates/profile/view.mako:435
+msgid "Repeat new password"
+msgstr "Повторите новый пароль"
+
+#: mjvartorg/templates/profile/view.mako:452
+msgid "Birthday"
+msgstr "День рождения"
+
+#: mjvartorg/templates/profile/view.mako:455
+msgid "Day"
+msgstr "День"
+
+#: mjvartorg/templates/profile/view.mako:457
+msgid "Month"
+msgstr "Месяц"
+
+#: mjvartorg/templates/profile/view.mako:459
+msgid "Year"
+msgstr "Год"
+
+#: mjvartorg/templates/profile/view.mako:472
+msgid "Number of elements per page"
+msgstr "Количество элементов на страницу"
+
+#: mjvartorg/templates/profile/view.mako:475
+msgid "1000 is max"
+msgstr "1000 максимально"
+
+#: mjvartorg/templates/profile/view.mako:483
+msgid "Open element in new window / tab"
+msgstr "Открывать элемент в новом окне/вкладке"
+
+#: mjvartorg/templates/profile/view.mako:487
+msgid "Block erotic elements by default"
+msgstr "Блокировать эротические элементы по умолчанию"
+
+#: mjvartorg/templates/profile/view.mako:491
+msgid "Use small preview"
+msgstr "Использовать маленькие миниатюры"
+
+#: mjvartorg/templates/profile/view.mako:495
+msgid "Blur the spoilers"
+msgstr "Размывать спойлеры"
+
+#: mjvartorg/templates/profile/view.mako:504
+msgid "Folders"
+msgstr "Папки"
+
+#: mjvartorg/templates/profile/view.mako:505
+msgid "Drag and drop for sorting"
+msgstr "Потяните и отпустите для сортировки"
+
+#: thandler/add_wall.py:31
+msgid "Can't open image file"
+msgstr "Не могу открыть файл картинки"
+
+#: thandler/add_wall.py:33 thandler/add_wall.py:301
+msgid "Not rigth image format"
+msgstr "Неверный формат картинки"
+
+#: thandler/add_wall.py:40
+msgid "Resolution larger side lower than 800 pixels. You have"
+msgstr "Разрешение большей стороны менее 800 пикселей. У вас"
+
+#: thandler/add_wall.py:47
+msgid "The image size is greater than 50 megabyte"
+msgstr "Размер изображения более 50 мегабайт"
+
+#: thandler/add_wall.py:56
+msgid "The error in calculating the md5"
+msgstr "Ошибка в расчёте md5 суммы"
+
+#: thandler/add_wall.py:221
+msgid "Error! Not the normal color scheme."
+msgstr "Ошибка! Цветовая схема не поддерживается."
+
+#: thandler/add_wall.py:224
+msgid "Error! This format is not full support."
+msgstr "Ошибка! Этот формат не полностью поддерживается."
+
+#: thandler/add_wall.py:311
+msgid "text"
+msgstr ""
+
+#: thandler/add_wall.py:319 thandler/add_wall.py:327
+msgid "Duplicate! Such a image is already in the database"
+msgstr "Дубликат! Этак картинка уже есть в базе данных"
+
+#: thandler/add_wall.py:346
+msgid "error"
+msgstr "ошибка"
+
+#: thandler/comments.py:127 thandler/comments.py:187
+msgid "More than 2000 chars"
+msgstr "Более 2000 символов"
+
+#: thandler/comments.py:129
+msgid "Less than 2 characters"
+msgstr "Меньше чем 2 символа"
+
+#: thandler/comments.py:134
+msgid "Not have image"
+msgstr "Нету такого изображения"
+
+#: thandler/comments.py:185 thandler/comments.py:202 thandler/comments.py:217
+msgid "Not have access."
+msgstr "Нет доступа"
+
+#: thandler/login.py:223
+msgid "Sorry, can't send email"
+msgstr "Простите, не могу отправить письмо"
+
+#: thandler/login.py:246
+#, python-format
+msgid ""
+"\n"
+"\t\t\tTo verify your email, go to this https://%s/login/email_verify/%s ."
+"\n"
+"\t\t\tIf you did not registered please delete this message.\n"
+"\t\t\t"
+msgstr ""
+"Для подтверждения электронной почты, перейдите по ссылке "
+"https://%s/login/email_verify/%s . Если вы не регистрировались на сайте "
+"то удалите это сообщение."
+
+#: thandler/login.py:253
+#, python-format
+msgid ""
+"\n"
+"\t\t\tTo verify your email, go to this\n"
+"\t\t\t<a "
+"href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
+"\t\t\tIf you did not registered please delete this message.\n"
+"\t\t\t"
+msgstr ""
+"\n"
+"\t\t\tДля подтверждения электронной почты, перейдите по ссылке\n"
+"\t\t\t<a "
+"href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
+"\t\t\tЕсли вы не регистрировались на сайте то удалите это сообщение.\n"
+
+#: thandler/login.py:264
+msgid "Anime-Pictures.NET: Email verify"
+msgstr "Anime-Pictures.NET: Верификация почты"
+
+#: thandler/login.py:293
+msgid "Wrong username"
+msgstr "Неверное имя пользователя"
+
+#: thandler/login.py:300 thandler/register.py:66
+msgid "Password must be in latin symbols"
+msgstr "Пароль должен быть латинскими символами"
+
+#: thandler/login.py:302
+msgid "Wrong password"
+msgstr "Неверный пароль"
+
+#: thandler/login.py:304 thandler/login.py:308
+msgid "Your banned"
+msgstr "Вы забанены"
+
+#: thandler/login.py:306
+msgid "Your need confirm email. Please check mailbox."
+msgstr "Вам нужно подтвердить ваш емаил. Пожалуйтса проверьте ваш почтовой ящик."
+
+#: thandler/messages.py:19 thandler/messages.py:86 thandler/messages.py:126
+#: thandler/messages.py:181 thandler/profile.py:28 thandler/profile.py:31
+#: thandler/profile.py:39 thandler/profile.py:58 thandler/profile.py:79
+#: thandler/profile.py:89 thandler/profile.py:180 thandler/profile.py:216
+#: thandler/profile.py:249 thandler/profile.py:300 thandler/profile.py:333
+#: thandler/profile.py:347 thandler/profile.py:363 thandler/profile.py:405
+#: thandler/register.py:292
+msgid "You have no rights"
+msgstr "У вас нет прав"
+
+#: thandler/messages.py:130
+msgid "You can not send a message to yourself"
+msgstr "Вы не можете отправить сообщение самому себе"
+
+#: thandler/messages.py:135
+msgid "User not exist"
+msgstr "Пользователь не существует"
+
+#: thandler/messages.py:140
+msgid "Title more than 300 characters"
+msgstr "Заголовок более 300 символов"
+
+#: thandler/messages.py:142
+msgid "Text of more than 6000 characters"
+msgstr "Текст более 6000 символов"
+
+#: thandler/messages.py:144
+msgid "Too little text"
+msgstr "Слишком маленький текст"
+
+#: thandler/messages.py:166
+msgid "New message"
+msgstr "Новое сообщение"
+
+#: thandler/messages.py:167
+#, python-format
+msgid "You have a new message from %s."
+msgstr "У вас есть новое сообщение от %s."
+
+#: thandler/post.py:497 thandler/post.py:577 thandler/tags.py:284
+#: thandler/tags.py:413 thandler/tags.py:463
+msgid "You not have rights"
+msgstr "Вы не имеете прав"
+
+#: thandler/profile.py:123
+msgid "Password at least 5 characters, or does not match with the check"
+msgstr "Пароль менее 5 символов или не прошёл проверку"
+
+#: thandler/profile.py:125
+msgid "Wrong old password"
+msgstr "Старый пароль неверен"
+
+#: thandler/profile.py:148
+msgid "Wrong birthday format"
+msgstr "Неверный формат даты рождения"
+
+#: thandler/profile.py:187
+msgid "Name of folder must be less than 128 chars"
+msgstr "Имя папки должно быть меньше 128 символов"
+
+#: thandler/profile.py:190 thandler/profile.py:265
+msgid "You can't use next names for folders: default and Null"
+msgstr "Вы не можете использовать следующие имена для папок: default и Null"
+
+#: thandler/profile.py:198 thandler/profile.py:271
+msgid "You have a folder with the same name."
+msgstr "У вас есть папка с таким же именем."
+
+#: thandler/profile.py:221 thandler/profile.py:257
+msgid "Not found that folder."
+msgstr "Такая папка не найдена."
+
+#: thandler/profile.py:367
+msgid "Not found tag name"
+msgstr "Не найден тег с таким именем"
+
+#: thandler/profile.py:371
+msgid "Wrong tag name"
+msgstr "Неверное имя тега"
+
+#: thandler/register.py:44
+msgid "Wrong login length"
+msgstr "Ошибочная длина логина"
+
+#: thandler/register.py:46
+msgid "Login is empty"
+msgstr "Логин пуст"
+
+#: thandler/register.py:55
+msgid "Wrong password length (minimum 6 characters)"
+msgstr "Ошибочная длина пароля (минимум 6 символов)"
+
+#: thandler/register.py:58
+msgid "Password is empty"
+msgstr "Пароль пуст"
+
+#: thandler/register.py:70
+msgid "Passwords do not match"
+msgstr "Пароли не совпадают"
+
+#: thandler/register.py:76 thandler/register.py:303
+msgid "Invalid email structure"
+msgstr "Не верная структура электронной почти"
+
+#: thandler/register.py:78 thandler/register.py:305
+msgid "Email is empty"
+msgstr "Электронная почта пуста"
+
+#: thandler/register.py:85
+msgid "A user with this login already registered on the site"
+msgstr "Пользователь с таким именем уже есть на сайте"
+
+#: thandler/register.py:92 thandler/register.py:314
+msgid "A user with this email already registered on the site"
+msgstr "Пользователь с такой электронной почтой уже есть на сайте"
+
+#: thandler/register.py:112
+msgid "Captcha server problem"
+msgstr "Проблема с сервером каптчи"
+
+#: thandler/register.py:119
+msgid "Captcha not valid, try again"
+msgstr "Каптча не неверна, попробуйте ещё"
+
+#: thandler/register.py:156 thandler/register.py:207
+msgid "Bad token"
+msgstr "Плохой токен"
+
+#: thandler/register.py:159 thandler/register.py:210
+msgid "Token has expired"
+msgstr "Токен просрочен"
+
+#: thandler/register.py:229
+msgid "Login should be more than 2 symbols."
+msgstr ""
+
+#: thandler/register.py:239
+msgid "There is no user with this email"
+msgstr "Нет пользователя с таким адресом электронной почты"
+
+#: thandler/register.py:245 thandler/register.py:296
+msgid "You can send a message only once per hour"
+msgstr "Вы можете отправлять сообщения только раз в час"
+
+#: thandler/register.py:256
+#, python-format
+msgid ""
+"\n"
+"\t\t\t\t\tTo recover your password, go to this "
+"https://%s/login/password_recovery_verify/%s .\n"
+"\t\t\t\t\tIf you did not ask for the password that restores please delete"
+" this message.\n"
+"\t\t\t\t\t"
+msgstr ""
+"\n"
+"\t\t\t\t\tДля востановления пароля, перейдите по ссылке "
+"https://%s/login/password_recovery_verify/%s .\n"
+"\t\t\t\t\tЕсли вы не запрашивали востановление пароля то удалите это сообщение.\n"
+"\t\t\t\t\t"
+
+#: thandler/register.py:263
+#, python-format
+msgid ""
+"\n"
+"\t\t\t\t\tTo recover your password, go to this\n"
+"\t\t\t\t\t<a "
+"href=\"https://%(host)s/login/password_recovery_verify/%(token)s\"\n"
+"\t\t\t\t\t>https://%(host)s/login/password_recovery_verify/%(token)s</a>."
+"\n"
+"\t\t\t\t\tIf you did not ask for the password that restores please delete"
+" this message.\n"
+"\t\t\t\t\t"
+msgstr ""
+"\t\t\tДля востановления пароля, перейдите по ссылке\n"
+"\t\t\t<a "
+"href=\"https://%(host)s/login/password_recovery_verify/%(token)s\"\n"
+"\t\t\t>https://%(host)s/login/password_recovery_verify/%(token)s</a>.\n"
+"\t\t\tЕсли вы не запрашивали востановление пароля то удалите это "
+"сообщение."
+
+#: thandler/register.py:275
+msgid "Anime-Pictures.NET: Recovery password"
+msgstr "Anime-Pictures.NET: Востановление пароля"
+
+#: thandler/register.py:299
+msgid "You user auth by social network"
+msgstr "Ваш пользователь авторизован через социальную сеть"
+
+#: thandler/register.py:308
+msgid "New email is the same as the old"
+msgstr "Новый email совпадает со старым"
+
+#: thandler/register.py:327
+#, python-format
+msgid ""
+"\n"
+"\t\t\t\t\tTo verify your email, go to this "
+"https://%s/login/email_verify/%s .\n"
+"\t\t\t\t\tIf you did not registered please delete this message.\n"
+"\t\t\t\t\t"
+msgstr ""
+"Для подтверждения электронной почты, перейдите по ссылке "
+"https://%s/login/email_verify/%s . Если вы не регистрировались на сайте "
+"то удалите это сообщение."
+
+#: thandler/register.py:334
+#, python-format
+msgid ""
+"\n"
+"\t\t\t\t\tTo verify your email, go to this\n"
+"\t\t\t\t\t<a "
+"href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
+"\t\t\t\t\tIf you did not registered please delete this message.\n"
+"\t\t\t\t\t"
+msgstr ""
+"\n"
+"\t\t\tДля подтверждения электронной почты, перейдите по ссылке\n"
+"\t\t\t<a "
+"href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
+"\t\t\tЕсли вы не регистрировались на сайте то удалите это сообщение.\n"
+
+#: thandler/register.py:345
+msgid "Anime-Pictures.NET: Verify new email"
+msgstr ""
+
+#: thandler/tags.py:178
+msgid "Alias tag not found"
+msgstr "Тег синонима не найден"
+
+#: thandler/tags.py:185
+msgid "The new tag is not in English"
+msgstr "Новый тег не на англиском языке"
+
+#: thandler/tags.py:188
+msgid "Create realy new tag"
+msgstr "Создать совершенно новый тег"
+
+#: thandler/tags.py:288
+msgid "Empty string"
+msgstr "Пустая строка"
+
+#: thandler/tags.py:390
+msgid "You not have rights delete system tag"
+msgstr "У вас нету прав, что бы удалить системный тег"
+
+#: thandler/tags.py:861 thandler/tags.py:949 thandler/tags.py:976
+#: thandler/tags.py:1069 thandler/tags.py:1290
+msgid "You not rights!"
+msgstr "Вы не имеете прав!"
+
+#: thandler/tags.py:867
+msgid "Merging when from_tag == to_tag"
+msgstr "Нельзя обьединить тег сам с собой"
+
+#: thandler/tags.py:879
+#, python-format
+msgid "This tag have children. Example: %i. "
+msgstr "Этот тег имеет детей. Пример: %i. "
+
+#: thandler/tags.py:1051
+#, python-format
+msgid "Not have tag %i as parent for tag %i."
+msgstr "Не найден родительский тег %i для тега %i."
+
+#: thandler/tags.py:1054
+#, python-format
+msgid "Loop tag from %i to %i."
+msgstr "Образовалась петля между тегами %i и %i."
+
+#: thandler/tags.py:1078
+msgid "English field of tag can`t be empty"
+msgstr "Английское поле тега не может быть пустым"
+
+#: thandler/tags.py:1084
+msgid "English field of tag need unique!"
+msgstr "Английское поле тега не уникально!"
+
+#: thandler/tags.py:1105
+msgid "Tag parent must be integer."
+msgstr "Tag parent должен быть числом."
+
+#: thandler/tags.py:1117
+msgid "Alias must be a number!"
+msgstr "Синоним должен быть числом!"
+
+#: thandler/tags.py:1123
+msgid "Alias tag not found!"
+msgstr "Тег синонима не найден!"
+
+#: thandler/tags.py:1125
+msgid "For alias this tag must be in a single copy!"
+msgstr "Что бы сделать синоним этот тег должен быть в единственном экземпляре!"
+
+#: thandler/tags.py:1127
+msgid "You can't make alias tag if this tag has a parent."
+msgstr "Вы не можете сделать этот тег алиасом т.к. у него есть родитель."
+
+#: thandler/tags.py:1133
+msgid "You can't make alias tag if this tag has childrens."
+msgstr "Вы не можете сделать этот тег алиасом т.к. у него есть дети."
+
+#~ msgid "Set public"
+#~ msgstr "Выставить публичным"
+
