@@ -59,6 +59,10 @@ msgid "German translation team:"
 msgstr "Il Team di traduzione tedesco:"
 
 #: mjvartorg/templates/about.mako:71
+msgid "Italian translation team:"
+msgstr "Il Team di traduzione italiano:"
+
+#: mjvartorg/templates/about.mako:71
 msgid "People who helped the site before:"
 msgstr "Persone che hanno contribuito al sito:"
 
@@ -273,19 +277,19 @@ msgstr "Ragazze anime"
 
 #: mjvartorg/templates/bone.mako:296
 msgid "In the last 24 hours <span class='sub_menu_number'>{approved_images}</span> approved pictures."
-msgstr "Immagi approvate nelle ultime 24 ore <span class=‘sub_menu_number’>{approved_images}</span>."
+msgstr "Immagi approvate nelle ultime 24 ore <span class='sub_menu_number'>{approved_images}</span>."
 
 #: mjvartorg/templates/bone.mako:297
 msgid "New pictures: <span class='sub_menu_number'>{new_pictures}</span>."
-msgstr "Nuove immagini: <span class=‘sub_menu_number’>{new_pictures}</span>."
+msgstr "Nuove immagini: <span class='sub_menu_number'>{new_pictures}</span>."
 
 #: mjvartorg/templates/bone.mako:298
 msgid "In pre public mode: <span class='sub_menu_number'>{pre_images}</span>."
-msgstr "In anteprima: <span class=‘sub_menu_number’>{pre_images}</span>."
+msgstr "In anteprima: <span class='sub_menu_number'>{pre_images}</span>."
 
 #: mjvartorg/templates/bone.mako:299
 msgid "Banned: <span class='sub_menu_number'>{banned_pictures}</span>."
-msgstr "Bandite: <span class=‘sub_menu_number’>{banned_pictures}</span>."
+msgstr "Bandite: <span class='sub_menu_number'>{banned_pictures}</span>."
 
 #: mjvartorg/templates/bone.mako:322
 msgid "Hello"
@@ -2065,126 +2069,3 @@ msgstr "You can't make alias tag if this tag has a parent."
 #: thandler/tags.py:1133
 msgid "You can't make alias tag if this tag has childrens."
 msgstr "Non puoi creare un tag alias se questo tag ha dei figli."
-
-#~ msgid "Advice pictures"
-#~ msgstr ""
-
-#~ msgid "big preview"
-#~ msgstr ""
-
-#~ msgid "GU Game"
-#~ msgstr ""
-
-#~ msgid "Guess the anime"
-#~ msgstr ""
-
-#~ msgid "Start game"
-#~ msgstr ""
-
-#~ msgid "For start game need login in to system!"
-#~ msgstr "You need to be logged in to start the game!"
-
-#~ msgid "TOP Gamers"
-#~ msgstr ""
-
-#~ msgid "Facebook comments"
-#~ msgstr ""
-
-#~ msgid "GAME OVER"
-#~ msgstr ""
-
-#~ msgid "You make more than 5 errors"
-#~ msgstr "You made more than 5 errors"
-
-#~ msgid "You score"
-#~ msgstr "Your score"
-
-#~ msgid "by"
-#~ msgstr ""
-
-#~ msgid "seconds"
-#~ msgstr ""
-
-#~ msgid "Repeat"
-#~ msgstr ""
-
-#~ msgid "Level"
-#~ msgstr ""
-
-#~ msgid "Errors"
-#~ msgstr ""
-
-#~ msgid "Tags subscribe"
-#~ msgstr ""
-
-#~ msgid ""
-#~ msgstr ""
-
-#~ msgid "Total %i users. Our %i:"
-#~ msgstr ""
-
-#~ msgid "Anime week TOP"
-#~ msgstr ""
-
-#~ msgid "Rename tag"
-#~ msgstr ""
-
-#~ msgid "Aliases"
-#~ msgstr ""
-
-#~ msgid "Childrens"
-#~ msgstr ""
-
-#~ msgid "Disable moderators images"
-#~ msgstr ""
-
-#~ msgid "Tagme zone"
-#~ msgstr ""
-
-#~ msgid "Ready for Publication"
-#~ msgstr ""
-
-#~ msgid "After the you click, your image checked by moderators."
-#~ msgstr ""
-
-#~ msgid "Tagme"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In the last 24 hours <span "
-#~ "class='sub_menu_number'>%(new_images)s</span> new pictures"
-#~ " and <span "
-#~ "class='sub_menu_number'>%(approved_images)s</span> approved."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In pre public mode: <span "
-#~ "class='sub_menu_number'>%(pre_images)s</span>."
-#~ msgstr ""
-
-#~ msgid "This form for fast search"
-#~ msgstr ""
-
-#~ msgid "People who helped the site before"
-#~ msgstr ""
-
-#~ msgid "This CAPTCHA has already been used"
-#~ msgstr ""
-
-#~ msgid "The characters do not match"
-#~ msgstr ""
-
-#~ msgid "but not have"
-#~ msgstr "but don't have"
-
-#~ msgid "Captcha"
-#~ msgstr ""
-
-#~ msgid "Pronunciation(MP3)"
-#~ msgstr ""
-
-#~ msgid "This tag have children. Example: %i."
-#~ msgstr ""
-
-#~ msgid "Set public"
-#~ msgstr ""
