@@ -1,21 +1,18 @@
+
 msgid ""
 msgstr ""
-"Project-Id-Version: anime-pictures\n"
+"Project-Id-Version:  anime-pictures\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-30 14:24+0900\n"
-"PO-Revision-Date: 2019-07-06 03:43\n"
+"POT-Creation-Date: 2019-11-02 21:18+0900\n"
+"PO-Revision-Date: 2019-07-06 03:43+0000\n"
 "Last-Translator: Yury Zhuravlev (stalkerg)\n"
+"Language: zh_Hans_CN\n"
 "Language-Team: Chinese Simplified\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: crowdin.com\n"
-"X-Crowdin-Project: anime-pictures\n"
-"X-Crowdin-Language: zh-CN\n"
-"X-Crowdin-File: mjvartorg.pot\n"
-"Language: zh_CN\n"
 
 #: mjvartorg/templates/about.mako:6 mjvartorg/templates/about.mako:19
 msgid "About site"
@@ -62,6 +59,12 @@ msgid "German translation team:"
 msgstr "德语翻译团队："
 
 #: mjvartorg/templates/about.mako:71
+#, fuzzy
+#| msgid "German translation team:"
+msgid "Italian translation team:"
+msgstr "德语翻译团队："
+
+#: mjvartorg/templates/about.mako:79
 msgid "People who helped the site before:"
 msgstr "曾经帮助过网站的人："
 
@@ -69,7 +72,8 @@ msgstr "曾经帮助过网站的人："
 msgid "All users"
 msgstr "所有用户"
 
-#: mjvartorg/templates/android_app.mako:6 mjvartorg/templates/android_app.mako:17
+#: mjvartorg/templates/android_app.mako:6
+#: mjvartorg/templates/android_app.mako:17
 msgid "Android app"
 msgstr "Android 应用"
 
@@ -90,7 +94,9 @@ msgid "Download app"
 msgstr "下载应用程序"
 
 #: mjvartorg/templates/android_app.mako:31
-msgid "For install app you need enable \"Unknown Sources\" in settings. After that you can download and open apk file."
+msgid ""
+"For install app you need enable \"Unknown Sources\" in settings. After "
+"that you can download and open apk file."
 msgstr "安装应用程序需要在设置中启用“未知来源”。然后您可以下载和安装 apk 文件。"
 
 #: mjvartorg/templates/android_app.mako:32
@@ -103,23 +109,28 @@ msgstr "更新日志"
 
 #: mjvartorg/templates/bone.mako:72 mjvartorg/templates/index.mako:10
 #: mjvartorg/templates/moderator_statistic.mako:10
-msgid "Anime pictures and wallpapers with a unique search for free. More than 100,000 pictures"
+msgid ""
+"Anime pictures and wallpapers with a unique search for free. More than "
+"100,000 pictures"
 msgstr "超过 100 000 张免费的动漫图片和壁纸可供搜索。"
 
 #: mjvartorg/templates/bone.mako:108
 msgid "Ok"
 msgstr "确定"
 
-#: mjvartorg/templates/bone.mako:109 mjvartorg/templates/jvwall/edit_tag.mako:94
+#: mjvartorg/templates/bone.mako:109
+#: mjvartorg/templates/jvwall/edit_tag.mako:94
 #: mjvartorg/templates/jvwall/edit_tag.mako:128
 msgid "Error"
 msgstr "错误"
 
-#: mjvartorg/templates/bone.mako:110 mjvartorg/templates/jvwall/post_body.mako:218
+#: mjvartorg/templates/bone.mako:110
+#: mjvartorg/templates/jvwall/post_body.mako:222
 msgid "Download picture"
 msgstr "下载图片"
 
-#: mjvartorg/templates/bone.mako:111 mjvartorg/templates/jvwall/edit_tag.mako:90
+#: mjvartorg/templates/bone.mako:111
+#: mjvartorg/templates/jvwall/edit_tag.mako:90
 msgid "Done"
 msgstr "完成"
 
@@ -132,14 +143,17 @@ msgid "WARNING! You add a completely new tag: "
 msgstr "警告！您正在添加一个全新标签： "
 
 #: mjvartorg/templates/bone.mako:114
-msgid "ERROR! You should not add new tags. Please choose existing tag. Any requests please write in comments. Tag:"
+msgid ""
+"ERROR! You should not add new tags. Please choose existing tag. Any "
+"requests please write in comments. Tag:"
 msgstr "错误！您不应添加新的标签。请选择现有标签。任何请求请输入评论。标签："
 
 #: mjvartorg/templates/bone.mako:115
 msgid "Remove the tag?"
 msgstr "移除该标签？"
 
-#: mjvartorg/templates/bone.mako:116 mjvartorg/templates/jvwall/all_tags.mako:52
+#: mjvartorg/templates/bone.mako:116
+#: mjvartorg/templates/jvwall/all_tags.mako:52
 #: mjvartorg/templates/jvwall/all_tags.mako:53
 #: mjvartorg/templates/jvwall/post_tags_ajax.mako:44
 msgid "Edit tag"
@@ -187,8 +201,8 @@ msgstr "主页"
 msgid "Pictures"
 msgstr "图片"
 
-#: mjvartorg/templates/bone.mako:159 mjvartorg/templates/jvwall/post.mako:90
-#: mjvartorg/templates/jvwall/post_body.mako:283
+#: mjvartorg/templates/bone.mako:159 mjvartorg/templates/jvwall/post.mako:94
+#: mjvartorg/templates/jvwall/post_body.mako:287
 msgid "Tags"
 msgstr "标签"
 
@@ -202,48 +216,48 @@ msgstr "常见问题"
 msgid "Chat"
 msgstr "聊天"
 
-#: mjvartorg/templates/bone.mako:166
+#: mjvartorg/templates/bone.mako:162
 msgid "About"
 msgstr "关于"
 
-#: mjvartorg/templates/bone.mako:170 mjvartorg/templates/bone.mako:252
-#: mjvartorg/templates/bone.mako:337
-#: mjvartorg/templates/profile/ext_profile.mako:108
+#: mjvartorg/templates/bone.mako:166 mjvartorg/templates/bone.mako:250
+#: mjvartorg/templates/bone.mako:336
+#: mjvartorg/templates/profile/ext_profile.mako:115
 msgid "Add image"
 msgstr "添加图片"
 
-#: mjvartorg/templates/bone.mako:179 mjvartorg/templates/bone.mako:181
-#: mjvartorg/templates/bone.mako:202
+#: mjvartorg/templates/bone.mako:175 mjvartorg/templates/bone.mako:177
+#: mjvartorg/templates/bone.mako:198
 msgid "New images"
 msgstr "新图片"
 
-#: mjvartorg/templates/bone.mako:193
+#: mjvartorg/templates/bone.mako:189
 msgid "New messages"
 msgstr "新消息"
 
-#: mjvartorg/templates/bone.mako:214 mjvartorg/templates/bone.mako:267
+#: mjvartorg/templates/bone.mako:210 mjvartorg/templates/bone.mako:265
 msgid "Language"
 msgstr "语言"
 
-#: mjvartorg/templates/bone.mako:223 mjvartorg/templates/bone.mako:278
+#: mjvartorg/templates/bone.mako:221 mjvartorg/templates/bone.mako:277
 msgid "Theme"
 msgstr "主题"
 
-#: mjvartorg/templates/bone.mako:234 mjvartorg/templates/bone.mako:250
+#: mjvartorg/templates/bone.mako:232 mjvartorg/templates/bone.mako:248
 msgid "Logout"
 msgstr "注销"
 
-#: mjvartorg/templates/bone.mako:248
+#: mjvartorg/templates/bone.mako:246
 msgid "My profile"
 msgstr "我的资料"
 
-#: mjvartorg/templates/bone.mako:251 mjvartorg/templates/bone.mako:334
-#: mjvartorg/templates/profile/ext_profile.mako:107
+#: mjvartorg/templates/bone.mako:249 mjvartorg/templates/bone.mako:333
+#: mjvartorg/templates/profile/ext_profile.mako:114
 #: mjvartorg/templates/profile/view.mako:385
 msgid "Settings"
 msgstr "设置"
 
-#: mjvartorg/templates/bone.mako:254 mjvartorg/templates/bone.mako:369
+#: mjvartorg/templates/bone.mako:252 mjvartorg/templates/bone.mako:368
 #: mjvartorg/templates/profile/login.mako:6
 #: mjvartorg/templates/profile/login_body.mako:4
 #: mjvartorg/templates/profile/password_recovery.mako:59
@@ -252,276 +266,291 @@ msgstr "设置"
 msgid "Login"
 msgstr "登录"
 
-#: mjvartorg/templates/bone.mako:256 mjvartorg/templates/bone.mako:400
+#: mjvartorg/templates/bone.mako:254 mjvartorg/templates/bone.mako:399
 #: mjvartorg/templates/jvwall/all_comments.mako:26
-#: mjvartorg/templates/jvwall/post_body.mako:428
+#: mjvartorg/templates/jvwall/post_body.mako:442
 msgid "Comments"
 msgstr "评论"
 
-#: mjvartorg/templates/bone.mako:258 mjvartorg/templates/bone.mako:402
-#: mjvartorg/templates/bone.mako:596
+#: mjvartorg/templates/bone.mako:256 mjvartorg/templates/bone.mako:401
+#: mjvartorg/templates/bone.mako:581
 msgid "Last stars"
 msgstr "最新评分"
 
-#: mjvartorg/templates/bone.mako:259 mjvartorg/templates/bone.mako:404
+#: mjvartorg/templates/bone.mako:257 mjvartorg/templates/bone.mako:403
 #: mjvartorg/templates/jvwall/anime_girls.mako:6
 #: mjvartorg/templates/jvwall/anime_girls.mako:22
 msgid "Anime girls"
 msgstr "动漫女孩"
 
-#: mjvartorg/templates/bone.mako:296
-msgid "In the last 24 hours <span class='sub_menu_number'>{approved_images}</span> approved pictures."
+#: mjvartorg/templates/bone.mako:295
+msgid ""
+"In the last 24 hours <span "
+"class='sub_menu_number'>{approved_images}</span> approved pictures."
 msgstr "在过去 24 小时中批准了 <span class='sub_menu_number'>{approved_images}</span>  张图片。"
 
-#: mjvartorg/templates/bone.mako:297
+#: mjvartorg/templates/bone.mako:296
 msgid "New pictures: <span class='sub_menu_number'>{new_pictures}</span>."
 msgstr "新图片：<span class='sub_menu_number'>{new_pictures}</span>。"
 
-#: mjvartorg/templates/bone.mako:298
+#: mjvartorg/templates/bone.mako:297
 msgid "In pre public mode: <span class='sub_menu_number'>{pre_images}</span>."
 msgstr "在预公开模式中： <span class='sub_menu_number'>{pre_images}</span>。"
 
-#: mjvartorg/templates/bone.mako:299
+#: mjvartorg/templates/bone.mako:298
 msgid "Banned: <span class='sub_menu_number'>{banned_pictures}</span>."
 msgstr "已封禁：<span class='sub_menu_number'>{banned_pictures}</span>。"
 
-#: mjvartorg/templates/bone.mako:322
+#: mjvartorg/templates/bone.mako:321
 msgid "Hello"
 msgstr "你好"
 
-#: mjvartorg/templates/bone.mako:340
-#: mjvartorg/templates/profile/ext_profile.mako:109
+#: mjvartorg/templates/bone.mako:339
+#: mjvartorg/templates/profile/ext_profile.mako:116
 msgid "Your own wallpapers "
 msgstr "您的壁纸 "
 
-#: mjvartorg/templates/bone.mako:343
-#: mjvartorg/templates/profile/ext_profile.mako:110
+#: mjvartorg/templates/bone.mako:342
+#: mjvartorg/templates/profile/ext_profile.mako:117
 msgid "Your own stars"
 msgstr "您的加星"
 
-#: mjvartorg/templates/bone.mako:346
-#: mjvartorg/templates/profile/ext_profile.mako:111
+#: mjvartorg/templates/bone.mako:345
+#: mjvartorg/templates/profile/ext_profile.mako:118
 msgid "Comments for your posts"
 msgstr "您的帖子的评论"
 
-#: mjvartorg/templates/bone.mako:349
-#: mjvartorg/templates/profile/ext_profile.mako:112
+#: mjvartorg/templates/bone.mako:348
+#: mjvartorg/templates/profile/ext_profile.mako:119
 msgid "Recommend tags"
 msgstr "推荐的标签"
 
-#: mjvartorg/templates/bone.mako:352
+#: mjvartorg/templates/bone.mako:351
 #: mjvartorg/templates/jvwall/accepted_pre_tags.mako:6
-#: mjvartorg/templates/profile/ext_profile.mako:113
+#: mjvartorg/templates/profile/ext_profile.mako:120
 msgid "Accepted recommend tags"
 msgstr "已接受的推荐标签"
 
-#: mjvartorg/templates/bone.mako:356
+#: mjvartorg/templates/bone.mako:355
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:6
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:79
-#: mjvartorg/templates/profile/ext_profile.mako:116
+#: mjvartorg/templates/profile/ext_profile.mako:123
 msgid "Moderating recommend tags"
 msgstr "审核中的推荐标签"
 
-#: mjvartorg/templates/bone.mako:359 mjvartorg/templates/jvwall/tags_history.mako:6
+#: mjvartorg/templates/bone.mako:358
+#: mjvartorg/templates/jvwall/tags_history.mako:6
 #: mjvartorg/templates/jvwall/tags_history.mako:22
-#: mjvartorg/templates/profile/ext_profile.mako:117
+#: mjvartorg/templates/profile/ext_profile.mako:124
 msgid "Tags history"
 msgstr "标签历史"
 
-#: mjvartorg/templates/bone.mako:362
+#: mjvartorg/templates/bone.mako:361
 msgid "Tags changes"
 msgstr "标签更改"
 
-#: mjvartorg/templates/bone.mako:373 mjvartorg/templates/profile/login_body.mako:13
+#: mjvartorg/templates/bone.mako:372
+#: mjvartorg/templates/profile/login_body.mako:13
 msgid "Username"
 msgstr "用户名"
 
-#: mjvartorg/templates/bone.mako:374 mjvartorg/templates/profile/login_body.mako:19
+#: mjvartorg/templates/bone.mako:373
+#: mjvartorg/templates/profile/login_body.mako:19
 #: mjvartorg/templates/profile/register.mako:96
 msgid "Password"
 msgstr "密码"
 
-#: mjvartorg/templates/bone.mako:378 mjvartorg/templates/jvwall/add_wall.mako:27
+#: mjvartorg/templates/bone.mako:377
+#: mjvartorg/templates/jvwall/add_wall.mako:27
 #: mjvartorg/templates/profile/login_body.mako:27
 #: mjvartorg/templates/profile/password_recovery.mako:73
 msgid "Submit"
 msgstr "提交"
 
-#: mjvartorg/templates/bone.mako:379 mjvartorg/templates/profile/login_body.mako:28
+#: mjvartorg/templates/bone.mako:378
+#: mjvartorg/templates/profile/login_body.mako:28
 msgid "Registration"
 msgstr "注册"
 
-#: mjvartorg/templates/bone.mako:383 mjvartorg/templates/profile/login_body.mako:32
+#: mjvartorg/templates/bone.mako:382
+#: mjvartorg/templates/profile/login_body.mako:32
 msgid "Enter through"
 msgstr "输入"
 
-#: mjvartorg/templates/bone.mako:391 mjvartorg/templates/profile/login_body.mako:40
+#: mjvartorg/templates/bone.mako:390
+#: mjvartorg/templates/profile/login_body.mako:40
 msgid "Recovery password"
 msgstr "恢复密码"
 
-#: mjvartorg/templates/bone.mako:403
+#: mjvartorg/templates/bone.mako:402
 msgid "Pre pictures"
 msgstr "预览图片"
 
-#: mjvartorg/templates/bone.mako:406
+#: mjvartorg/templates/bone.mako:405
 msgid "Moderators statistic"
 msgstr "版主统计"
 
-#: mjvartorg/templates/bone.mako:431 mjvartorg/templates/jvwall/all_tags.mako:101
-#: mjvartorg/templates/jvwall/tag_changes.mako:33 mjvartorg/templates/std.mako:866
+#: mjvartorg/templates/bone.mako:430
+#: mjvartorg/templates/jvwall/all_tags.mako:101
+#: mjvartorg/templates/jvwall/tag_changes.mako:33
+#: mjvartorg/templates/std.mako:868
 msgid "Search"
 msgstr "搜索"
 
-#: mjvartorg/templates/bone.mako:440 mjvartorg/templates/profile/view.mako:519
+#: mjvartorg/templates/bone.mako:439 mjvartorg/templates/profile/view.mako:519
 msgid "Subscribed tags"
 msgstr "订阅的标签"
 
-#: mjvartorg/templates/bone.mako:440
+#: mjvartorg/templates/bone.mako:439
 msgid "all pics"
 msgstr "全部图片"
 
-#: mjvartorg/templates/bone.mako:461
+#: mjvartorg/templates/bone.mako:460
 msgid "Now watching"
 msgstr "正在浏览"
 
-#: mjvartorg/templates/bone.mako:475
+#: mjvartorg/templates/bone.mako:474
 msgid "Buttons"
 msgstr "按钮"
 
-#: mjvartorg/templates/bone.mako:499
+#: mjvartorg/templates/bone.mako:492
 msgid "Desktop version"
 msgstr "桌面版"
 
-#: mjvartorg/templates/bone.mako:502
+#: mjvartorg/templates/bone.mako:495
 msgid "Mobile version"
 msgstr "移动版"
 
-#: mjvartorg/templates/bone.mako:597 mjvartorg/templates/index.mako:102
-#: mjvartorg/templates/index.mako:128
-#: mjvartorg/templates/profile/ext_profile.mako:130
+#: mjvartorg/templates/bone.mako:582 mjvartorg/templates/index.mako:100
+#: mjvartorg/templates/index.mako:126
+#: mjvartorg/templates/profile/ext_profile.mako:137
 msgid "all"
 msgstr "全部"
 
 #: mjvartorg/templates/faq.mako:20 mjvartorg/templates/jvwall/all_tags.mako:29
-#: mjvartorg/templates/std.mako:497 mjvartorg/templates/std.mako:515
+#: mjvartorg/templates/std.mako:504 mjvartorg/templates/std.mako:522
 msgid "Edit"
 msgstr "编辑"
 
-#: mjvartorg/templates/index.mako:6 mjvartorg/templates/moderator_statistic.mako:6
+#: mjvartorg/templates/index.mako:6
+#: mjvartorg/templates/moderator_statistic.mako:6
 msgid "Anime pictures and wallpapers"
 msgstr "动漫图片和壁纸"
 
-#: mjvartorg/templates/index.mako:29 mjvartorg/templates/jvwall/posts_mrss.mako:7
+#: mjvartorg/templates/index.mako:28
+#: mjvartorg/templates/jvwall/posts_mrss.mako:7
 #: mjvartorg/templates/jvwall/posts_rss.mako:8
 msgid "Anime pictures and wallpapers for everyone!"
 msgstr "全年龄的动漫图片和壁纸！"
 
-#: mjvartorg/templates/index.mako:30
-msgid "You can see a lot of pictures, upload your, track trends, and communicate! We want to make the best collection Modern Asian fine art."
+#: mjvartorg/templates/index.mako:29
+msgid ""
+"You can see a lot of pictures, upload your, track trends, and "
+"communicate! We want to make the best collection Modern Asian fine art."
 msgstr "您可以看到许多图片，上传，紧跟潮流，以及交流！我们想要收集最好的现代亚洲插画。"
 
-#: mjvartorg/templates/index.mako:35
+#: mjvartorg/templates/index.mako:34
 msgid "Last pictures"
 msgstr "最新的图片"
 
-#: mjvartorg/templates/index.mako:41
+#: mjvartorg/templates/index.mako:40
 msgid "Last messages from chat"
 msgstr "最近的聊天信息"
 
-#: mjvartorg/templates/index.mako:50
+#: mjvartorg/templates/index.mako:49
 msgid "Highest rated anime pictures of the day"
 msgstr "今日最佳"
 
-#: mjvartorg/templates/index.mako:52
+#: mjvartorg/templates/index.mako:51
 msgid "erotics top"
 msgstr "热门"
 
-#: mjvartorg/templates/index.mako:58
+#: mjvartorg/templates/index.mako:57
 msgid "Highest rated anime pictures of the week"
 msgstr "本周最佳"
 
-#: mjvartorg/templates/index.mako:102
+#: mjvartorg/templates/index.mako:100
 msgid "TOP users"
 msgstr "用户榜"
 
-#: mjvartorg/templates/index.mako:128
+#: mjvartorg/templates/index.mako:126
 msgid "Last comments"
 msgstr "最新评论"
 
-#: mjvartorg/templates/index.mako:149
+#: mjvartorg/templates/index.mako:147
 msgid "TOP moderators"
 msgstr "版主榜"
 
-#: mjvartorg/templates/moderator_statistic.mako:210
+#: mjvartorg/templates/moderator_statistic.mako:209
 msgid "Filters"
 msgstr "过滤器"
 
-#: mjvartorg/templates/moderator_statistic.mako:214
+#: mjvartorg/templates/moderator_statistic.mako:213
 msgid "type"
 msgstr "类型"
 
-#: mjvartorg/templates/moderator_statistic.mako:217
+#: mjvartorg/templates/moderator_statistic.mako:216
 msgid "posts"
 msgstr "投稿"
 
-#: mjvartorg/templates/moderator_statistic.mako:218
+#: mjvartorg/templates/moderator_statistic.mako:217
 msgid "tags"
 msgstr "标签"
 
-#: mjvartorg/templates/moderator_statistic.mako:223
+#: mjvartorg/templates/moderator_statistic.mako:222
 msgid "interval"
 msgstr "间隔"
 
-#: mjvartorg/templates/moderator_statistic.mako:226
+#: mjvartorg/templates/moderator_statistic.mako:225
 msgid "month"
 msgstr "月"
 
-#: mjvartorg/templates/moderator_statistic.mako:227
+#: mjvartorg/templates/moderator_statistic.mako:226
 msgid "week"
 msgstr "周"
 
-#: mjvartorg/templates/moderator_statistic.mako:228
+#: mjvartorg/templates/moderator_statistic.mako:227
 msgid "day"
 msgstr "天"
 
-#: mjvartorg/templates/moderator_statistic.mako:233
-#: mjvartorg/templates/std.mako:801
+#: mjvartorg/templates/moderator_statistic.mako:232
+#: mjvartorg/templates/std.mako:808
 msgid "by date"
 msgstr "按日期"
 
-#: mjvartorg/templates/moderator_statistic.mako:236
+#: mjvartorg/templates/moderator_statistic.mako:235
 msgid "1 month"
 msgstr "1 个月"
 
-#: mjvartorg/templates/moderator_statistic.mako:237
+#: mjvartorg/templates/moderator_statistic.mako:236
 msgid "3 month"
 msgstr "3 个月"
 
-#: mjvartorg/templates/moderator_statistic.mako:238
+#: mjvartorg/templates/moderator_statistic.mako:237
 msgid "6 month"
 msgstr "6 个月"
 
-#: mjvartorg/templates/moderator_statistic.mako:239
+#: mjvartorg/templates/moderator_statistic.mako:238
 msgid "1 year"
 msgstr "1 年"
 
-#: mjvartorg/templates/moderator_statistic.mako:240
+#: mjvartorg/templates/moderator_statistic.mako:239
 msgid "2 year"
 msgstr "2 年"
 
-#: mjvartorg/templates/moderator_statistic.mako:241
+#: mjvartorg/templates/moderator_statistic.mako:240
 msgid "3 year"
 msgstr "3 年"
 
-#: mjvartorg/templates/moderator_statistic.mako:246
+#: mjvartorg/templates/moderator_statistic.mako:245
 msgid "only public"
 msgstr "仅公开"
 
-#: mjvartorg/templates/moderator_statistic.mako:253
+#: mjvartorg/templates/moderator_statistic.mako:252
 msgid "Update"
 msgstr "更新"
 
-#: mjvartorg/templates/moderator_statistic.mako:261
+#: mjvartorg/templates/moderator_statistic.mako:260
 msgid "Statistic"
 msgstr "统计"
 
@@ -530,177 +559,204 @@ msgstr "统计"
 msgid "Privacy Policy"
 msgstr "隐私政策"
 
-#: mjvartorg/templates/jvwall/post.mako:9 mjvartorg/templates/jvwall/post.mako:21
+#: mjvartorg/templates/jvwall/post.mako:9
+#: mjvartorg/templates/jvwall/post.mako:21
 #: mjvartorg/templates/jvwall/post_body.mako:56
-#: mjvartorg/templates/jvwall/post_body.mako:258
-#: mjvartorg/templates/jvwall/post_body.mako:274 mjvartorg/templates/std.mako:234
-#: mjvartorg/templates/std.mako:315 mjvartorg/templates/std.mako:363
-#: mjvartorg/templates/std.mako:536 mjvartorg/templates/std.mako:550
-#: mjvartorg/templates/std.mako:575 mjvartorg/templates/std.mako:595
+#: mjvartorg/templates/jvwall/post_body.mako:262
+#: mjvartorg/templates/jvwall/post_body.mako:278
+#: mjvartorg/templates/std.mako:236 mjvartorg/templates/std.mako:321
+#: mjvartorg/templates/std.mako:369 mjvartorg/templates/std.mako:543
+#: mjvartorg/templates/std.mako:557 mjvartorg/templates/std.mako:582
+#: mjvartorg/templates/std.mako:602
 msgid "Anime picture"
 msgstr "动漫图片"
 
-#: mjvartorg/templates/std.mako:268 mjvartorg/templates/std.mako:399
+#: mjvartorg/templates/std.mako:272 mjvartorg/templates/std.mako:406
 msgid "Anime pictures"
 msgstr "动漫图片"
 
-#: mjvartorg/templates/std.mako:287 mjvartorg/templates/std.mako:343
-#: mjvartorg/templates/std.mako:418
+#: mjvartorg/templates/std.mako:293 mjvartorg/templates/std.mako:349
+#: mjvartorg/templates/std.mako:425
 msgid "SPOILERS"
 msgstr "SPOILERS"
 
-#: mjvartorg/templates/std.mako:290 mjvartorg/templates/std.mako:422
+#: mjvartorg/templates/std.mako:296 mjvartorg/templates/std.mako:429
 msgid "TAGME"
 msgstr "TAGME"
 
-#: mjvartorg/templates/std.mako:292 mjvartorg/templates/std.mako:424
+#: mjvartorg/templates/std.mako:298 mjvartorg/templates/std.mako:431
 msgid "PRE"
 msgstr "PRE"
 
-#: mjvartorg/templates/std.mako:294 mjvartorg/templates/std.mako:426
+#: mjvartorg/templates/std.mako:300 mjvartorg/templates/std.mako:433
 msgid "NEW"
 msgstr "NEW"
 
-#: mjvartorg/templates/std.mako:296 mjvartorg/templates/std.mako:428
+#: mjvartorg/templates/std.mako:302 mjvartorg/templates/std.mako:435
 msgid "BAN"
 msgstr "BAN"
 
-#: mjvartorg/templates/std.mako:299 mjvartorg/templates/std.mako:431
+#: mjvartorg/templates/std.mako:305 mjvartorg/templates/std.mako:438
 msgid "Log in!"
 msgstr "登录！"
 
-#: mjvartorg/templates/std.mako:350
+#: mjvartorg/templates/std.mako:356
 msgid "remove"
 msgstr "移除"
 
-#: mjvartorg/templates/std.mako:440
+#: mjvartorg/templates/std.mako:447
 msgid "Anime pictures with tag"
 msgstr "动漫图片与标签"
 
-#: mjvartorg/templates/std.mako:516
+#: mjvartorg/templates/std.mako:523
 msgid "Are you sure?"
 msgstr "确定吗？"
 
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:103
-#: mjvartorg/templates/jvwall/pre_tags.mako:64 mjvartorg/templates/std.mako:516
+#: mjvartorg/templates/jvwall/pre_tags.mako:64 mjvartorg/templates/std.mako:523
 msgid "Delete"
 msgstr "删除"
 
-#: mjvartorg/templates/std.mako:605
+#: mjvartorg/templates/std.mako:612
 msgid "Page"
 msgstr "页"
 
-#: mjvartorg/templates/std.mako:607
+#: mjvartorg/templates/std.mako:614
 msgid "page of"
 msgstr "总页数"
 
-#: mjvartorg/templates/std.mako:727
+#: mjvartorg/templates/std.mako:734
 #, python-format
 msgid "Tags (separated by %s or %s, no spaces)"
 msgstr "标签（由 %s 和 %s分隔，无空格）"
 
-#: mjvartorg/templates/profile/view.mako:479 mjvartorg/templates/std.mako:730
+#: mjvartorg/templates/profile/view.mako:479 mjvartorg/templates/std.mako:737
 msgid "Prohibited Tags"
 msgstr "排除标签"
 
-#: mjvartorg/templates/jvwall/post_body.mako:87 mjvartorg/templates/std.mako:740
+#: mjvartorg/templates/jvwall/post_body.mako:91
+#: mjvartorg/templates/std.mako:747
 msgid "Resolution"
 msgstr "分辨率"
 
-#: mjvartorg/templates/std.mako:745
+#: mjvartorg/templates/std.mako:752
 msgid "Auto"
 msgstr "自动"
 
-#: mjvartorg/templates/std.mako:754
+#: mjvartorg/templates/std.mako:761
 msgid "Aspect ratio"
 msgstr "宽高比"
 
-#: mjvartorg/templates/std.mako:756
+#: mjvartorg/templates/std.mako:763
 msgid "common"
 msgstr "常用的"
 
-#: mjvartorg/templates/std.mako:780
+#: mjvartorg/templates/std.mako:787
 msgid "square"
 msgstr "方形"
 
-#: mjvartorg/templates/std.mako:794
+#: mjvartorg/templates/std.mako:801
 msgid "Sortings"
 msgstr "排序"
 
-#: mjvartorg/templates/std.mako:798
+#: mjvartorg/templates/std.mako:805
 msgid "by star date"
 msgstr "按评分时间"
 
-#: mjvartorg/templates/std.mako:803
+#: mjvartorg/templates/std.mako:810
 msgid "by date (revers)"
 msgstr "按日期（逆序）"
 
-#: mjvartorg/templates/std.mako:805
+#: mjvartorg/templates/std.mako:812
 msgid "by rating"
 msgstr "按评级"
 
-#: mjvartorg/templates/std.mako:807
+#: mjvartorg/templates/std.mako:814
 msgid "by downloads"
 msgstr "按下载"
 
-#: mjvartorg/templates/std.mako:809
+#: mjvartorg/templates/std.mako:816
 msgid "by size"
 msgstr "按大小"
 
-#: mjvartorg/templates/std.mako:811
+#: mjvartorg/templates/std.mako:818
 msgid "by tag count"
 msgstr "按标签数量"
 
-#: mjvartorg/templates/std.mako:813
+#: mjvartorg/templates/std.mako:820
 msgid "How recent"
 msgstr "时间范围"
 
-#: mjvartorg/templates/std.mako:815
+#: mjvartorg/templates/std.mako:822
 msgid "anytime"
 msgstr "所有时间"
 
-#: mjvartorg/templates/std.mako:816
+#: mjvartorg/templates/std.mako:823
 msgid "past day"
 msgstr "过去一天"
 
-#: mjvartorg/templates/std.mako:817
+#: mjvartorg/templates/std.mako:824
 msgid "past week"
 msgstr "过去一周"
 
-#: mjvartorg/templates/std.mako:818
+#: mjvartorg/templates/std.mako:825
 msgid "past month"
 msgstr "过去一个月"
 
 #: mjvartorg/templates/std.mako:826
+#, fuzzy
+#| msgid "past month"
+msgid "past 6 months"
+msgstr "过去一个月"
+
+#: mjvartorg/templates/std.mako:827
+#, fuzzy
+#| msgid "past day"
+msgid "past year"
+msgstr "过去一天"
+
+#: mjvartorg/templates/std.mako:828
+#, fuzzy
+#| msgid "2 year"
+msgid "past 2 years"
+msgstr "2 年"
+
+#: mjvartorg/templates/std.mako:829
+#, fuzzy
+#| msgid "3 year"
+msgid "past 3 years"
+msgstr "3 年"
+
+#: mjvartorg/templates/std.mako:837
 msgid "small preview"
 msgstr "小预览"
 
-#: mjvartorg/templates/std.mako:828
+#: mjvartorg/templates/std.mako:839
 msgid "Show"
 msgstr "显示"
 
-#: mjvartorg/templates/std.mako:831
+#: mjvartorg/templates/std.mako:842
 msgid "big preview"
 msgstr "大预览"
 
-#: mjvartorg/templates/std.mako:835
+#: mjvartorg/templates/std.mako:846
 msgid "disable moderators images"
 msgstr "排除版主"
 
-#: mjvartorg/templates/std.mako:836
+#: mjvartorg/templates/std.mako:847
 msgid "Extension"
 msgstr "扩展"
 
-#: mjvartorg/templates/jvwall/post_body.mako:97
-#: mjvartorg/templates/jvwall/posts.mako:8 mjvartorg/templates/std.mako:847
+#: mjvartorg/templates/jvwall/post_body.mako:101
+#: mjvartorg/templates/jvwall/posts.mako:8 mjvartorg/templates/std.mako:858
 msgid "Color"
 msgstr "颜色"
 
-#: mjvartorg/templates/std.mako:850
+#: mjvartorg/templates/std.mako:861
 msgid "clear"
 msgstr "清除"
 
-#: mjvartorg/templates/std.mako:856
+#: mjvartorg/templates/std.mako:867
 msgid "Advanced"
 msgstr "高级"
 
@@ -718,7 +774,7 @@ msgstr "%i 分钟未活动"
 msgid "Send"
 msgstr "发送"
 
-#: mjvartorg/templates/chat/view.mako:97
+#: mjvartorg/templates/chat/view.mako:95
 msgid "Chat users"
 msgstr "聊天的用户"
 
@@ -731,7 +787,8 @@ msgstr "您的推荐标签"
 #: mjvartorg/templates/jvwall/accepted_pre_tags.mako:32
 #: mjvartorg/templates/jvwall/all_comments.mako:6
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:98
-#: mjvartorg/templates/jvwall/post.mako:7 mjvartorg/templates/jvwall/post.mako:19
+#: mjvartorg/templates/jvwall/post.mako:7
+#: mjvartorg/templates/jvwall/post.mako:19
 #: mjvartorg/templates/jvwall/post_body.mako:54
 #: mjvartorg/templates/jvwall/pre_tags.mako:58
 #: mjvartorg/templates/jvwall/scores.mako:37
@@ -952,48 +1009,45 @@ msgstr "排序方式"
 msgid "Accept"
 msgstr "接受"
 
-#: mjvartorg/templates/jvwall/post.mako:92
-#: mjvartorg/templates/jvwall/post_body.mako:285
+#: mjvartorg/templates/jvwall/post.mako:96
+#: mjvartorg/templates/jvwall/post_body.mako:289
 msgid "About tag(desc)"
 msgstr "关于标签(降序)"
 
-#: mjvartorg/templates/jvwall/post.mako:99
-#: mjvartorg/templates/jvwall/post_body.mako:291
-msgid "Add tag"
-msgstr "添加标签"
-
-#: mjvartorg/templates/jvwall/post.mako:101
-#: mjvartorg/templates/jvwall/post.mako:113
-#: mjvartorg/templates/jvwall/post_body.mako:152
-#: mjvartorg/templates/jvwall/post_body.mako:161
-#: mjvartorg/templates/jvwall/post_body.mako:175
-#: mjvartorg/templates/jvwall/post_body.mako:293
-#: mjvartorg/templates/jvwall/post_body.mako:305
-#: mjvartorg/templates/jvwall/post_body.mako:454
+#: mjvartorg/templates/jvwall/post.mako:106
+#: mjvartorg/templates/jvwall/post.mako:124
+#: mjvartorg/templates/jvwall/post_body.mako:156
+#: mjvartorg/templates/jvwall/post_body.mako:165
+#: mjvartorg/templates/jvwall/post_body.mako:179
+#: mjvartorg/templates/jvwall/post_body.mako:299
+#: mjvartorg/templates/jvwall/post_body.mako:317
+#: mjvartorg/templates/jvwall/post_body.mako:468
 #: mjvartorg/templates/profile/view.mako:512
 #: mjvartorg/templates/profile/view.mako:534
 msgid "Add"
 msgstr "添加"
 
-#: mjvartorg/templates/jvwall/post.mako:101
-#: mjvartorg/templates/jvwall/post_body.mako:293
+#: mjvartorg/templates/jvwall/post.mako:107
+#: mjvartorg/templates/jvwall/post_body.mako:300
 msgid "New tags can be added only in English!"
 msgstr "新标签只能使用英文！"
 
-#: mjvartorg/templates/jvwall/post.mako:102
-#: mjvartorg/templates/jvwall/post.mako:110
-#: mjvartorg/templates/jvwall/post_body.mako:294
-#: mjvartorg/templates/jvwall/post_body.mako:302
+#: mjvartorg/templates/jvwall/post.mako:111
+#: mjvartorg/templates/jvwall/post.mako:126
+#: mjvartorg/templates/jvwall/post_body.mako:304
+#: mjvartorg/templates/jvwall/post_body.mako:319
 msgid "Recommend tag"
 msgstr "推荐的标签"
 
-#: mjvartorg/templates/jvwall/post.mako:113
-#: mjvartorg/templates/jvwall/post_body.mako:305
+#: mjvartorg/templates/jvwall/post.mako:125
+#: mjvartorg/templates/jvwall/post_body.mako:318
 msgid "You can`t recommend new tags"
 msgstr "您不能推荐新标签"
 
 #: mjvartorg/templates/jvwall/post_body.mako:7
-msgid "Your wallpaper will be available to others only after verification by the moderator"
+msgid ""
+"Your wallpaper will be available to others only after verification by the"
+" moderator"
 msgstr "您的壁纸只有在版主确认后其他人才能访问"
 
 #: mjvartorg/templates/jvwall/post_body.mako:8
@@ -1007,47 +1061,47 @@ msgstr "这些壁纸被禁止："
 
 #: mjvartorg/templates/jvwall/post_body.mako:23
 #: mjvartorg/templates/jvwall/post_body.mako:41
-#: mjvartorg/templates/jvwall/post_body.mako:126
+#: mjvartorg/templates/jvwall/post_body.mako:130
 msgid "Unknown"
 msgstr "未知"
 
 #: mjvartorg/templates/jvwall/post_body.mako:25
-#: mjvartorg/templates/jvwall/post_body.mako:127
+#: mjvartorg/templates/jvwall/post_body.mako:131
 msgid "Poor quality"
 msgstr "质量差"
 
 #: mjvartorg/templates/jvwall/post_body.mako:27
-#: mjvartorg/templates/jvwall/post_body.mako:128
+#: mjvartorg/templates/jvwall/post_body.mako:132
 msgid "Duplicate"
 msgstr "重复"
 
 #: mjvartorg/templates/jvwall/post_body.mako:29
-#: mjvartorg/templates/jvwall/post_body.mako:129
+#: mjvartorg/templates/jvwall/post_body.mako:133
 msgid "Not subjects of a site"
 msgstr "不是一个站点的主题"
 
 #: mjvartorg/templates/jvwall/post_body.mako:31
-#: mjvartorg/templates/jvwall/post_body.mako:130
+#: mjvartorg/templates/jvwall/post_body.mako:134
 msgid "The author's request"
 msgstr "创作者的请求"
 
 #: mjvartorg/templates/jvwall/post_body.mako:33
-#: mjvartorg/templates/jvwall/post_body.mako:131
+#: mjvartorg/templates/jvwall/post_body.mako:135
 msgid "Upscale"
 msgstr "提升"
 
 #: mjvartorg/templates/jvwall/post_body.mako:35
-#: mjvartorg/templates/jvwall/post_body.mako:133
+#: mjvartorg/templates/jvwall/post_body.mako:137
 msgid "Screenshot"
 msgstr "屏幕截图"
 
 #: mjvartorg/templates/jvwall/post_body.mako:37
-#: mjvartorg/templates/jvwall/post_body.mako:132
+#: mjvartorg/templates/jvwall/post_body.mako:136
 msgid "Downscale"
 msgstr "降级"
 
 #: mjvartorg/templates/jvwall/post_body.mako:39
-#: mjvartorg/templates/jvwall/post_body.mako:134
+#: mjvartorg/templates/jvwall/post_body.mako:138
 msgid "Cropping"
 msgstr "裁剪中"
 
@@ -1071,177 +1125,178 @@ msgstr "当前状态设置者"
 msgid "Date Upload"
 msgstr "上传日期"
 
-#: mjvartorg/templates/jvwall/post_body.mako:85
+#: mjvartorg/templates/jvwall/post_body.mako:86
+#: mjvartorg/templates/jvwall/post_body.mako:88
 msgid "Date Published"
 msgstr "发布日期"
 
-#: mjvartorg/templates/jvwall/post_body.mako:86
+#: mjvartorg/templates/jvwall/post_body.mako:89
 msgid "Downloads"
 msgstr "下载"
 
-#: mjvartorg/templates/jvwall/post_body.mako:89
-#: mjvartorg/templates/jvwall/post_body.mako:99
+#: mjvartorg/templates/jvwall/post_body.mako:93
+#: mjvartorg/templates/jvwall/post_body.mako:103
 msgid "Anime wallpapers"
 msgstr "动漫壁纸"
 
-#: mjvartorg/templates/jvwall/post_body.mako:96
+#: mjvartorg/templates/jvwall/post_body.mako:100
 msgid "Size"
 msgstr "大小"
 
-#: mjvartorg/templates/jvwall/post_body.mako:104
+#: mjvartorg/templates/jvwall/post_body.mako:108
 msgid "Artefacts Degree"
 msgstr "品味"
 
-#: mjvartorg/templates/jvwall/post_body.mako:105
+#: mjvartorg/templates/jvwall/post_body.mako:109
 msgid "Smooth Degree"
 msgstr "平滑度"
 
-#: mjvartorg/templates/jvwall/post_body.mako:106
+#: mjvartorg/templates/jvwall/post_body.mako:110
 msgid "Complex"
 msgstr "复杂度"
 
-#: mjvartorg/templates/jvwall/post_body.mako:120
+#: mjvartorg/templates/jvwall/post_body.mako:124
 msgid "New"
 msgstr "新建"
 
-#: mjvartorg/templates/jvwall/post_body.mako:121
+#: mjvartorg/templates/jvwall/post_body.mako:125
 msgid "Pre public"
 msgstr "预公开"
 
-#: mjvartorg/templates/jvwall/post_body.mako:122
+#: mjvartorg/templates/jvwall/post_body.mako:126
 msgid "Public"
 msgstr "公开"
 
-#: mjvartorg/templates/jvwall/post_body.mako:123
+#: mjvartorg/templates/jvwall/post_body.mako:127
 msgid "Banned"
 msgstr "已封禁"
 
-#: mjvartorg/templates/jvwall/post_body.mako:136
+#: mjvartorg/templates/jvwall/post_body.mako:140
 msgid "Redirect ID..."
 msgstr "重定向 ID..."
 
-#: mjvartorg/templates/jvwall/post_body.mako:137
+#: mjvartorg/templates/jvwall/post_body.mako:141
 #: mjvartorg/templates/profile/ext_profile.mako:76
 #: mjvartorg/templates/profile/ext_profile.mako:87
 msgid "Set"
 msgstr "设置"
 
-#: mjvartorg/templates/jvwall/post_body.mako:141
+#: mjvartorg/templates/jvwall/post_body.mako:145
 msgid "Erotic integer"
 msgstr "色情指数"
 
-#: mjvartorg/templates/jvwall/post_body.mako:142
+#: mjvartorg/templates/jvwall/post_body.mako:146
 msgid "Spoiler"
 msgstr "剧透"
 
-#: mjvartorg/templates/jvwall/post_body.mako:144
+#: mjvartorg/templates/jvwall/post_body.mako:148
 msgid "Position"
 msgstr "位置"
 
-#: mjvartorg/templates/jvwall/post_body.mako:148
+#: mjvartorg/templates/jvwall/post_body.mako:152
 msgid "Number of posts, from where you need to add tags"
 msgstr "需要添加标签的投稿数"
 
-#: mjvartorg/templates/jvwall/post_body.mako:157
+#: mjvartorg/templates/jvwall/post_body.mako:161
 msgid "Number of post, from where you want to migrate comments, scores list"
 msgstr "你要迁移的评论和评分数"
 
-#: mjvartorg/templates/jvwall/post_body.mako:170
+#: mjvartorg/templates/jvwall/post_body.mako:174
 msgid "Linked pictures"
 msgstr "链接的图片"
 
-#: mjvartorg/templates/jvwall/post_body.mako:174
+#: mjvartorg/templates/jvwall/post_body.mako:178
 msgid "Post ID..."
 msgstr "稿件 ID..."
 
-#: mjvartorg/templates/jvwall/post_body.mako:192
+#: mjvartorg/templates/jvwall/post_body.mako:196
 msgid "Unstar it!"
 msgstr "取消评星！"
 
-#: mjvartorg/templates/jvwall/post_body.mako:194
-#: mjvartorg/templates/jvwall/post_body.mako:202
+#: mjvartorg/templates/jvwall/post_body.mako:198
+#: mjvartorg/templates/jvwall/post_body.mako:206
 msgid "Star it!"
 msgstr "评星！"
 
-#: mjvartorg/templates/jvwall/post_body.mako:206
+#: mjvartorg/templates/jvwall/post_body.mako:210
 msgid "Votes"
 msgstr "评分数"
 
-#: mjvartorg/templates/jvwall/post_body.mako:231
+#: mjvartorg/templates/jvwall/post_body.mako:235
 msgid "Download anime picture"
 msgstr "下载图片"
 
-#: mjvartorg/templates/jvwall/post_body.mako:231
-#: mjvartorg/templates/jvwall/post_body.mako:259
-#: mjvartorg/templates/jvwall/post_body.mako:274
+#: mjvartorg/templates/jvwall/post_body.mako:235
+#: mjvartorg/templates/jvwall/post_body.mako:263
+#: mjvartorg/templates/jvwall/post_body.mako:278
 msgid "with"
 msgstr "与"
 
-#: mjvartorg/templates/jvwall/post_body.mako:319
+#: mjvartorg/templates/jvwall/post_body.mako:333
 msgid "Favorites for"
 msgstr "收藏"
 
-#: mjvartorg/templates/jvwall/post_body.mako:321
+#: mjvartorg/templates/jvwall/post_body.mako:335
 msgid "About favorites(desc)"
 msgstr "关于收藏（降序）"
 
-#: mjvartorg/templates/jvwall/post_body.mako:336
+#: mjvartorg/templates/jvwall/post_body.mako:350
 msgid "Your favorite"
 msgstr "您的收藏"
 
-#: mjvartorg/templates/jvwall/post_body.mako:338
+#: mjvartorg/templates/jvwall/post_body.mako:352
 msgid "Not in favorites"
 msgstr "未收藏"
 
-#: mjvartorg/templates/jvwall/post_body.mako:342
+#: mjvartorg/templates/jvwall/post_body.mako:356
 msgid "In favorites"
 msgstr "已收藏"
 
-#: mjvartorg/templates/jvwall/post_body.mako:344
+#: mjvartorg/templates/jvwall/post_body.mako:358
 msgid "Add to favorites"
 msgstr "添加到收藏"
 
-#: mjvartorg/templates/jvwall/post_body.mako:349
+#: mjvartorg/templates/jvwall/post_body.mako:363
 msgid "In"
 msgstr "在"
 
-#: mjvartorg/templates/jvwall/post_body.mako:351
+#: mjvartorg/templates/jvwall/post_body.mako:365
 msgid "Add to"
 msgstr "添加到"
 
-#: mjvartorg/templates/jvwall/post_body.mako:363
+#: mjvartorg/templates/jvwall/post_body.mako:377
 msgid "Similar to"
 msgstr "类似的图片"
 
-#: mjvartorg/templates/jvwall/post_body.mako:365
+#: mjvartorg/templates/jvwall/post_body.mako:379
 msgid "About similar image(desc)"
 msgstr "类似的图片（降序）"
 
-#: mjvartorg/templates/jvwall/post_body.mako:384
+#: mjvartorg/templates/jvwall/post_body.mako:398
 msgid "About artists"
 msgstr "关于绘师"
 
-#: mjvartorg/templates/jvwall/post_body.mako:386
+#: mjvartorg/templates/jvwall/post_body.mako:400
 msgid "About artists(desc)"
 msgstr "关于绘师（降序）"
 
-#: mjvartorg/templates/jvwall/post_body.mako:400
+#: mjvartorg/templates/jvwall/post_body.mako:414
 msgid "Tags descriptions"
 msgstr "标签描述"
 
-#: mjvartorg/templates/jvwall/post_body.mako:402
+#: mjvartorg/templates/jvwall/post_body.mako:416
 msgid "Open Description"
 msgstr "打开描述"
 
-#: mjvartorg/templates/jvwall/post_body.mako:404
+#: mjvartorg/templates/jvwall/post_body.mako:418
 msgid "Show descriptions"
 msgstr "显示描述"
 
-#: mjvartorg/templates/jvwall/post_body.mako:409
+#: mjvartorg/templates/jvwall/post_body.mako:423
 msgid "About tag description(desc)"
 msgstr "标签描述（降序）"
 
-#: mjvartorg/templates/jvwall/post_body.mako:430
+#: mjvartorg/templates/jvwall/post_body.mako:444
 msgid "About comments(desc)"
 msgstr "评论（降序）"
 
@@ -1253,23 +1308,23 @@ msgstr "删除标签"
 msgid "Set tag rect"
 msgstr "设置标签矩形"
 
-#: mjvartorg/templates/jvwall/posts.mako:48
+#: mjvartorg/templates/jvwall/posts.mako:41
 msgid "Searching options"
 msgstr "搜索选项"
 
-#: mjvartorg/templates/jvwall/posts.mako:50
+#: mjvartorg/templates/jvwall/posts.mako:43
 msgid "About search options(desc)"
 msgstr "搜索选项（降序）"
 
-#: mjvartorg/templates/jvwall/posts.mako:63
+#: mjvartorg/templates/jvwall/posts.mako:56
 msgid "Multiaction"
 msgstr "多选"
 
-#: mjvartorg/templates/jvwall/posts.mako:66
+#: mjvartorg/templates/jvwall/posts.mako:59
 msgid "Add tags"
 msgstr "添加标签"
 
-#: mjvartorg/templates/jvwall/posts.mako:68
+#: mjvartorg/templates/jvwall/posts.mako:61
 msgid "Check all"
 msgstr "全部检查"
 
@@ -1391,71 +1446,72 @@ msgid "Upload limit"
 msgstr "上传限制"
 
 #: mjvartorg/templates/profile/ext_profile.mako:83
+#: mjvartorg/templates/profile/ext_profile.mako:93
 msgid "Groups"
 msgstr "组"
 
-#: mjvartorg/templates/profile/ext_profile.mako:94
+#: mjvartorg/templates/profile/ext_profile.mako:101
 msgid "Actions"
 msgstr "选项"
 
-#: mjvartorg/templates/profile/ext_profile.mako:96
+#: mjvartorg/templates/profile/ext_profile.mako:103
 msgid "Sending a message"
 msgstr "发送消息"
 
-#: mjvartorg/templates/profile/ext_profile.mako:97
+#: mjvartorg/templates/profile/ext_profile.mako:104
 msgid "Images by"
 msgstr "投稿自"
 
-#: mjvartorg/templates/profile/ext_profile.mako:98
+#: mjvartorg/templates/profile/ext_profile.mako:105
 msgid "Comments by"
 msgstr "评论自"
 
-#: mjvartorg/templates/profile/ext_profile.mako:99
+#: mjvartorg/templates/profile/ext_profile.mako:106
 msgid "Stars by"
 msgstr "加星自"
 
-#: mjvartorg/templates/profile/ext_profile.mako:104
+#: mjvartorg/templates/profile/ext_profile.mako:111
 msgid "You action"
 msgstr "您的选项"
 
-#: mjvartorg/templates/profile/ext_profile.mako:127
+#: mjvartorg/templates/profile/ext_profile.mako:134
 msgid "Last favorites"
 msgstr "最近的收藏"
 
-#: mjvartorg/templates/profile/ext_profile.mako:129
+#: mjvartorg/templates/profile/ext_profile.mako:136
 msgid "default"
 msgstr "默认"
 
-#: mjvartorg/templates/profile/ext_profile.mako:148
+#: mjvartorg/templates/profile/ext_profile.mako:155
 msgid "Approved pictures"
 msgstr "已批准的投稿"
 
-#: mjvartorg/templates/profile/ext_profile.mako:156
+#: mjvartorg/templates/profile/ext_profile.mako:163
 msgid "Most downloaded image"
 msgstr "下载最多的投稿"
 
-#: mjvartorg/templates/profile/ext_profile.mako:164
-#: mjvartorg/templates/profile/ext_profile.mako:178
+#: mjvartorg/templates/profile/ext_profile.mako:171
+#: mjvartorg/templates/profile/ext_profile.mako:185
 msgid "Empty"
 msgstr "空"
 
-#: mjvartorg/templates/profile/ext_profile.mako:170
+#: mjvartorg/templates/profile/ext_profile.mako:177
 msgid "Most popular image"
 msgstr "最受欢迎的投稿"
 
-#: mjvartorg/templates/profile/ext_profile.mako:184
+#: mjvartorg/templates/profile/ext_profile.mako:191
 msgid "All downloads"
 msgstr "全部下载"
 
-#: mjvartorg/templates/profile/ext_profile.mako:192
+#: mjvartorg/templates/profile/ext_profile.mako:199
 msgid "All stars"
 msgstr "全部加星"
 
-#: mjvartorg/templates/profile/ext_profile.mako:200
+#: mjvartorg/templates/profile/ext_profile.mako:207
 msgid "Average number of downloads per picture"
 msgstr "投稿平均下载次数"
 
-#: mjvartorg/templates/profile/ext_profile.mako:210
+#: mjvartorg/templates/profile/ext_profile.mako:217
 msgid "Average number of stars per picture"
 msgstr "投稿平均加星数"
 
@@ -1547,7 +1603,9 @@ msgid "Repeat password"
 msgstr "重复密码"
 
 #: mjvartorg/templates/profile/register.mako:107
-msgid "for confirmation code, please don't use phone email like blabla@docomo.ne.jp"
+msgid ""
+"for confirmation code, please don't use phone email like "
+"blabla@docomo.ne.jp"
 msgstr "用于确认码，请不要使用像 blabla@dododomo.ne.jp 这样的电话邮箱"
 
 #: mjvartorg/templates/profile/register.mako:112
@@ -1654,59 +1712,59 @@ msgstr "文件夹"
 msgid "Drag and drop for sorting"
 msgstr "拖拽以排序"
 
-#: thandler/add_wall.py:31
+#: thandler/add_wall.py:32
 msgid "Can't open image file"
 msgstr "无法打开图片文件"
 
-#: thandler/add_wall.py:33 thandler/add_wall.py:301
+#: thandler/add_wall.py:34 thandler/add_wall.py:371
 msgid "Not rigth image format"
 msgstr "不正确的图片格式"
 
-#: thandler/add_wall.py:40
+#: thandler/add_wall.py:41
 msgid "Resolution larger side lower than 800 pixels. You have"
 msgstr "图片长度或宽度都小于 800 像素。您有"
 
-#: thandler/add_wall.py:47
+#: thandler/add_wall.py:48
 msgid "The image size is greater than 50 megabyte"
 msgstr "该图大于 50 MiB"
 
-#: thandler/add_wall.py:56
+#: thandler/add_wall.py:57
 msgid "The error in calculating the md5"
 msgstr "计算 md5 错误"
 
-#: thandler/add_wall.py:221
+#: thandler/add_wall.py:224
 msgid "Error! Not the normal color scheme."
 msgstr "错误！不是正常的颜色方案。"
 
-#: thandler/add_wall.py:224
+#: thandler/add_wall.py:227
 msgid "Error! This format is not full support."
 msgstr "错误！此格式不完全支持。"
 
-#: thandler/add_wall.py:311
+#: thandler/add_wall.py:381
 msgid "text"
 msgstr "文本"
 
-#: thandler/add_wall.py:319 thandler/add_wall.py:327
+#: thandler/add_wall.py:389 thandler/add_wall.py:397 thandler/add_wall.py:455
 msgid "Duplicate! Such a image is already in the database"
 msgstr "重复！该图已经在数据库中"
 
-#: thandler/add_wall.py:346
+#: thandler/add_wall.py:418
 msgid "error"
 msgstr "错误"
 
-#: thandler/comments.py:127 thandler/comments.py:187
+#: thandler/comments.py:164 thandler/comments.py:224
 msgid "More than 2000 chars"
 msgstr "超过 2000 个字符"
 
-#: thandler/comments.py:129
+#: thandler/comments.py:166
 msgid "Less than 2 characters"
 msgstr "少于 2 个字符"
 
-#: thandler/comments.py:134
+#: thandler/comments.py:171
 msgid "Not have image"
 msgstr "没有图像"
 
-#: thandler/comments.py:185 thandler/comments.py:202 thandler/comments.py:217
+#: thandler/comments.py:222 thandler/comments.py:239 thandler/comments.py:254
 msgid "Not have access."
 msgstr "没有访问权限。"
 
@@ -1716,25 +1774,34 @@ msgstr "抱歉，无法发送电子邮件"
 
 #: thandler/login.py:246
 #, python-format
-msgid "\n"
-"\t\t\tTo verify your email, go to this https://%s/login/email_verify/%s .\n"
+msgid ""
+"\n"
+"\t\t\tTo verify your email, go to this https://%s/login/email_verify/%s ."
+"\n"
 "\t\t\tIf you did not registered please delete this message.\n"
 "\t\t\t"
-msgstr "\n"
+msgstr ""
+"\n"
 "\t\t\t如果要验证您的电子邮箱，请打开 https://%s/login/email_verify/%s 。\n"
 "\t\t\t如果您未注册，请删除这条消息。\n"
 "\t\t\t"
 
 #: thandler/login.py:253
 #, python-format
-msgid "\n"
+msgid ""
+"\n"
 "\t\t\tTo verify your email, go to this\n"
-"\t\t\t<a href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>.\n"
+"\t\t\t<a "
+"href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
 "\t\t\tIf you did not registered please delete this message.\n"
 "\t\t\t"
-msgstr "\n"
+msgstr ""
+"\n"
 "\t\t\t要验证您的电子邮箱，请打开\n"
-"\t\t\t<a href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>.\n"
+"\t\t\t<a "
+"href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
 "\t\t\t如果您未注册，请删除这条消息。\n"
 "\t\t\t"
 
@@ -1801,7 +1868,11 @@ msgstr "新消息"
 msgid "You have a new message from %s."
 msgstr "您有一条来自 %s 的新消息。"
 
-#: thandler/post.py:497 thandler/post.py:577 thandler/tags.py:284
+#: thandler/post.py:561 thandler/post.py:572
+msgid "Image with that id is not exist"
+msgstr ""
+
+#: thandler/post.py:567 thandler/post.py:648 thandler/tags.py:284
 #: thandler/tags.py:413 thandler/tags.py:463
 msgid "You not have rights"
 msgstr "您没有权限"
@@ -1908,26 +1979,37 @@ msgstr "您每小时只能发送一次消息"
 
 #: thandler/register.py:256
 #, python-format
-msgid "\n"
-"\t\t\t\t\tTo recover your password, go to this https://%s/login/password_recovery_verify/%s .\n"
-"\t\t\t\t\tIf you did not ask for the password that restores please delete this message.\n"
+msgid ""
+"\n"
+"\t\t\t\t\tTo recover your password, go to this "
+"https://%s/login/password_recovery_verify/%s .\n"
+"\t\t\t\t\tIf you did not ask for the password that restores please delete"
+" this message.\n"
 "\t\t\t\t\t"
-msgstr "\n"
+msgstr ""
+"\n"
 "\t\t\t\t\t要恢复您的密码，请打开 https://%s/login/password_recovery_verify/%s .\n"
 "\t\t\t\t\t如果您并未请求恢复密码，请删除这条消息。"
 
 #: thandler/register.py:263
 #, python-format
-msgid "\n"
+msgid ""
+"\n"
 "\t\t\t\t\tTo recover your password, go to this\n"
-"\t\t\t\t\t<a href=\"https://%(host)s/login/password_recovery_verify/%(token)s\"\n"
-"\t\t\t\t\t>https://%(host)s/login/password_recovery_verify/%(token)s</a>.\n"
-"\t\t\t\t\tIf you did not ask for the password that restores please delete this message.\n"
+"\t\t\t\t\t<a "
+"href=\"https://%(host)s/login/password_recovery_verify/%(token)s\"\n"
+"\t\t\t\t\t>https://%(host)s/login/password_recovery_verify/%(token)s</a>."
+"\n"
+"\t\t\t\t\tIf you did not ask for the password that restores please delete"
+" this message.\n"
 "\t\t\t\t\t"
-msgstr "\n"
+msgstr ""
+"\n"
 "\t\t\t\t\t要恢复您的密码，请打开\n"
-"\t\t\t\t\t<a href=\"https://%(host)s/login/password_recovery_verify/%(token)s\"\n"
-"\t\t\t\t\t>https://%(host)s/login/password_recovery_verify/%(token)s</a>.\n"
+"\t\t\t\t\t<a "
+"href=\"https://%(host)s/login/password_recovery_verify/%(token)s\"\n"
+"\t\t\t\t\t>https://%(host)s/login/password_recovery_verify/%(token)s</a>."
+"\n"
 "\t\t\t\t\t如果您并未请求恢复密码，请删除这条消息。\n"
 "\t\t\t\t\t"
 
@@ -1945,24 +2027,33 @@ msgstr "新电子邮箱与旧电子邮箱相同"
 
 #: thandler/register.py:327
 #, python-format
-msgid "\n"
-"\t\t\t\t\tTo verify your email, go to this https://%s/login/email_verify/%s .\n"
+msgid ""
+"\n"
+"\t\t\t\t\tTo verify your email, go to this "
+"https://%s/login/email_verify/%s .\n"
 "\t\t\t\t\tIf you did not registered please delete this message.\n"
 "\t\t\t\t\t"
-msgstr "\n"
+msgstr ""
+"\n"
 "\t\t\t\t\t要验证您的电子邮箱，请访问此链接 https://%s/login/email_verify/%s 。\n"
 "\t\t\t\t\t如果您没有注册，请删除此消息。\n"
 "\t\t\t\t\t"
 
 #: thandler/register.py:334
 #, python-format
-msgid "\n"
+msgid ""
+"\n"
 "\t\t\t\t\tTo verify your email, go to this\n"
-"\t\t\t\t\t<a href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>.\n"
+"\t\t\t\t\t<a "
+"href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
 "\t\t\t\t\tIf you did not registered please delete this message.\n"
 "\t\t\t\t\t"
-msgstr "\n"
-"\t\t\t\t\t要验证您的电子邮箱，请打开： <a href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>.\n"
+msgstr ""
+"\n"
+"\t\t\t\t\t要验证您的电子邮箱，请打开： <a "
+"href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
 "\t\t\t\t\t如果您未注册，请删除这条消息。\n"
 "\t\t\t\t\t"
 
@@ -1990,59 +2081,58 @@ msgstr "空字符串"
 msgid "You not have rights delete system tag"
 msgstr "您没有权限删除系统标签"
 
-#: thandler/tags.py:861 thandler/tags.py:949 thandler/tags.py:976
-#: thandler/tags.py:1069 thandler/tags.py:1290
+#: thandler/tags.py:862 thandler/tags.py:950 thandler/tags.py:977
+#: thandler/tags.py:1070 thandler/tags.py:1291
 msgid "You not rights!"
 msgstr "您没有权限！"
 
-#: thandler/tags.py:867
+#: thandler/tags.py:868
 msgid "Merging when from_tag == to_tag"
 msgstr "当 from_tag == to_tag 合并"
 
-#: thandler/tags.py:879
+#: thandler/tags.py:880
 #, python-format
 msgid "This tag have children. Example: %i. "
 msgstr "此标签有子级，例如： %i 。"
 
-#: thandler/tags.py:1051
+#: thandler/tags.py:1052
 #, python-format
 msgid "Not have tag %i as parent for tag %i."
 msgstr "不存在一个 %i 作为 %i 的父标签。"
 
-#: thandler/tags.py:1054
+#: thandler/tags.py:1055
 #, python-format
 msgid "Loop tag from %i to %i."
 msgstr "循环标签从 %i 到 %i。"
 
-#: thandler/tags.py:1078
+#: thandler/tags.py:1079
 msgid "English field of tag can`t be empty"
 msgstr "标签的英文字段不能为空"
 
-#: thandler/tags.py:1084
+#: thandler/tags.py:1085
 msgid "English field of tag need unique!"
 msgstr "标签的英文字段必须是唯一的！"
 
-#: thandler/tags.py:1105
+#: thandler/tags.py:1106
 msgid "Tag parent must be integer."
 msgstr "父标签必须是整数。"
 
-#: thandler/tags.py:1117
+#: thandler/tags.py:1118
 msgid "Alias must be a number!"
 msgstr "别名必须是一个数字！"
 
-#: thandler/tags.py:1123
+#: thandler/tags.py:1124
 msgid "Alias tag not found!"
 msgstr "标签别名未找到！"
 
-#: thandler/tags.py:1125
+#: thandler/tags.py:1126
 msgid "For alias this tag must be in a single copy!"
 msgstr "对于别名此标签必须在单个副本中！"
 
-#: thandler/tags.py:1127
+#: thandler/tags.py:1128
 msgid "You can't make alias tag if this tag has a parent."
 msgstr "如果此标签有父级，您不能创建别名标签。"
 
-#: thandler/tags.py:1133
+#: thandler/tags.py:1134
 msgid "You can't make alias tag if this tag has childrens."
 msgstr "如果标签有子级，您不能创建别名标签。"
-
