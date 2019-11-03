@@ -4,6 +4,7 @@ msgstr ""
 "Project-Id-Version:  anime-pictures.net\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-02 21:18+0900\n"
+
 "PO-Revision-Date: 2019-10-23 13:53+0200\n"
 "Last-Translator: \n"
 "Language: it\n"
@@ -72,8 +73,7 @@ msgstr "Persone che hanno contribuito al sito:"
 msgid "All users"
 msgstr "Tutti gli utenti"
 
-#: mjvartorg/templates/android_app.mako:6
-#: mjvartorg/templates/android_app.mako:17
+#: mjvartorg/templates/android_app.mako:6 mjvartorg/templates/android_app.mako:17
 msgid "Android app"
 msgstr "Android app"
 
@@ -122,8 +122,7 @@ msgstr ""
 msgid "Ok"
 msgstr "Ok"
 
-#: mjvartorg/templates/bone.mako:109
-#: mjvartorg/templates/jvwall/edit_tag.mako:94
+#: mjvartorg/templates/bone.mako:109 mjvartorg/templates/jvwall/edit_tag.mako:94
 #: mjvartorg/templates/jvwall/edit_tag.mako:128
 msgid "Error"
 msgstr "Errore"
@@ -133,8 +132,7 @@ msgstr "Errore"
 msgid "Download picture"
 msgstr "Scarica Immagine"
 
-#: mjvartorg/templates/bone.mako:111
-#: mjvartorg/templates/jvwall/edit_tag.mako:90
+#: mjvartorg/templates/bone.mako:111 mjvartorg/templates/jvwall/edit_tag.mako:90
 msgid "Done"
 msgstr "Fatto"
 
@@ -158,8 +156,7 @@ msgstr ""
 msgid "Remove the tag?"
 msgstr "Rimuovere questo tag?"
 
-#: mjvartorg/templates/bone.mako:116
-#: mjvartorg/templates/jvwall/all_tags.mako:52
+#: mjvartorg/templates/bone.mako:116 mjvartorg/templates/jvwall/all_tags.mako:52
 #: mjvartorg/templates/jvwall/all_tags.mako:53
 #: mjvartorg/templates/jvwall/post_tags_ajax.mako:44
 msgid "Edit tag"
@@ -316,7 +313,7 @@ msgstr "Ciao"
 #: mjvartorg/templates/bone.mako:339
 #: mjvartorg/templates/profile/ext_profile.mako:116
 msgid "Your own wallpapers "
-msgstr "I tuoi sfondi "
+msgstr "Le tue immagini "
 
 #: mjvartorg/templates/bone.mako:342
 #: mjvartorg/templates/profile/ext_profile.mako:117
@@ -373,7 +370,7 @@ msgstr "Password"
 #: mjvartorg/templates/profile/login_body.mako:27
 #: mjvartorg/templates/profile/password_recovery.mako:73
 msgid "Submit"
-msgstr "Sottoscrivi"
+msgstr "Invia"
 
 #: mjvartorg/templates/bone.mako:378
 #: mjvartorg/templates/profile/login_body.mako:28
@@ -440,8 +437,7 @@ msgstr "tutti"
 msgid "Edit"
 msgstr "Modifica"
 
-#: mjvartorg/templates/index.mako:6
-#: mjvartorg/templates/moderator_statistic.mako:6
+#: mjvartorg/templates/index.mako:6 mjvartorg/templates/moderator_statistic.mako:6
 msgid "Anime pictures and wallpapers"
 msgstr "Immagini e sfondi Anime"
 
@@ -570,8 +566,7 @@ msgstr "Statistica"
 msgid "Privacy Policy"
 msgstr "Privacy Policy"
 
-#: mjvartorg/templates/jvwall/post.mako:9
-#: mjvartorg/templates/jvwall/post.mako:21
+#: mjvartorg/templates/jvwall/post.mako:9 mjvartorg/templates/jvwall/post.mako:21
 #: mjvartorg/templates/jvwall/post_body.mako:56
 #: mjvartorg/templates/jvwall/post_body.mako:262
 #: mjvartorg/templates/jvwall/post_body.mako:278
@@ -718,25 +713,25 @@ msgstr "mese scorso"
 #, fuzzy
 #| msgid "past month"
 msgid "past 6 months"
-msgstr "mese scorso"
+msgstr "ultimi 6 mesi"
 
 #: mjvartorg/templates/std.mako:827
 #, fuzzy
 #| msgid "past day"
 msgid "past year"
-msgstr "ieri"
+msgstr "ultimo anno"
 
 #: mjvartorg/templates/std.mako:828
 #, fuzzy
 #| msgid "2 year"
 msgid "past 2 years"
-msgstr "2 anni"
+msgstr "ultimi 2 anni"
 
 #: mjvartorg/templates/std.mako:829
 #, fuzzy
 #| msgid "3 year"
 msgid "past 3 years"
-msgstr "3 anni"
+msgstr "ultimi 3 anni"
 
 #: mjvartorg/templates/std.mako:837
 msgid "small preview"
@@ -798,8 +793,7 @@ msgstr "I tuoi tag consigliati"
 #: mjvartorg/templates/jvwall/accepted_pre_tags.mako:32
 #: mjvartorg/templates/jvwall/all_comments.mako:6
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:98
-#: mjvartorg/templates/jvwall/post.mako:7
-#: mjvartorg/templates/jvwall/post.mako:19
+#: mjvartorg/templates/jvwall/post.mako:7 mjvartorg/templates/jvwall/post.mako:19
 #: mjvartorg/templates/jvwall/post_body.mako:54
 #: mjvartorg/templates/jvwall/pre_tags.mako:58
 #: mjvartorg/templates/jvwall/scores.mako:37
@@ -834,7 +828,7 @@ msgstr "Aggiungi wallpapers"
 
 #: mjvartorg/templates/jvwall/after_add_wall.mako:19
 msgid "You wallpapers"
-msgstr "I tuoi wallpapers"
+msgstr "Le tue immagini"
 
 #: mjvartorg/templates/jvwall/after_add_wall.mako:22
 msgid "Image"
@@ -1763,7 +1757,7 @@ msgstr "testo"
 
 #: thandler/add_wall.py:389 thandler/add_wall.py:397 thandler/add_wall.py:455
 msgid "Duplicate! Such a image is already in the database"
-msgstr "Duplicare! Immagine già presente nel database"
+msgstr "Duplicato! Immagine già presente nel database"
 
 #: thandler/add_wall.py:418
 msgid "error"
@@ -1893,7 +1887,7 @@ msgstr ""
 #: thandler/post.py:567 thandler/post.py:648 thandler/tags.py:284
 #: thandler/tags.py:413 thandler/tags.py:463
 msgid "You not have rights"
-msgstr "Non hai diritti"
+msgstr "Non hai i permessi"
 
 #: thandler/profile.py:123
 msgid "Password at least 5 characters, or does not match with the check"
