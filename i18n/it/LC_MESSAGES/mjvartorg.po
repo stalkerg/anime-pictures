@@ -1,18 +1,19 @@
+
 msgid ""
 msgstr ""
-"Project-Id-Version: anime-pictures.net\n"
+"Project-Id-Version:  anime-pictures.net\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-11-02 21:18+0900\n"
-"PO-Revision-Date: 2019-11-02 14:51+0100\n"
+
+"PO-Revision-Date: 2019-10-23 13:53+0200\n"
 "Last-Translator: \n"
 "Language: it\n"
 "Language-Team: en <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
-"X-Generator: Poedit 2.2.4\n"
 
 #: mjvartorg/templates/about.mako:6 mjvartorg/templates/about.mako:19
 msgid "About site"
@@ -21,7 +22,8 @@ msgstr "About"
 #: mjvartorg/templates/about.mako:21
 msgid "The site aims to unite people who love Modern Japanese Visual ART"
 msgstr ""
-"Obiettivo del sito e' unire  gli amanti della Moderna Visual ART Giapponese"
+"Obiettivo del sito e' unire  gli amanti della Moderna Visual ART "
+"Giapponese"
 
 #: mjvartorg/templates/about.mako:23
 msgid "Moderators:"
@@ -93,11 +95,11 @@ msgstr "Scarica App"
 
 #: mjvartorg/templates/android_app.mako:31
 msgid ""
-"For install app you need enable \"Unknown Sources\" in settings. After that you "
-"can download and open apk file."
+"For install app you need enable \"Unknown Sources\" in settings. After "
+"that you can download and open apk file."
 msgstr ""
-"Per l'installazione dell'app è necessario abilitare \"Unknown Sources\" nelle "
-"impostazioni. Dopodiché puoi scaricare e aprire il file apk."
+"Per l'installazione dell'app è necessario abilitare \"Unknown Sources\" "
+"nelle impostazioni. Dopodiché puoi scaricare e aprire il file apk."
 
 #: mjvartorg/templates/android_app.mako:32
 msgid "Sometimes you need remove old our app."
@@ -110,10 +112,11 @@ msgstr "Modifica Log"
 #: mjvartorg/templates/bone.mako:72 mjvartorg/templates/index.mako:10
 #: mjvartorg/templates/moderator_statistic.mako:10
 msgid ""
-"Anime pictures and wallpapers with a unique search for free. More than 100,000 "
-"pictures"
+"Anime pictures and wallpapers with a unique search for free. More than "
+"100,000 pictures"
 msgstr ""
-"Immagini e sfondi anime con una ricerca unica gratuita. Più di 100.000 immagini"
+"Immagini e sfondi anime con una ricerca unica gratuita. Più di 100.000 "
+"immagini"
 
 #: mjvartorg/templates/bone.mako:108
 msgid "Ok"
@@ -124,7 +127,8 @@ msgstr "Ok"
 msgid "Error"
 msgstr "Errore"
 
-#: mjvartorg/templates/bone.mako:110 mjvartorg/templates/jvwall/post_body.mako:222
+#: mjvartorg/templates/bone.mako:110
+#: mjvartorg/templates/jvwall/post_body.mako:222
 msgid "Download picture"
 msgstr "Scarica Immagine"
 
@@ -142,11 +146,11 @@ msgstr "ATTENZIONE! Aggiungi un tag completamente nuovo: "
 
 #: mjvartorg/templates/bone.mako:114
 msgid ""
-"ERROR! You should not add new tags. Please choose existing tag. Any requests "
-"please write in comments. Tag:"
+"ERROR! You should not add new tags. Please choose existing tag. Any "
+"requests please write in comments. Tag:"
 msgstr ""
-"ERRORE! Non dovresti aggiungere nuovi tag. Scegli un tag esistente. Si prega di "
-"scrivere nei commenti eventuali richieste. Tag:"
+"ERRORE! Non dovresti aggiungere nuovi tag. Scegli un tag esistente. Si "
+"prega di scrivere nei commenti eventuali richieste. Tag:"
 
 #: mjvartorg/templates/bone.mako:115
 msgid "Remove the tag?"
@@ -284,8 +288,8 @@ msgstr "Ragazze anime"
 
 #: mjvartorg/templates/bone.mako:295
 msgid ""
-"In the last 24 hours <span class='sub_menu_number'>{approved_images}</span> "
-"approved pictures."
+"In the last 24 hours <span "
+"class='sub_menu_number'>{approved_images}</span> approved pictures."
 msgstr ""
 "Immagini approvate nelle ultime 24 ore <span "
 "class='sub_menu_number'>{approved_images}</span>."
@@ -339,7 +343,8 @@ msgstr "Tag raccomandati accettati"
 msgid "Moderating recommend tags"
 msgstr "Moderazione dei tag raccomandati"
 
-#: mjvartorg/templates/bone.mako:358 mjvartorg/templates/jvwall/tags_history.mako:6
+#: mjvartorg/templates/bone.mako:358
+#: mjvartorg/templates/jvwall/tags_history.mako:6
 #: mjvartorg/templates/jvwall/tags_history.mako:22
 #: mjvartorg/templates/profile/ext_profile.mako:124
 msgid "Tags history"
@@ -349,30 +354,36 @@ msgstr "Cronologia tags"
 msgid "Tags changes"
 msgstr "Modifiche ai tag"
 
-#: mjvartorg/templates/bone.mako:372 mjvartorg/templates/profile/login_body.mako:13
+#: mjvartorg/templates/bone.mako:372
+#: mjvartorg/templates/profile/login_body.mako:13
 msgid "Username"
 msgstr "Nome utente"
 
-#: mjvartorg/templates/bone.mako:373 mjvartorg/templates/profile/login_body.mako:19
+#: mjvartorg/templates/bone.mako:373
+#: mjvartorg/templates/profile/login_body.mako:19
 #: mjvartorg/templates/profile/register.mako:96
 msgid "Password"
 msgstr "Password"
 
-#: mjvartorg/templates/bone.mako:377 mjvartorg/templates/jvwall/add_wall.mako:27
+#: mjvartorg/templates/bone.mako:377
+#: mjvartorg/templates/jvwall/add_wall.mako:27
 #: mjvartorg/templates/profile/login_body.mako:27
 #: mjvartorg/templates/profile/password_recovery.mako:73
 msgid "Submit"
 msgstr "Invia"
 
-#: mjvartorg/templates/bone.mako:378 mjvartorg/templates/profile/login_body.mako:28
+#: mjvartorg/templates/bone.mako:378
+#: mjvartorg/templates/profile/login_body.mako:28
 msgid "Registration"
 msgstr "Registrazione"
 
-#: mjvartorg/templates/bone.mako:382 mjvartorg/templates/profile/login_body.mako:32
+#: mjvartorg/templates/bone.mako:382
+#: mjvartorg/templates/profile/login_body.mako:32
 msgid "Enter through"
 msgstr "Accesso diretto"
 
-#: mjvartorg/templates/bone.mako:390 mjvartorg/templates/profile/login_body.mako:40
+#: mjvartorg/templates/bone.mako:390
+#: mjvartorg/templates/profile/login_body.mako:40
 msgid "Recovery password"
 msgstr "Recover password"
 
@@ -384,8 +395,10 @@ msgstr "Pre immagini"
 msgid "Moderators statistic"
 msgstr "Statistiche moderatori"
 
-#: mjvartorg/templates/bone.mako:430 mjvartorg/templates/jvwall/all_tags.mako:101
-#: mjvartorg/templates/jvwall/tag_changes.mako:33 mjvartorg/templates/std.mako:868
+#: mjvartorg/templates/bone.mako:430
+#: mjvartorg/templates/jvwall/all_tags.mako:101
+#: mjvartorg/templates/jvwall/tag_changes.mako:33
+#: mjvartorg/templates/std.mako:868
 msgid "Search"
 msgstr "Cerca"
 
@@ -428,18 +441,20 @@ msgstr "Modifica"
 msgid "Anime pictures and wallpapers"
 msgstr "Immagini e sfondi Anime"
 
-#: mjvartorg/templates/index.mako:28 mjvartorg/templates/jvwall/posts_mrss.mako:7
+#: mjvartorg/templates/index.mako:28
+#: mjvartorg/templates/jvwall/posts_mrss.mako:7
 #: mjvartorg/templates/jvwall/posts_rss.mako:8
 msgid "Anime pictures and wallpapers for everyone!"
 msgstr "Immagini e sfondi anime per tutti!"
 
 #: mjvartorg/templates/index.mako:29
 msgid ""
-"You can see a lot of pictures, upload your, track trends, and communicate! We "
-"want to make the best collection Modern Asian fine art."
+"You can see a lot of pictures, upload your, track trends, and "
+"communicate! We want to make the best collection Modern Asian fine art."
 msgstr ""
-"Puoi vedere molte immagini, caricare le tue, tenere traccia delle tendenze e "
-"comunicare! Vogliamo realizzare la migliore collezione di arti asiatiche moderne."
+"Puoi vedere molte immagini, caricare le tue, tenere traccia delle "
+"tendenze e comunicare! Vogliamo realizzare la migliore collezione di arti"
+" asiatiche moderne."
 
 #: mjvartorg/templates/index.mako:34
 msgid "Last pictures"
@@ -554,10 +569,11 @@ msgstr "Privacy Policy"
 #: mjvartorg/templates/jvwall/post.mako:9 mjvartorg/templates/jvwall/post.mako:21
 #: mjvartorg/templates/jvwall/post_body.mako:56
 #: mjvartorg/templates/jvwall/post_body.mako:262
-#: mjvartorg/templates/jvwall/post_body.mako:278 mjvartorg/templates/std.mako:236
-#: mjvartorg/templates/std.mako:321 mjvartorg/templates/std.mako:369
-#: mjvartorg/templates/std.mako:543 mjvartorg/templates/std.mako:557
-#: mjvartorg/templates/std.mako:582 mjvartorg/templates/std.mako:602
+#: mjvartorg/templates/jvwall/post_body.mako:278
+#: mjvartorg/templates/std.mako:236 mjvartorg/templates/std.mako:321
+#: mjvartorg/templates/std.mako:369 mjvartorg/templates/std.mako:543
+#: mjvartorg/templates/std.mako:557 mjvartorg/templates/std.mako:582
+#: mjvartorg/templates/std.mako:602
 msgid "Anime picture"
 msgstr "Immagine anime"
 
@@ -624,7 +640,8 @@ msgstr "Tag (separati da% s o% s, senza spazi)"
 msgid "Prohibited Tags"
 msgstr "Tag vietati"
 
-#: mjvartorg/templates/jvwall/post_body.mako:91 mjvartorg/templates/std.mako:747
+#: mjvartorg/templates/jvwall/post_body.mako:91
+#: mjvartorg/templates/std.mako:747
 msgid "Resolution"
 msgstr "Risoluzione"
 
@@ -693,18 +710,26 @@ msgid "past month"
 msgstr "mese scorso"
 
 #: mjvartorg/templates/std.mako:826
+#, fuzzy
+#| msgid "past month"
 msgid "past 6 months"
 msgstr "ultimi 6 mesi"
 
 #: mjvartorg/templates/std.mako:827
+#, fuzzy
+#| msgid "past day"
 msgid "past year"
 msgstr "ultimo anno"
 
 #: mjvartorg/templates/std.mako:828
+#, fuzzy
+#| msgid "2 year"
 msgid "past 2 years"
 msgstr "ultimi 2 anni"
 
 #: mjvartorg/templates/std.mako:829
+#, fuzzy
+#| msgid "3 year"
 msgid "past 3 years"
 msgstr "ultimi 3 anni"
 
@@ -1026,11 +1051,11 @@ msgstr "Non puoi consigliare nuovi tag"
 
 #: mjvartorg/templates/jvwall/post_body.mako:7
 msgid ""
-"Your wallpaper will be available to others only after verification by the "
-"moderator"
+"Your wallpaper will be available to others only after verification by the"
+" moderator"
 msgstr ""
-"Il tuo wallpaper sarà disponibile per gli altri solo dopo la verifica da parte "
-"del moderatore"
+"Il tuo wallpaper sarà disponibile per gli altri solo dopo la verifica da "
+"parte del moderatore"
 
 #: mjvartorg/templates/jvwall/post_body.mako:8
 #: mjvartorg/templates/jvwall/post_body.mako:14
@@ -1588,10 +1613,11 @@ msgstr "Ripeti password"
 
 #: mjvartorg/templates/profile/register.mako:107
 msgid ""
-"for confirmation code, please don't use phone email like blabla@docomo.ne.jp"
+"for confirmation code, please don't use phone email like "
+"blabla@docomo.ne.jp"
 msgstr ""
-"per il codice di conferma, non utilizzare l'e-mail telefonica come blabla@docomo."
-"ne.jp"
+"per il codice di conferma, non utilizzare l'e-mail telefonica come "
+"blabla@docomo.ne.jp"
 
 #: mjvartorg/templates/profile/register.mako:112
 msgid "Privacy policy"
@@ -1761,13 +1787,14 @@ msgstr "Spiacenti, impossibile inviare e-mail"
 #, python-format
 msgid ""
 "\n"
-"\t\t\tTo verify your email, go to this https://%s/login/email_verify/%s .\n"
+"\t\t\tTo verify your email, go to this https://%s/login/email_verify/%s ."
+"\n"
 "\t\t\tIf you did not registered please delete this message.\n"
 "\t\t\t"
 msgstr ""
 "\n"
-"\t\t\tPer verificare la tua email, vai a questo link https://%s/login/"
-"email_verify/%s .\n"
+"\t\t\tPer verificare la tua email, vai a questo link "
+"https://%s/login/email_verify/%s .\n"
 "\t\t\tSe non sei registrato, ignora questo messaggio.\n"
 "\t\t\t"
 
@@ -1776,15 +1803,17 @@ msgstr ""
 msgid ""
 "\n"
 "\t\t\tTo verify your email, go to this\n"
-"\t\t\t<a href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/"
-"login/email_verify/%(token)s</a>.\n"
+"\t\t\t<a "
+"href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
 "\t\t\tIf you did not registered please delete this message.\n"
 "\t\t\t"
 msgstr ""
 "\n"
 "\t\t\tPer verificare la tua email, vai a questo link \n"
-"\t\t\t<a href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/"
-"login/email_verify/%(token)s</a>.\n"
+"\t\t\t<a "
+"href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
 "\t\t\tSe non ti sei registrato, cancella questo messaggio.\n"
 "\t\t\t"
 
@@ -1863,8 +1892,8 @@ msgstr "Non hai i permessi"
 #: thandler/profile.py:123
 msgid "Password at least 5 characters, or does not match with the check"
 msgstr ""
-"La password deve contenere almeno 5 caratteri o non deve corrispondere al "
-"controllo"
+"La password deve contenere almeno 5 caratteri o non deve corrispondere al"
+" controllo"
 
 #: thandler/profile.py:125
 msgid "Wrong old password"
@@ -1881,8 +1910,8 @@ msgstr "Il nome della cartella deve essere inferiore a 128 caratteri"
 #: thandler/profile.py:190 thandler/profile.py:265
 msgid "You can't use next names for folders: default and Null"
 msgstr ""
-"Non è possibile utilizzare  nomi successivi per le cartelle: impostazione "
-"predefinita e null"
+"Non è possibile utilizzare  nomi successivi per le cartelle: impostazione"
+" predefinita e null"
 
 #: thandler/profile.py:198 thandler/profile.py:271
 msgid "You have a folder with the same name."
@@ -1968,17 +1997,17 @@ msgstr "Puoi inviare un messaggio solo una volta all'ora"
 #, python-format
 msgid ""
 "\n"
-"\t\t\t\t\tTo recover your password, go to this https://%s/login/"
-"password_recovery_verify/%s .\n"
-"\t\t\t\t\tIf you did not ask for the password that restores please delete this "
-"message.\n"
+"\t\t\t\t\tTo recover your password, go to this "
+"https://%s/login/password_recovery_verify/%s .\n"
+"\t\t\t\t\tIf you did not ask for the password that restores please delete"
+" this message.\n"
 "\t\t\t\t\t"
 msgstr ""
 "\n"
-"\t\t\t\t\tPer recuperare la tua password, vai a questo link: https://%s/login/"
-"password_recovery_verify/%s .\n"
-"\t\t\t\t\tSe non hai richiesto il ripristino della password, ignora questo "
-"messaggio.\n"
+"\t\t\t\t\tPer recuperare la tua password, vai a questo link: "
+"https://%s/login/password_recovery_verify/%s .\n"
+"\t\t\t\t\tSe non hai richiesto il ripristino della password, ignora "
+"questo messaggio.\n"
 "\t\t\t\t\t"
 
 #: thandler/register.py:263
@@ -1986,18 +2015,21 @@ msgstr ""
 msgid ""
 "\n"
 "\t\t\t\t\tTo recover your password, go to this\n"
-"\t\t\t\t\t<a href=\"https://%(host)s/login/password_recovery_verify/%(token)s\"\n"
-"\t\t\t\t\t>https://%(host)s/login/password_recovery_verify/%(token)s</a>.\n"
-"\t\t\t\t\tIf you did not ask for the password that restores please delete this "
-"message.\n"
+"\t\t\t\t\t<a "
+"href=\"https://%(host)s/login/password_recovery_verify/%(token)s\"\n"
+"\t\t\t\t\t>https://%(host)s/login/password_recovery_verify/%(token)s</a>."
+"\n"
+"\t\t\t\t\tIf you did not ask for the password that restores please delete"
+" this message.\n"
 "\t\t\t\t\t"
 msgstr ""
 "\n"
 "\t\t\tPer recuperare la password, vai qui\n"
-"\t\t\t<a href=\"http://%(host)s/login/password_recovery_verify/%(token)s\"\n"
+"\t\t\t<a "
+"href=\"http://%(host)s/login/password_recovery_verify/%(token)s\"\n"
 "\t\t\t>http://%(host)s/login/password_recovery_verify/%(token)s</a>.\n"
-"\t\t\tIf non hai richiesto la password per il ripristino, per favore cancella "
-"questo messaggio.\n"
+"\t\t\tIf non hai richiesto la password per il ripristino, per favore "
+"cancella questo messaggio.\n"
 "\t\t\t"
 
 #: thandler/register.py:275
@@ -2016,13 +2048,14 @@ msgstr "La nuova e-mail è uguale alla vecchia"
 #, python-format
 msgid ""
 "\n"
-"\t\t\t\t\tTo verify your email, go to this https://%s/login/email_verify/%s .\n"
+"\t\t\t\t\tTo verify your email, go to this "
+"https://%s/login/email_verify/%s .\n"
 "\t\t\t\t\tIf you did not registered please delete this message.\n"
 "\t\t\t\t\t"
 msgstr ""
 "\n"
-"\t\t\t\t\tPer verificare la tua email, vai a questo link: https://%s/login/"
-"email_verify/%s .\n"
+"\t\t\t\t\tPer verificare la tua email, vai a questo link: "
+"https://%s/login/email_verify/%s .\n"
 "\t\t\t\t\tSe non ti sei registrato, cancella questo messaggio.\n"
 "\t\t\t\t\t"
 
@@ -2031,15 +2064,17 @@ msgstr ""
 msgid ""
 "\n"
 "\t\t\t\t\tTo verify your email, go to this\n"
-"\t\t\t\t\t<a href=\"https://%(host)s/login/email_verify/%(token)s\">https://"
-"%(host)s/login/email_verify/%(token)s</a>.\n"
+"\t\t\t\t\t<a "
+"href=\"https://%(host)s/login/email_verify/%(token)s\">https://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
 "\t\t\t\t\tIf you did not registered please delete this message.\n"
 "\t\t\t\t\t"
 msgstr ""
 "\n"
 "\t\t\tPer verificare la tua email, vai qui\n"
-"\t\t\t<a href=\"http://%(host)s/login/email_verify/%(token)s\">http://%(host)s/"
-"login/email_verify/%(token)s</a>.\n"
+"\t\t\t<a "
+"href=\"http://%(host)s/login/email_verify/%(token)s\">http://%(host)s/login/email_verify/%(token)s</a>."
+"\n"
 "\t\t\tIfSe non ti sei registrato, cancella questo messaggio..\n"
 "\t\t\t"
 
