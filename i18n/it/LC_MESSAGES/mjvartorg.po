@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  anime-pictures.net\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-04 15:06+0900\n"
+"POT-Creation-Date: 2019-11-20 17:36+0900\n"
 "PO-Revision-Date: 2019-10-23 13:53+0200\n"
 "Last-Translator: \n"
 "Language: it\n"
@@ -72,7 +72,8 @@ msgstr "Persone che hanno contribuito al sito:"
 msgid "All users"
 msgstr "Tutti gli utenti"
 
-#: mjvartorg/templates/android_app.mako:6 mjvartorg/templates/android_app.mako:17
+#: mjvartorg/templates/android_app.mako:6
+#: mjvartorg/templates/android_app.mako:17
 msgid "Android app"
 msgstr "Android app"
 
@@ -108,7 +109,7 @@ msgstr "A volte è necessario rimuovere la vecchia app."
 msgid "Changelog"
 msgstr "Modifica Log"
 
-#: mjvartorg/templates/bone.mako:76 mjvartorg/templates/index.mako:10
+#: mjvartorg/templates/bone.mako:72 mjvartorg/templates/index.mako:10
 #: mjvartorg/templates/moderator_statistic.mako:10
 msgid ""
 "Anime pictures and wallpapers with a unique search for free. More than "
@@ -117,35 +118,35 @@ msgstr ""
 "Immagini e sfondi anime con una ricerca unica gratuita. Più di 100.000 "
 "immagini"
 
-#: mjvartorg/templates/bone.mako:112
+#: mjvartorg/templates/bone.mako:108
 msgid "Ok"
 msgstr "Ok"
 
-#: mjvartorg/templates/bone.mako:113
+#: mjvartorg/templates/bone.mako:109
 #: mjvartorg/templates/jvwall/edit_tag.mako:94
 #: mjvartorg/templates/jvwall/edit_tag.mako:128
 msgid "Error"
 msgstr "Errore"
 
-#: mjvartorg/templates/bone.mako:114
+#: mjvartorg/templates/bone.mako:110
 #: mjvartorg/templates/jvwall/post_body.mako:222
 msgid "Download picture"
 msgstr "Scarica Immagine"
 
-#: mjvartorg/templates/bone.mako:115
+#: mjvartorg/templates/bone.mako:111
 #: mjvartorg/templates/jvwall/edit_tag.mako:90
 msgid "Done"
 msgstr "Fatto"
 
-#: mjvartorg/templates/bone.mako:116
+#: mjvartorg/templates/bone.mako:112
 msgid "Cancel"
 msgstr "Cancella"
 
-#: mjvartorg/templates/bone.mako:117
+#: mjvartorg/templates/bone.mako:113
 msgid "WARNING! You add a completely new tag: "
 msgstr "ATTENZIONE! Aggiungi un tag completamente nuovo: "
 
-#: mjvartorg/templates/bone.mako:118
+#: mjvartorg/templates/bone.mako:114
 msgid ""
 "ERROR! You should not add new tags. Please choose existing tag. Any "
 "requests please write in comments. Tag:"
@@ -153,116 +154,116 @@ msgstr ""
 "ERRORE! Non dovresti aggiungere nuovi tag. Scegli un tag esistente. Si "
 "prega di scrivere nei commenti eventuali richieste. Tag:"
 
-#: mjvartorg/templates/bone.mako:119
+#: mjvartorg/templates/bone.mako:115
 msgid "Remove the tag?"
 msgstr "Rimuovere questo tag?"
 
-#: mjvartorg/templates/bone.mako:120
+#: mjvartorg/templates/bone.mako:116
 #: mjvartorg/templates/jvwall/all_tags.mako:52
 #: mjvartorg/templates/jvwall/all_tags.mako:53
-#: mjvartorg/templates/jvwall/post_tags_ajax.mako:44
+#: mjvartorg/templates/jvwall/post_tags_ajax.mako:52
 msgid "Edit tag"
 msgstr "Modifica tag"
 
-#: mjvartorg/templates/bone.mako:121
+#: mjvartorg/templates/bone.mako:117
 msgid "Remove area"
 msgstr "Rimuovi area"
 
-#: mjvartorg/templates/bone.mako:122
+#: mjvartorg/templates/bone.mako:118
 #: mjvartorg/templates/jvwall/posts_body_head.mako:21
 msgid "subscribe"
 msgstr "invia"
 
-#: mjvartorg/templates/bone.mako:123
+#: mjvartorg/templates/bone.mako:119
 #: mjvartorg/templates/jvwall/posts_body_head.mako:15
 msgid "unsubscribe"
 msgstr "annulla iscrizione"
 
-#: mjvartorg/templates/bone.mako:124 mjvartorg/templates/jvwall/posts.mako:10
+#: mjvartorg/templates/bone.mako:120 mjvartorg/templates/jvwall/posts.mako:10
 msgid "Anime pictures and wallpapers search"
 msgstr "Ricerca di immagini e sfondi anime"
 
-#: mjvartorg/templates/bone.mako:125
+#: mjvartorg/templates/bone.mako:121
 msgid "but we have problems with next tags:"
 msgstr "ma abbiamo problemi con i tag successivi:"
 
-#: mjvartorg/templates/bone.mako:126
+#: mjvartorg/templates/bone.mako:122
 msgid "unknown tag"
 msgstr "tag sconosciuto"
 
-#: mjvartorg/templates/bone.mako:127
+#: mjvartorg/templates/bone.mako:123
 msgid "have already in recommendation"
 msgstr "ho già tra i raccomandati"
 
-#: mjvartorg/templates/bone.mako:128
+#: mjvartorg/templates/bone.mako:124
 msgid "have already on picture"
 msgstr "immagine già presente"
 
-#: mjvartorg/templates/bone.mako:156 mjvartorg/templates/bone.mako:158
+#: mjvartorg/templates/bone.mako:152 mjvartorg/templates/bone.mako:154
 msgid "Main"
 msgstr "Main"
 
-#: mjvartorg/templates/bone.mako:162
+#: mjvartorg/templates/bone.mako:158
 msgid "Pictures"
 msgstr "Immagini"
 
-#: mjvartorg/templates/bone.mako:163 mjvartorg/templates/jvwall/post.mako:94
+#: mjvartorg/templates/bone.mako:159 mjvartorg/templates/jvwall/post.mako:94
 #: mjvartorg/templates/jvwall/post_body.mako:287
 msgid "Tags"
 msgstr "Tags"
 
-#: mjvartorg/templates/bone.mako:164 mjvartorg/templates/faq.mako:6
+#: mjvartorg/templates/bone.mako:160 mjvartorg/templates/faq.mako:6
 #: mjvartorg/templates/faq.mako:15 mjvartorg/templates/jvwall/add_wall.mako:19
 msgid "FAQ"
 msgstr "FAQ"
 
-#: mjvartorg/templates/bone.mako:165 mjvartorg/templates/chat/view.mako:6
-#: mjvartorg/templates/chat/view.mako:10
+#: mjvartorg/templates/bone.mako:161 mjvartorg/templates/bone.mako:249
+#: mjvartorg/templates/chat/view.mako:6 mjvartorg/templates/chat/view.mako:10
 msgid "Chat"
 msgstr "Chat"
 
-#: mjvartorg/templates/bone.mako:166
+#: mjvartorg/templates/bone.mako:162
 msgid "About"
 msgstr "About"
 
-#: mjvartorg/templates/bone.mako:170 mjvartorg/templates/bone.mako:254
-#: mjvartorg/templates/bone.mako:340
+#: mjvartorg/templates/bone.mako:166 mjvartorg/templates/bone.mako:251
+#: mjvartorg/templates/bone.mako:337
 #: mjvartorg/templates/profile/ext_profile.mako:115
 msgid "Add image"
 msgstr "Aggiungi Immagine"
 
-#: mjvartorg/templates/bone.mako:179 mjvartorg/templates/bone.mako:181
-#: mjvartorg/templates/bone.mako:202
+#: mjvartorg/templates/bone.mako:175 mjvartorg/templates/bone.mako:177
+#: mjvartorg/templates/bone.mako:198
 msgid "New images"
 msgstr "Nuove Immagini"
 
-#: mjvartorg/templates/bone.mako:193
+#: mjvartorg/templates/bone.mako:189
 msgid "New messages"
 msgstr "Nuovi messaggi"
 
-#: mjvartorg/templates/bone.mako:214 mjvartorg/templates/bone.mako:269
+#: mjvartorg/templates/bone.mako:210 mjvartorg/templates/bone.mako:266
 msgid "Language"
 msgstr "Lingua"
 
-#: mjvartorg/templates/bone.mako:225 mjvartorg/templates/bone.mako:281
+#: mjvartorg/templates/bone.mako:221 mjvartorg/templates/bone.mako:278
 msgid "Theme"
 msgstr "Temi"
 
-#: mjvartorg/templates/bone.mako:236 mjvartorg/templates/bone.mako:252
+#: mjvartorg/templates/bone.mako:232 mjvartorg/templates/bone.mako:248
 msgid "Logout"
 msgstr "Disconnettersi"
 
-#: mjvartorg/templates/bone.mako:250
+#: mjvartorg/templates/bone.mako:246
 msgid "My profile"
 msgstr "Il mio Profilo"
 
-#: mjvartorg/templates/bone.mako:253 mjvartorg/templates/bone.mako:337
+#: mjvartorg/templates/bone.mako:250 mjvartorg/templates/bone.mako:334
 #: mjvartorg/templates/profile/ext_profile.mako:114
 #: mjvartorg/templates/profile/view.mako:385
 msgid "Settings"
 msgstr "Impostazioni"
 
-#: mjvartorg/templates/bone.mako:256 mjvartorg/templates/bone.mako:372
+#: mjvartorg/templates/bone.mako:253 mjvartorg/templates/bone.mako:369
 #: mjvartorg/templates/profile/login.mako:6
 #: mjvartorg/templates/profile/login_body.mako:4
 #: mjvartorg/templates/profile/password_recovery.mako:59
@@ -271,24 +272,24 @@ msgstr "Impostazioni"
 msgid "Login"
 msgstr "Accesso"
 
-#: mjvartorg/templates/bone.mako:258 mjvartorg/templates/bone.mako:403
+#: mjvartorg/templates/bone.mako:255 mjvartorg/templates/bone.mako:400
 #: mjvartorg/templates/jvwall/all_comments.mako:26
 #: mjvartorg/templates/jvwall/post_body.mako:442
 msgid "Comments"
 msgstr "Commenti"
 
-#: mjvartorg/templates/bone.mako:260 mjvartorg/templates/bone.mako:405
-#: mjvartorg/templates/bone.mako:585
+#: mjvartorg/templates/bone.mako:257 mjvartorg/templates/bone.mako:402
+#: mjvartorg/templates/bone.mako:582
 msgid "Last stars"
 msgstr "Ultime Stelle"
 
-#: mjvartorg/templates/bone.mako:261 mjvartorg/templates/bone.mako:407
+#: mjvartorg/templates/bone.mako:258 mjvartorg/templates/bone.mako:404
 #: mjvartorg/templates/jvwall/anime_girls.mako:6
 #: mjvartorg/templates/jvwall/anime_girls.mako:22
 msgid "Anime girls"
 msgstr "Ragazze anime"
 
-#: mjvartorg/templates/bone.mako:299
+#: mjvartorg/templates/bone.mako:296
 msgid ""
 "In the last 24 hours <span "
 "class='sub_menu_number'>{approved_images}</span> approved pictures."
@@ -296,150 +297,151 @@ msgstr ""
 "Immagini approvate nelle ultime 24 ore <span "
 "class='sub_menu_number'>{approved_images}</span>."
 
-#: mjvartorg/templates/bone.mako:300
+#: mjvartorg/templates/bone.mako:297
 msgid "New pictures: <span class='sub_menu_number'>{new_pictures}</span>."
 msgstr "Nuove immagini: <span class='sub_menu_number'>{new_pictures}</span>."
 
-#: mjvartorg/templates/bone.mako:301
+#: mjvartorg/templates/bone.mako:298
 msgid "In pre public mode: <span class='sub_menu_number'>{pre_images}</span>."
 msgstr "In anteprima: <span class='sub_menu_number'>{pre_images}</span>."
 
-#: mjvartorg/templates/bone.mako:302
+#: mjvartorg/templates/bone.mako:299
 msgid "Banned: <span class='sub_menu_number'>{banned_pictures}</span>."
 msgstr "Bandite: <span class='sub_menu_number'>{banned_pictures}</span>."
 
-#: mjvartorg/templates/bone.mako:325
+#: mjvartorg/templates/bone.mako:322
 msgid "Hello"
 msgstr "Ciao"
 
-#: mjvartorg/templates/bone.mako:343
+#: mjvartorg/templates/bone.mako:340
 #: mjvartorg/templates/profile/ext_profile.mako:116
 msgid "Your own wallpapers "
 msgstr "Le tue immagini "
 
-#: mjvartorg/templates/bone.mako:346
+#: mjvartorg/templates/bone.mako:343
 #: mjvartorg/templates/profile/ext_profile.mako:117
 msgid "Your own stars"
 msgstr "Le tue stelle"
 
-#: mjvartorg/templates/bone.mako:349
+#: mjvartorg/templates/bone.mako:346
 #: mjvartorg/templates/profile/ext_profile.mako:118
 msgid "Comments for your posts"
 msgstr "Commenti per i tuoi post"
 
-#: mjvartorg/templates/bone.mako:352
+#: mjvartorg/templates/bone.mako:349
 #: mjvartorg/templates/profile/ext_profile.mako:119
 msgid "Recommend tags"
 msgstr "Tags raccomandati"
 
-#: mjvartorg/templates/bone.mako:355
+#: mjvartorg/templates/bone.mako:352
 #: mjvartorg/templates/jvwall/accepted_pre_tags.mako:6
 #: mjvartorg/templates/profile/ext_profile.mako:120
 msgid "Accepted recommend tags"
 msgstr "Tag raccomandati accettati"
 
-#: mjvartorg/templates/bone.mako:359
+#: mjvartorg/templates/bone.mako:356
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:6
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:79
 #: mjvartorg/templates/profile/ext_profile.mako:123
 msgid "Moderating recommend tags"
 msgstr "Moderazione dei tag raccomandati"
 
-#: mjvartorg/templates/bone.mako:362
+#: mjvartorg/templates/bone.mako:359
 #: mjvartorg/templates/jvwall/tags_history.mako:6
 #: mjvartorg/templates/jvwall/tags_history.mako:22
 #: mjvartorg/templates/profile/ext_profile.mako:124
 msgid "Tags history"
 msgstr "Cronologia tags"
 
-#: mjvartorg/templates/bone.mako:365
+#: mjvartorg/templates/bone.mako:362
 msgid "Tags changes"
 msgstr "Modifiche ai tag"
 
-#: mjvartorg/templates/bone.mako:376
+#: mjvartorg/templates/bone.mako:373
 #: mjvartorg/templates/profile/login_body.mako:13
 msgid "Username"
 msgstr "Nome utente"
 
-#: mjvartorg/templates/bone.mako:377
+#: mjvartorg/templates/bone.mako:374
 #: mjvartorg/templates/profile/login_body.mako:19
 #: mjvartorg/templates/profile/register.mako:96
 msgid "Password"
 msgstr "Password"
 
-#: mjvartorg/templates/bone.mako:381
+#: mjvartorg/templates/bone.mako:378
 #: mjvartorg/templates/jvwall/add_wall.mako:33
 #: mjvartorg/templates/profile/login_body.mako:27
 #: mjvartorg/templates/profile/password_recovery.mako:73
 msgid "Submit"
 msgstr "Invia"
 
-#: mjvartorg/templates/bone.mako:382
+#: mjvartorg/templates/bone.mako:379
 #: mjvartorg/templates/profile/login_body.mako:28
 msgid "Registration"
 msgstr "Registrazione"
 
-#: mjvartorg/templates/bone.mako:386
+#: mjvartorg/templates/bone.mako:383
 #: mjvartorg/templates/profile/login_body.mako:32
 msgid "Enter through"
 msgstr "Accesso diretto"
 
-#: mjvartorg/templates/bone.mako:394
+#: mjvartorg/templates/bone.mako:391
 #: mjvartorg/templates/profile/login_body.mako:40
 msgid "Recovery password"
 msgstr "Recover password"
 
-#: mjvartorg/templates/bone.mako:406
+#: mjvartorg/templates/bone.mako:403
 msgid "Pre pictures"
 msgstr "Pre immagini"
 
-#: mjvartorg/templates/bone.mako:409
+#: mjvartorg/templates/bone.mako:406
 msgid "Moderators statistic"
 msgstr "Statistiche moderatori"
 
-#: mjvartorg/templates/bone.mako:434
+#: mjvartorg/templates/bone.mako:431
 #: mjvartorg/templates/jvwall/all_tags.mako:101
 #: mjvartorg/templates/jvwall/tag_changes.mako:33
-#: mjvartorg/templates/std.mako:868
+#: mjvartorg/templates/std.mako:902
 msgid "Search"
 msgstr "Cerca"
 
-#: mjvartorg/templates/bone.mako:443 mjvartorg/templates/profile/view.mako:519
+#: mjvartorg/templates/bone.mako:440 mjvartorg/templates/profile/view.mako:519
 msgid "Subscribed tags"
 msgstr "Tag sottoscritti"
 
-#: mjvartorg/templates/bone.mako:443
+#: mjvartorg/templates/bone.mako:440
 msgid "all pics"
 msgstr "tutte le immagini"
 
-#: mjvartorg/templates/bone.mako:464
+#: mjvartorg/templates/bone.mako:461
 msgid "Now watching"
 msgstr "Stai guardando"
 
-#: mjvartorg/templates/bone.mako:478
+#: mjvartorg/templates/bone.mako:475
 msgid "Buttons"
 msgstr "Pulsanti"
 
-#: mjvartorg/templates/bone.mako:496
+#: mjvartorg/templates/bone.mako:493
 msgid "Desktop version"
 msgstr "Versione Desktop"
 
-#: mjvartorg/templates/bone.mako:499
+#: mjvartorg/templates/bone.mako:496
 msgid "Mobile version"
 msgstr "Versione Mobile"
 
-#: mjvartorg/templates/bone.mako:586 mjvartorg/templates/index.mako:100
+#: mjvartorg/templates/bone.mako:583 mjvartorg/templates/index.mako:100
 #: mjvartorg/templates/index.mako:126
 #: mjvartorg/templates/profile/ext_profile.mako:137
 msgid "all"
 msgstr "tutti"
 
 #: mjvartorg/templates/faq.mako:20 mjvartorg/templates/jvwall/all_tags.mako:29
-#: mjvartorg/templates/std.mako:504 mjvartorg/templates/std.mako:522
+#: mjvartorg/templates/std.mako:508 mjvartorg/templates/std.mako:526
 msgid "Edit"
 msgstr "Modifica"
 
-#: mjvartorg/templates/index.mako:6 mjvartorg/templates/moderator_statistic.mako:6
+#: mjvartorg/templates/index.mako:6
+#: mjvartorg/templates/moderator_statistic.mako:6
 msgid "Anime pictures and wallpapers"
 msgstr "Immagini e sfondi Anime"
 
@@ -523,7 +525,7 @@ msgid "day"
 msgstr "giorno"
 
 #: mjvartorg/templates/moderator_statistic.mako:232
-#: mjvartorg/templates/std.mako:808
+#: mjvartorg/templates/std.mako:812
 msgid "by date"
 msgstr "per data"
 
@@ -568,14 +570,15 @@ msgstr "Statistica"
 msgid "Privacy Policy"
 msgstr "Privacy Policy"
 
-#: mjvartorg/templates/jvwall/post.mako:9 mjvartorg/templates/jvwall/post.mako:21
+#: mjvartorg/templates/jvwall/post.mako:9
+#: mjvartorg/templates/jvwall/post.mako:21
 #: mjvartorg/templates/jvwall/post_body.mako:56
 #: mjvartorg/templates/jvwall/post_body.mako:262
 #: mjvartorg/templates/jvwall/post_body.mako:278
 #: mjvartorg/templates/std.mako:236 mjvartorg/templates/std.mako:321
-#: mjvartorg/templates/std.mako:369 mjvartorg/templates/std.mako:543
-#: mjvartorg/templates/std.mako:557 mjvartorg/templates/std.mako:582
-#: mjvartorg/templates/std.mako:602
+#: mjvartorg/templates/std.mako:369 mjvartorg/templates/std.mako:547
+#: mjvartorg/templates/std.mako:561 mjvartorg/templates/std.mako:586
+#: mjvartorg/templates/std.mako:606
 msgid "Anime picture"
 msgstr "Immagine anime"
 
@@ -612,155 +615,160 @@ msgstr "Accesso!"
 msgid "remove"
 msgstr "rimuovere"
 
-#: mjvartorg/templates/std.mako:447
+#: mjvartorg/templates/std.mako:449
 msgid "Anime pictures with tag"
 msgstr "Immagini anime con tag"
 
-#: mjvartorg/templates/std.mako:523
+#: mjvartorg/templates/std.mako:450
+#, python-format
+msgid "removed by %(moderator_id)d"
+msgstr ""
+
+#: mjvartorg/templates/std.mako:527
 msgid "Are you sure?"
 msgstr "Sei sicuro?"
 
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:103
-#: mjvartorg/templates/jvwall/pre_tags.mako:64 mjvartorg/templates/std.mako:523
+#: mjvartorg/templates/jvwall/pre_tags.mako:64 mjvartorg/templates/std.mako:527
 msgid "Delete"
 msgstr "Cancella"
 
-#: mjvartorg/templates/std.mako:612
+#: mjvartorg/templates/std.mako:616
 msgid "Page"
 msgstr "Pagina"
 
-#: mjvartorg/templates/std.mako:614
+#: mjvartorg/templates/std.mako:618
 msgid "page of"
 msgstr "pagina di"
 
-#: mjvartorg/templates/std.mako:734
+#: mjvartorg/templates/std.mako:738
 #, python-format
 msgid "Tags (separated by %s or %s, no spaces)"
 msgstr "Tag (separati da% s o% s, senza spazi)"
 
-#: mjvartorg/templates/profile/view.mako:479 mjvartorg/templates/std.mako:737
+#: mjvartorg/templates/profile/view.mako:479 mjvartorg/templates/std.mako:741
 msgid "Prohibited Tags"
 msgstr "Tag vietati"
 
 #: mjvartorg/templates/jvwall/post_body.mako:91
-#: mjvartorg/templates/std.mako:747
+#: mjvartorg/templates/std.mako:751
 msgid "Resolution"
 msgstr "Risoluzione"
 
-#: mjvartorg/templates/std.mako:752
+#: mjvartorg/templates/std.mako:756
 msgid "Auto"
 msgstr "Auto"
 
-#: mjvartorg/templates/std.mako:761
+#: mjvartorg/templates/std.mako:765
 msgid "Aspect ratio"
 msgstr "Proporzione"
 
-#: mjvartorg/templates/std.mako:763
+#: mjvartorg/templates/std.mako:767
 msgid "common"
 msgstr "comuni"
 
-#: mjvartorg/templates/std.mako:787
+#: mjvartorg/templates/std.mako:791
 msgid "square"
 msgstr "quadrato"
 
-#: mjvartorg/templates/std.mako:801
+#: mjvartorg/templates/std.mako:805
 msgid "Sortings"
 msgstr "Ordinamenti"
 
-#: mjvartorg/templates/std.mako:805
+#: mjvartorg/templates/std.mako:809
 msgid "by star date"
 msgstr "star per data"
 
-#: mjvartorg/templates/std.mako:810
+#: mjvartorg/templates/std.mako:814
 msgid "by date (revers)"
 msgstr "per data (indietro)"
 
-#: mjvartorg/templates/std.mako:812
+#: mjvartorg/templates/std.mako:816
 msgid "by rating"
 msgstr "per valutazione"
 
-#: mjvartorg/templates/std.mako:814
+#: mjvartorg/templates/std.mako:818
 msgid "by downloads"
 msgstr "per downloads"
 
-#: mjvartorg/templates/std.mako:816
+#: mjvartorg/templates/std.mako:820
 msgid "by size"
 msgstr "per dimensione"
 
-#: mjvartorg/templates/std.mako:818
+#: mjvartorg/templates/std.mako:822
 msgid "by tag count"
 msgstr "per numero di tag"
 
-#: mjvartorg/templates/std.mako:820
+#: mjvartorg/templates/std.mako:824
 msgid "How recent"
 msgstr "Quanto è recente"
 
-#: mjvartorg/templates/std.mako:822
+#: mjvartorg/templates/std.mako:826
 msgid "anytime"
 msgstr "in qualsiasi momento"
 
-#: mjvartorg/templates/std.mako:823
+#: mjvartorg/templates/std.mako:827
 msgid "past day"
 msgstr "ieri"
 
-#: mjvartorg/templates/std.mako:824
+#: mjvartorg/templates/std.mako:828
 msgid "past week"
 msgstr "settimana scorsa"
 
-#: mjvartorg/templates/std.mako:825
+#: mjvartorg/templates/std.mako:829
 msgid "past month"
 msgstr "mese scorso"
 
-#: mjvartorg/templates/std.mako:826
+#: mjvartorg/templates/std.mako:830
 msgid "past 6 months"
 msgstr "ultimi 6 mesi"
 
-#: mjvartorg/templates/std.mako:827
+#: mjvartorg/templates/std.mako:831
 msgid "past year"
 msgstr "ultimo anno"
 
-#: mjvartorg/templates/std.mako:828
+#: mjvartorg/templates/std.mako:832
 msgid "past 2 years"
 msgstr "ultimi 2 anni"
 
-#: mjvartorg/templates/std.mako:829
+#: mjvartorg/templates/std.mako:833
 msgid "past 3 years"
 msgstr "ultimi 3 anni"
 
-#: mjvartorg/templates/std.mako:837
+#: mjvartorg/templates/std.mako:842
 msgid "small preview"
 msgstr "miniatura"
 
-#: mjvartorg/templates/std.mako:839
+#: mjvartorg/templates/std.mako:846
 msgid "Show"
 msgstr "Mostrare"
 
-#: mjvartorg/templates/std.mako:842
+#: mjvartorg/templates/std.mako:850
 msgid "big preview"
 msgstr "anteprima grande"
 
-#: mjvartorg/templates/std.mako:846
+#: mjvartorg/templates/std.mako:857
 msgid "disable moderators images"
 msgstr "disabilita le immagini dei moderatori"
 
-#: mjvartorg/templates/std.mako:847
+#: mjvartorg/templates/std.mako:860
 msgid "Extension"
 msgstr "Estensione"
 
 #: mjvartorg/templates/jvwall/post_body.mako:101
-#: mjvartorg/templates/jvwall/posts.mako:8 mjvartorg/templates/std.mako:858
+#: mjvartorg/templates/jvwall/posts.mako:8 mjvartorg/templates/std.mako:892
 msgid "Color"
 msgstr "Colore"
 
-#: mjvartorg/templates/std.mako:861
+#: mjvartorg/templates/std.mako:895
 msgid "clear"
 msgstr "azzera"
 
-#: mjvartorg/templates/std.mako:867
+#: mjvartorg/templates/std.mako:901
 msgid "Advanced"
 msgstr "Avanzate"
 
-#: mjvartorg/templates/chat/users.mako:21 mjvartorg/templates/chat/view.mako:74
+#: mjvartorg/templates/chat/users.mako:21 mjvartorg/templates/chat/view.mako:53
 msgid "profile"
 msgstr "profilo"
 
@@ -769,12 +777,11 @@ msgstr "profilo"
 msgid "Not live %i minuts"
 msgstr "Non live per %i minuti"
 
-#: mjvartorg/templates/chat/view.mako:83
-#: mjvartorg/templates/profile/register.mako:111
-msgid "Send"
-msgstr "Invia"
+#: mjvartorg/templates/chat/view.mako:54 thandler/messages.py:166
+msgid "New message"
+msgstr "Nuovo messaggio"
 
-#: mjvartorg/templates/chat/view.mako:95
+#: mjvartorg/templates/chat/view.mako:55
 msgid "Chat users"
 msgstr "Chat utenti"
 
@@ -787,7 +794,8 @@ msgstr "I tuoi tag consigliati"
 #: mjvartorg/templates/jvwall/accepted_pre_tags.mako:32
 #: mjvartorg/templates/jvwall/all_comments.mako:6
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:98
-#: mjvartorg/templates/jvwall/post.mako:7 mjvartorg/templates/jvwall/post.mako:19
+#: mjvartorg/templates/jvwall/post.mako:7
+#: mjvartorg/templates/jvwall/post.mako:19
 #: mjvartorg/templates/jvwall/post_body.mako:54
 #: mjvartorg/templates/jvwall/pre_tags.mako:58
 #: mjvartorg/templates/jvwall/scores.mako:37
@@ -804,11 +812,12 @@ msgid "Add pictures"
 msgstr "Aggiungi Immagine"
 
 #: mjvartorg/templates/jvwall/add_wall.mako:22
-#, python-format
 msgid ""
 "You have {unproven_pictures} unproven pictures you can still upload "
 "{upload_free_slots}"
-msgstr "Hai {unproven_pictures} immagini non approvate puoi ancora inviarne {upload_free_slots}"
+msgstr ""
+"Hai {unproven_pictures} immagini non approvate puoi ancora inviarne "
+"{upload_free_slots}"
 
 #: mjvartorg/templates/jvwall/add_wall.mako:28
 msgid "Picture"
@@ -1064,47 +1073,47 @@ msgstr "Queste immagini sono vietate:"
 
 #: mjvartorg/templates/jvwall/post_body.mako:23
 #: mjvartorg/templates/jvwall/post_body.mako:41
-#: mjvartorg/templates/jvwall/post_body.mako:130
+#: mjvartorg/templates/jvwall/post_body.mako:133
 msgid "Unknown"
 msgstr "Sconosciuto"
 
 #: mjvartorg/templates/jvwall/post_body.mako:25
-#: mjvartorg/templates/jvwall/post_body.mako:131
+#: mjvartorg/templates/jvwall/post_body.mako:134
 msgid "Poor quality"
 msgstr "Scarsa qualità"
 
 #: mjvartorg/templates/jvwall/post_body.mako:27
-#: mjvartorg/templates/jvwall/post_body.mako:132
+#: mjvartorg/templates/jvwall/post_body.mako:135
 msgid "Duplicate"
 msgstr "Versione duplicata"
 
 #: mjvartorg/templates/jvwall/post_body.mako:29
-#: mjvartorg/templates/jvwall/post_body.mako:133
+#: mjvartorg/templates/jvwall/post_body.mako:136
 msgid "Not subjects of a site"
 msgstr "Incoerente con il tema del sito"
 
 #: mjvartorg/templates/jvwall/post_body.mako:31
-#: mjvartorg/templates/jvwall/post_body.mako:134
+#: mjvartorg/templates/jvwall/post_body.mako:137
 msgid "The author's request"
 msgstr "Richiesta dell'autore"
 
 #: mjvartorg/templates/jvwall/post_body.mako:33
-#: mjvartorg/templates/jvwall/post_body.mako:135
+#: mjvartorg/templates/jvwall/post_body.mako:138
 msgid "Upscale"
 msgstr "Upscale"
 
 #: mjvartorg/templates/jvwall/post_body.mako:35
-#: mjvartorg/templates/jvwall/post_body.mako:137
+#: mjvartorg/templates/jvwall/post_body.mako:140
 msgid "Screenshot"
 msgstr "Screenshot"
 
 #: mjvartorg/templates/jvwall/post_body.mako:37
-#: mjvartorg/templates/jvwall/post_body.mako:136
+#: mjvartorg/templates/jvwall/post_body.mako:139
 msgid "Downscale"
 msgstr "Ridimensionato"
 
 #: mjvartorg/templates/jvwall/post_body.mako:39
-#: mjvartorg/templates/jvwall/post_body.mako:138
+#: mjvartorg/templates/jvwall/post_body.mako:141
 msgid "Cropping"
 msgstr "Ritaglio"
 
@@ -1158,43 +1167,43 @@ msgstr "Grado di levigatura"
 msgid "Complex"
 msgstr "Complessita'"
 
-#: mjvartorg/templates/jvwall/post_body.mako:124
+#: mjvartorg/templates/jvwall/post_body.mako:113
+msgid "Position"
+msgstr "Posizione"
+
+#: mjvartorg/templates/jvwall/post_body.mako:127
 msgid "New"
 msgstr "Nuovo"
 
-#: mjvartorg/templates/jvwall/post_body.mako:125
+#: mjvartorg/templates/jvwall/post_body.mako:128
 msgid "Pre public"
 msgstr "Pre public"
 
-#: mjvartorg/templates/jvwall/post_body.mako:126
+#: mjvartorg/templates/jvwall/post_body.mako:129
 msgid "Public"
 msgstr "Pubblico"
 
-#: mjvartorg/templates/jvwall/post_body.mako:127
+#: mjvartorg/templates/jvwall/post_body.mako:130
 msgid "Banned"
 msgstr "Bandite"
 
-#: mjvartorg/templates/jvwall/post_body.mako:140
+#: mjvartorg/templates/jvwall/post_body.mako:143
 msgid "Redirect ID..."
 msgstr "Reindirizzamento ID ..."
 
-#: mjvartorg/templates/jvwall/post_body.mako:141
+#: mjvartorg/templates/jvwall/post_body.mako:144
 #: mjvartorg/templates/profile/ext_profile.mako:76
 #: mjvartorg/templates/profile/ext_profile.mako:87
 msgid "Set"
 msgstr "Set"
 
-#: mjvartorg/templates/jvwall/post_body.mako:145
+#: mjvartorg/templates/jvwall/post_body.mako:148
 msgid "Erotic integer"
 msgstr "Erotic integer"
 
-#: mjvartorg/templates/jvwall/post_body.mako:146
+#: mjvartorg/templates/jvwall/post_body.mako:149
 msgid "Spoiler"
 msgstr "Spoiler"
-
-#: mjvartorg/templates/jvwall/post_body.mako:148
-msgid "Position"
-msgstr "Posizione"
 
 #: mjvartorg/templates/jvwall/post_body.mako:152
 msgid "Number of posts, from where you need to add tags"
@@ -1303,11 +1312,17 @@ msgstr "Informazioni sulla descrizione del tag (desc)"
 msgid "About comments(desc)"
 msgstr "Informazioni sui commenti (desc)"
 
-#: mjvartorg/templates/jvwall/post_tags_ajax.mako:32
+#: mjvartorg/templates/jvwall/post_tags_ajax.mako:16
+#, fuzzy
+#| msgid "Delete folder"
+msgid "deleted by moderator"
+msgstr "Elimina cartella"
+
+#: mjvartorg/templates/jvwall/post_tags_ajax.mako:40
 msgid "Delete tag"
 msgstr "Elimina tag"
 
-#: mjvartorg/templates/jvwall/post_tags_ajax.mako:37
+#: mjvartorg/templates/jvwall/post_tags_ajax.mako:45
 msgid "Set tag rect"
 msgstr "Imposta tag rect"
 
@@ -1615,6 +1630,10 @@ msgstr ""
 "per il codice di conferma, non utilizzare l'e-mail telefonica come "
 "blabla@docomo.ne.jp"
 
+#: mjvartorg/templates/profile/register.mako:111
+msgid "Send"
+msgstr "Invia"
+
 #: mjvartorg/templates/profile/register.mako:112
 msgid "Privacy policy"
 msgstr "Privacy policy"
@@ -1723,7 +1742,7 @@ msgstr "Trascina selezione per l'ordinamento"
 msgid "Can't open image file"
 msgstr "Impossibile aprire il file immagine"
 
-#: thandler/add_wall.py:34 thandler/add_wall.py:371
+#: thandler/add_wall.py:34 thandler/add_wall.py:373
 msgid "Not rigth image format"
 msgstr "Formato immagine sconosciuto"
 
@@ -1735,27 +1754,27 @@ msgstr "Risoluzione lato maggiore inferiore a 800 pixel. Tu hai"
 msgid "The image size is greater than 50 megabyte"
 msgstr "La dimensione dell'immagine è superiore a 50 megabyte"
 
-#: thandler/add_wall.py:57
+#: thandler/add_wall.py:58
 msgid "The error in calculating the md5"
 msgstr "Si è verificato un errore durante il calcolo della somma md5"
 
-#: thandler/add_wall.py:224
+#: thandler/add_wall.py:225
 msgid "Error! Not the normal color scheme."
 msgstr "Errore! Anomala combinazione di colori."
 
-#: thandler/add_wall.py:227
+#: thandler/add_wall.py:228
 msgid "Error! This format is not full support."
 msgstr "Errore! Questo formato non è completamente supportato."
 
-#: thandler/add_wall.py:381
+#: thandler/add_wall.py:383
 msgid "text"
 msgstr "testo"
 
-#: thandler/add_wall.py:389 thandler/add_wall.py:397 thandler/add_wall.py:455
+#: thandler/add_wall.py:391 thandler/add_wall.py:399 thandler/add_wall.py:457
 msgid "Duplicate! Such a image is already in the database"
 msgstr "Duplicato! Immagine già presente nel database"
 
-#: thandler/add_wall.py:418
+#: thandler/add_wall.py:420
 msgid "error"
 msgstr "errore"
 
@@ -1867,10 +1886,6 @@ msgstr "Il messaggio non può contenere più di 6000 caratteri"
 msgid "Too little text"
 msgstr "Testo insufficente"
 
-#: thandler/messages.py:166
-msgid "New message"
-msgstr "Nuovo messaggio"
-
 #: thandler/messages.py:167
 #, python-format
 msgid "You have a new message from %s."
@@ -1880,8 +1895,8 @@ msgstr "Hai un nuovo messaggio da% s."
 msgid "Image with that id is not exist"
 msgstr ""
 
-#: thandler/post.py:567 thandler/post.py:648 thandler/tags.py:284
-#: thandler/tags.py:413 thandler/tags.py:463
+#: thandler/post.py:567 thandler/post.py:648 thandler/tags.py:295
+#: thandler/tags.py:424 thandler/tags.py:481
 msgid "You not have rights"
 msgstr "Non hai i permessi"
 
@@ -2078,79 +2093,79 @@ msgstr ""
 msgid "Anime-Pictures.NET: Verify new email"
 msgstr "Anime-Pictures.NET: verifica la nuova e-mail"
 
-#: thandler/tags.py:178
+#: thandler/tags.py:179
 msgid "Alias tag not found"
 msgstr "Tag alias non trovato"
 
-#: thandler/tags.py:185
+#: thandler/tags.py:186
 msgid "The new tag is not in English"
 msgstr "Il nuovo tag non è in inglese"
 
-#: thandler/tags.py:188
+#: thandler/tags.py:189
 msgid "Create realy new tag"
 msgstr "Vuoi davvero creare un nuovo tag"
 
-#: thandler/tags.py:288
+#: thandler/tags.py:299
 msgid "Empty string"
 msgstr "Stringa vuota"
 
-#: thandler/tags.py:390
+#: thandler/tags.py:401
 msgid "You not have rights delete system tag"
 msgstr "Non hai i diritti per eliminare il tag di sistema"
 
-#: thandler/tags.py:862 thandler/tags.py:950 thandler/tags.py:977
-#: thandler/tags.py:1070 thandler/tags.py:1291
+#: thandler/tags.py:881 thandler/tags.py:969 thandler/tags.py:996
+#: thandler/tags.py:1089 thandler/tags.py:1311
 msgid "You not rights!"
 msgstr "Non hai diritti!"
 
-#: thandler/tags.py:868
+#: thandler/tags.py:887
 msgid "Merging when from_tag == to_tag"
 msgstr "Merging when from_tag == to_tag"
 
-#: thandler/tags.py:880
+#: thandler/tags.py:899
 #, python-format
 msgid "This tag have children. Example: %i. "
 msgstr "This tag have children. Example: %i. "
 
-#: thandler/tags.py:1052
+#: thandler/tags.py:1071
 #, python-format
 msgid "Not have tag %i as parent for tag %i."
 msgstr "Impossibile trovare il tag %i tag simile a %i."
 
-#: thandler/tags.py:1055
+#: thandler/tags.py:1074
 #, python-format
 msgid "Loop tag from %i to %i."
 msgstr "Loop tag da %i a %i."
 
-#: thandler/tags.py:1079
+#: thandler/tags.py:1098
 msgid "English field of tag can`t be empty"
 msgstr "Il campo inglese tag non può essere vuoto"
 
-#: thandler/tags.py:1085
+#: thandler/tags.py:1104
 msgid "English field of tag need unique!"
 msgstr "Il campo inglese del tag deve essere unico!"
 
-#: thandler/tags.py:1106
+#: thandler/tags.py:1125
 msgid "Tag parent must be integer."
 msgstr "Il tag padre deve essere un intero."
 
-#: thandler/tags.py:1118
+#: thandler/tags.py:1137
 msgid "Alias must be a number!"
 msgstr "Alias must be a number!"
 
-#: thandler/tags.py:1124
+#: thandler/tags.py:1143
 msgid "Alias tag not found!"
 msgstr "Tag Alias non trovato!"
 
-#: thandler/tags.py:1126
+#: thandler/tags.py:1145
 msgid "For alias this tag must be in a single copy!"
 msgstr "For alias this tag must be in a single copy!"
 
-#: thandler/tags.py:1128
+#: thandler/tags.py:1147
 msgid "You can't make alias tag if this tag has a parent."
 msgstr "You can't make alias tag if this tag has a parent."
 
-#: thandler/tags.py:1134
+#: thandler/tags.py:1153
 msgid "You can't make alias tag if this tag has childrens."
 msgstr "Non puoi creare un tag alias se questo tag ha dei figli."
 

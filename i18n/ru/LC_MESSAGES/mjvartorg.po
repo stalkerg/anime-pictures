@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mjv-art.org 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-04 15:06+0900\n"
+"POT-Creation-Date: 2019-11-20 17:36+0900\n"
 "PO-Revision-Date: 2011-07-02 01:44+0400\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -117,7 +117,7 @@ msgstr "Иногда вам нужно удалить ваше старое пр
 msgid "Changelog"
 msgstr "Изменения"
 
-#: mjvartorg/templates/bone.mako:76 mjvartorg/templates/index.mako:10
+#: mjvartorg/templates/bone.mako:72 mjvartorg/templates/index.mako:10
 #: mjvartorg/templates/moderator_statistic.mako:10
 msgid ""
 "Anime pictures and wallpapers with a unique search for free. More than "
@@ -128,35 +128,35 @@ msgstr ""
 "рекомендованные к просмотру аниме обои и аниме картинки на базе "
 "предпочтений пользователя."
 
-#: mjvartorg/templates/bone.mako:112
+#: mjvartorg/templates/bone.mako:108
 msgid "Ok"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:113
+#: mjvartorg/templates/bone.mako:109
 #: mjvartorg/templates/jvwall/edit_tag.mako:94
 #: mjvartorg/templates/jvwall/edit_tag.mako:128
 msgid "Error"
 msgstr "Ошибка"
 
-#: mjvartorg/templates/bone.mako:114
+#: mjvartorg/templates/bone.mako:110
 #: mjvartorg/templates/jvwall/post_body.mako:222
 msgid "Download picture"
 msgstr "Скачать картинку"
 
-#: mjvartorg/templates/bone.mako:115
+#: mjvartorg/templates/bone.mako:111
 #: mjvartorg/templates/jvwall/edit_tag.mako:90
 msgid "Done"
 msgstr "Выполнено"
 
-#: mjvartorg/templates/bone.mako:116
+#: mjvartorg/templates/bone.mako:112
 msgid "Cancel"
 msgstr "Отменить"
 
-#: mjvartorg/templates/bone.mako:117
+#: mjvartorg/templates/bone.mako:113
 msgid "WARNING! You add a completely new tag: "
 msgstr "ВНИМАНИЕ! Вы добавляете совершенно новый тег: "
 
-#: mjvartorg/templates/bone.mako:118
+#: mjvartorg/templates/bone.mako:114
 msgid ""
 "ERROR! You should not add new tags. Please choose existing tag. Any "
 "requests please write in comments. Tag:"
@@ -164,116 +164,116 @@ msgstr ""
 "ОШИБКА! Вы не должны добавлять новые теги. Пожалуйста выберите из "
 "существующих. Любые запросы пишите в комментариях. Тег: "
 
-#: mjvartorg/templates/bone.mako:119
+#: mjvartorg/templates/bone.mako:115
 msgid "Remove the tag?"
 msgstr "Удалить тег?"
 
-#: mjvartorg/templates/bone.mako:120
+#: mjvartorg/templates/bone.mako:116
 #: mjvartorg/templates/jvwall/all_tags.mako:52
 #: mjvartorg/templates/jvwall/all_tags.mako:53
-#: mjvartorg/templates/jvwall/post_tags_ajax.mako:44
+#: mjvartorg/templates/jvwall/post_tags_ajax.mako:52
 msgid "Edit tag"
 msgstr "Редактировать тег"
 
-#: mjvartorg/templates/bone.mako:121
+#: mjvartorg/templates/bone.mako:117
 msgid "Remove area"
 msgstr "Удалить выделение"
 
-#: mjvartorg/templates/bone.mako:122
+#: mjvartorg/templates/bone.mako:118
 #: mjvartorg/templates/jvwall/posts_body_head.mako:21
 msgid "subscribe"
 msgstr "подписаться"
 
-#: mjvartorg/templates/bone.mako:123
+#: mjvartorg/templates/bone.mako:119
 #: mjvartorg/templates/jvwall/posts_body_head.mako:15
 msgid "unsubscribe"
 msgstr "отписаться"
 
-#: mjvartorg/templates/bone.mako:124 mjvartorg/templates/jvwall/posts.mako:10
+#: mjvartorg/templates/bone.mako:120 mjvartorg/templates/jvwall/posts.mako:10
 msgid "Anime pictures and wallpapers search"
 msgstr "Поиск аниме картинок и обоев"
 
-#: mjvartorg/templates/bone.mako:125
+#: mjvartorg/templates/bone.mako:121
 msgid "but we have problems with next tags:"
 msgstr "но у нас есть проблемы со следующими тегами:"
 
-#: mjvartorg/templates/bone.mako:126
+#: mjvartorg/templates/bone.mako:122
 msgid "unknown tag"
 msgstr "неизвестный тег"
 
-#: mjvartorg/templates/bone.mako:127
+#: mjvartorg/templates/bone.mako:123
 msgid "have already in recommendation"
 msgstr "уже есть в рекомендованных"
 
-#: mjvartorg/templates/bone.mako:128
+#: mjvartorg/templates/bone.mako:124
 msgid "have already on picture"
 msgstr "уже добавлен на картинку"
 
-#: mjvartorg/templates/bone.mako:156 mjvartorg/templates/bone.mako:158
+#: mjvartorg/templates/bone.mako:152 mjvartorg/templates/bone.mako:154
 msgid "Main"
 msgstr "Главная"
 
-#: mjvartorg/templates/bone.mako:162
+#: mjvartorg/templates/bone.mako:158
 msgid "Pictures"
 msgstr "Картинки"
 
-#: mjvartorg/templates/bone.mako:163 mjvartorg/templates/jvwall/post.mako:94
+#: mjvartorg/templates/bone.mako:159 mjvartorg/templates/jvwall/post.mako:94
 #: mjvartorg/templates/jvwall/post_body.mako:287
 msgid "Tags"
 msgstr "Теги"
 
-#: mjvartorg/templates/bone.mako:164 mjvartorg/templates/faq.mako:6
+#: mjvartorg/templates/bone.mako:160 mjvartorg/templates/faq.mako:6
 #: mjvartorg/templates/faq.mako:15 mjvartorg/templates/jvwall/add_wall.mako:19
 msgid "FAQ"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:165 mjvartorg/templates/chat/view.mako:6
-#: mjvartorg/templates/chat/view.mako:10
+#: mjvartorg/templates/bone.mako:161 mjvartorg/templates/bone.mako:249
+#: mjvartorg/templates/chat/view.mako:6 mjvartorg/templates/chat/view.mako:10
 msgid "Chat"
 msgstr "Чат"
 
-#: mjvartorg/templates/bone.mako:166
+#: mjvartorg/templates/bone.mako:162
 msgid "About"
 msgstr "О нас"
 
-#: mjvartorg/templates/bone.mako:170 mjvartorg/templates/bone.mako:254
-#: mjvartorg/templates/bone.mako:340
+#: mjvartorg/templates/bone.mako:166 mjvartorg/templates/bone.mako:251
+#: mjvartorg/templates/bone.mako:337
 #: mjvartorg/templates/profile/ext_profile.mako:115
 msgid "Add image"
 msgstr "Добавить изображение"
 
-#: mjvartorg/templates/bone.mako:179 mjvartorg/templates/bone.mako:181
-#: mjvartorg/templates/bone.mako:202
+#: mjvartorg/templates/bone.mako:175 mjvartorg/templates/bone.mako:177
+#: mjvartorg/templates/bone.mako:198
 msgid "New images"
 msgstr "Новые изображения"
 
-#: mjvartorg/templates/bone.mako:193
+#: mjvartorg/templates/bone.mako:189
 msgid "New messages"
 msgstr "Новые сообщения"
 
-#: mjvartorg/templates/bone.mako:214 mjvartorg/templates/bone.mako:269
+#: mjvartorg/templates/bone.mako:210 mjvartorg/templates/bone.mako:266
 msgid "Language"
 msgstr "Язык"
 
-#: mjvartorg/templates/bone.mako:225 mjvartorg/templates/bone.mako:281
+#: mjvartorg/templates/bone.mako:221 mjvartorg/templates/bone.mako:278
 msgid "Theme"
 msgstr "Тема"
 
-#: mjvartorg/templates/bone.mako:236 mjvartorg/templates/bone.mako:252
+#: mjvartorg/templates/bone.mako:232 mjvartorg/templates/bone.mako:248
 msgid "Logout"
 msgstr "Выйти"
 
-#: mjvartorg/templates/bone.mako:250
+#: mjvartorg/templates/bone.mako:246
 msgid "My profile"
 msgstr "Мой профиль"
 
-#: mjvartorg/templates/bone.mako:253 mjvartorg/templates/bone.mako:337
+#: mjvartorg/templates/bone.mako:250 mjvartorg/templates/bone.mako:334
 #: mjvartorg/templates/profile/ext_profile.mako:114
 #: mjvartorg/templates/profile/view.mako:385
 msgid "Settings"
 msgstr "Настройки"
 
-#: mjvartorg/templates/bone.mako:256 mjvartorg/templates/bone.mako:372
+#: mjvartorg/templates/bone.mako:253 mjvartorg/templates/bone.mako:369
 #: mjvartorg/templates/profile/login.mako:6
 #: mjvartorg/templates/profile/login_body.mako:4
 #: mjvartorg/templates/profile/password_recovery.mako:59
@@ -282,24 +282,24 @@ msgstr "Настройки"
 msgid "Login"
 msgstr "Логин"
 
-#: mjvartorg/templates/bone.mako:258 mjvartorg/templates/bone.mako:403
+#: mjvartorg/templates/bone.mako:255 mjvartorg/templates/bone.mako:400
 #: mjvartorg/templates/jvwall/all_comments.mako:26
 #: mjvartorg/templates/jvwall/post_body.mako:442
 msgid "Comments"
 msgstr "Комментарии"
 
-#: mjvartorg/templates/bone.mako:260 mjvartorg/templates/bone.mako:405
-#: mjvartorg/templates/bone.mako:585
+#: mjvartorg/templates/bone.mako:257 mjvartorg/templates/bone.mako:402
+#: mjvartorg/templates/bone.mako:582
 msgid "Last stars"
 msgstr "Последние звёзды"
 
-#: mjvartorg/templates/bone.mako:261 mjvartorg/templates/bone.mako:407
+#: mjvartorg/templates/bone.mako:258 mjvartorg/templates/bone.mako:404
 #: mjvartorg/templates/jvwall/anime_girls.mako:6
 #: mjvartorg/templates/jvwall/anime_girls.mako:22
 msgid "Anime girls"
 msgstr "Аниме девушки"
 
-#: mjvartorg/templates/bone.mako:299
+#: mjvartorg/templates/bone.mako:296
 msgid ""
 "In the last 24 hours <span "
 "class='sub_menu_number'>{approved_images}</span> approved pictures."
@@ -307,146 +307,146 @@ msgstr ""
 "За последние 24 часа <span "
 "class='sub_menu_number'>{approved_images}</span> принятых картинок."
 
-#: mjvartorg/templates/bone.mako:300
+#: mjvartorg/templates/bone.mako:297
 msgid "New pictures: <span class='sub_menu_number'>{new_pictures}</span>."
 msgstr "Новых картинок: <span class='sub_menu_number'>{new_pictures}</span>."
 
-#: mjvartorg/templates/bone.mako:301
+#: mjvartorg/templates/bone.mako:298
 msgid "In pre public mode: <span class='sub_menu_number'>{pre_images}</span>."
 msgstr "Готово к публикации: <span class='sub_menu_number'>{pre_images}</span>."
 
-#: mjvartorg/templates/bone.mako:302
+#: mjvartorg/templates/bone.mako:299
 msgid "Banned: <span class='sub_menu_number'>{banned_pictures}</span>."
 msgstr "Забаненных: <span class='sub_menu_number'>{banned_pictures}</span>."
 
-#: mjvartorg/templates/bone.mako:325
+#: mjvartorg/templates/bone.mako:322
 msgid "Hello"
 msgstr "Привет"
 
-#: mjvartorg/templates/bone.mako:343
+#: mjvartorg/templates/bone.mako:340
 #: mjvartorg/templates/profile/ext_profile.mako:116
 msgid "Your own wallpapers "
 msgstr "Ваши изображения"
 
-#: mjvartorg/templates/bone.mako:346
+#: mjvartorg/templates/bone.mako:343
 #: mjvartorg/templates/profile/ext_profile.mako:117
 msgid "Your own stars"
 msgstr "Ваши звёзды"
 
-#: mjvartorg/templates/bone.mako:349
+#: mjvartorg/templates/bone.mako:346
 #: mjvartorg/templates/profile/ext_profile.mako:118
 msgid "Comments for your posts"
 msgstr "Комментарии к вашим картинкам"
 
-#: mjvartorg/templates/bone.mako:352
+#: mjvartorg/templates/bone.mako:349
 #: mjvartorg/templates/profile/ext_profile.mako:119
 msgid "Recommend tags"
 msgstr "Рекомендованные теги"
 
-#: mjvartorg/templates/bone.mako:355
+#: mjvartorg/templates/bone.mako:352
 #: mjvartorg/templates/jvwall/accepted_pre_tags.mako:6
 #: mjvartorg/templates/profile/ext_profile.mako:120
 msgid "Accepted recommend tags"
 msgstr "Принятые рек. тег"
 
-#: mjvartorg/templates/bone.mako:359
+#: mjvartorg/templates/bone.mako:356
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:6
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:79
 #: mjvartorg/templates/profile/ext_profile.mako:123
 msgid "Moderating recommend tags"
 msgstr "Модерирование рек. тегов"
 
-#: mjvartorg/templates/bone.mako:362
+#: mjvartorg/templates/bone.mako:359
 #: mjvartorg/templates/jvwall/tags_history.mako:6
 #: mjvartorg/templates/jvwall/tags_history.mako:22
 #: mjvartorg/templates/profile/ext_profile.mako:124
 msgid "Tags history"
 msgstr "История тегов"
 
-#: mjvartorg/templates/bone.mako:365
+#: mjvartorg/templates/bone.mako:362
 msgid "Tags changes"
 msgstr "Изменения тегов"
 
-#: mjvartorg/templates/bone.mako:376
+#: mjvartorg/templates/bone.mako:373
 #: mjvartorg/templates/profile/login_body.mako:13
 msgid "Username"
 msgstr "Имя"
 
-#: mjvartorg/templates/bone.mako:377
+#: mjvartorg/templates/bone.mako:374
 #: mjvartorg/templates/profile/login_body.mako:19
 #: mjvartorg/templates/profile/register.mako:96
 msgid "Password"
 msgstr "Пароль"
 
-#: mjvartorg/templates/bone.mako:381
+#: mjvartorg/templates/bone.mako:378
 #: mjvartorg/templates/jvwall/add_wall.mako:33
 #: mjvartorg/templates/profile/login_body.mako:27
 #: mjvartorg/templates/profile/password_recovery.mako:73
 msgid "Submit"
 msgstr "Отправить"
 
-#: mjvartorg/templates/bone.mako:382
+#: mjvartorg/templates/bone.mako:379
 #: mjvartorg/templates/profile/login_body.mako:28
 msgid "Registration"
 msgstr "Регистрация"
 
-#: mjvartorg/templates/bone.mako:386
+#: mjvartorg/templates/bone.mako:383
 #: mjvartorg/templates/profile/login_body.mako:32
 msgid "Enter through"
 msgstr "Войти через"
 
-#: mjvartorg/templates/bone.mako:394
+#: mjvartorg/templates/bone.mako:391
 #: mjvartorg/templates/profile/login_body.mako:40
 msgid "Recovery password"
 msgstr "Востановление пароля"
 
-#: mjvartorg/templates/bone.mako:406
+#: mjvartorg/templates/bone.mako:403
 msgid "Pre pictures"
 msgstr "Предварительные картинки"
 
-#: mjvartorg/templates/bone.mako:409
+#: mjvartorg/templates/bone.mako:406
 msgid "Moderators statistic"
 msgstr "Статистика модераторов"
 
-#: mjvartorg/templates/bone.mako:434
+#: mjvartorg/templates/bone.mako:431
 #: mjvartorg/templates/jvwall/all_tags.mako:101
 #: mjvartorg/templates/jvwall/tag_changes.mako:33
-#: mjvartorg/templates/std.mako:868
+#: mjvartorg/templates/std.mako:902
 msgid "Search"
 msgstr "Искать"
 
-#: mjvartorg/templates/bone.mako:443 mjvartorg/templates/profile/view.mako:519
+#: mjvartorg/templates/bone.mako:440 mjvartorg/templates/profile/view.mako:519
 msgid "Subscribed tags"
 msgstr "Отслеживаемые теги"
 
-#: mjvartorg/templates/bone.mako:443
+#: mjvartorg/templates/bone.mako:440
 msgid "all pics"
 msgstr "все картинки"
 
-#: mjvartorg/templates/bone.mako:464
+#: mjvartorg/templates/bone.mako:461
 msgid "Now watching"
 msgstr "Сейчас смотрят"
 
-#: mjvartorg/templates/bone.mako:478
+#: mjvartorg/templates/bone.mako:475
 msgid "Buttons"
 msgstr "Кнопки"
 
-#: mjvartorg/templates/bone.mako:496
+#: mjvartorg/templates/bone.mako:493
 msgid "Desktop version"
 msgstr "Версия для ПК"
 
-#: mjvartorg/templates/bone.mako:499
+#: mjvartorg/templates/bone.mako:496
 msgid "Mobile version"
 msgstr "Мобильная версия"
 
-#: mjvartorg/templates/bone.mako:586 mjvartorg/templates/index.mako:100
+#: mjvartorg/templates/bone.mako:583 mjvartorg/templates/index.mako:100
 #: mjvartorg/templates/index.mako:126
 #: mjvartorg/templates/profile/ext_profile.mako:137
 msgid "all"
 msgstr "все"
 
 #: mjvartorg/templates/faq.mako:20 mjvartorg/templates/jvwall/all_tags.mako:29
-#: mjvartorg/templates/std.mako:504 mjvartorg/templates/std.mako:522
+#: mjvartorg/templates/std.mako:508 mjvartorg/templates/std.mako:526
 msgid "Edit"
 msgstr "Редактировать"
 
@@ -535,7 +535,7 @@ msgid "day"
 msgstr "день"
 
 #: mjvartorg/templates/moderator_statistic.mako:232
-#: mjvartorg/templates/std.mako:808
+#: mjvartorg/templates/std.mako:812
 msgid "by date"
 msgstr "по дате"
 
@@ -586,9 +586,9 @@ msgstr ""
 #: mjvartorg/templates/jvwall/post_body.mako:262
 #: mjvartorg/templates/jvwall/post_body.mako:278
 #: mjvartorg/templates/std.mako:236 mjvartorg/templates/std.mako:321
-#: mjvartorg/templates/std.mako:369 mjvartorg/templates/std.mako:543
-#: mjvartorg/templates/std.mako:557 mjvartorg/templates/std.mako:582
-#: mjvartorg/templates/std.mako:602
+#: mjvartorg/templates/std.mako:369 mjvartorg/templates/std.mako:547
+#: mjvartorg/templates/std.mako:561 mjvartorg/templates/std.mako:586
+#: mjvartorg/templates/std.mako:606
 msgid "Anime picture"
 msgstr "Аниме картинка"
 
@@ -625,155 +625,160 @@ msgstr "Войди!"
 msgid "remove"
 msgstr "удалить"
 
-#: mjvartorg/templates/std.mako:447
+#: mjvartorg/templates/std.mako:449
 msgid "Anime pictures with tag"
 msgstr "Аниме картинки с тегом"
 
-#: mjvartorg/templates/std.mako:523
+#: mjvartorg/templates/std.mako:450
+#, python-format
+msgid "removed by %(moderator_id)d"
+msgstr "удалено %(moderator_id)d"
+
+#: mjvartorg/templates/std.mako:527
 msgid "Are you sure?"
 msgstr "Вы уверены?"
 
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:103
-#: mjvartorg/templates/jvwall/pre_tags.mako:64 mjvartorg/templates/std.mako:523
+#: mjvartorg/templates/jvwall/pre_tags.mako:64 mjvartorg/templates/std.mako:527
 msgid "Delete"
 msgstr "Удалить"
 
-#: mjvartorg/templates/std.mako:612
+#: mjvartorg/templates/std.mako:616
 msgid "Page"
 msgstr "страница"
 
-#: mjvartorg/templates/std.mako:614
+#: mjvartorg/templates/std.mako:618
 msgid "page of"
 msgstr "из"
 
-#: mjvartorg/templates/std.mako:734
+#: mjvartorg/templates/std.mako:738
 #, python-format
 msgid "Tags (separated by %s or %s, no spaces)"
 msgstr "Теги (разделитель %s или %s)"
 
-#: mjvartorg/templates/profile/view.mako:479 mjvartorg/templates/std.mako:737
+#: mjvartorg/templates/profile/view.mako:479 mjvartorg/templates/std.mako:741
 msgid "Prohibited Tags"
 msgstr "Запрещённые теги"
 
 #: mjvartorg/templates/jvwall/post_body.mako:91
-#: mjvartorg/templates/std.mako:747
+#: mjvartorg/templates/std.mako:751
 msgid "Resolution"
 msgstr "Разрешение"
 
-#: mjvartorg/templates/std.mako:752
+#: mjvartorg/templates/std.mako:756
 msgid "Auto"
 msgstr "Авто"
 
-#: mjvartorg/templates/std.mako:761
+#: mjvartorg/templates/std.mako:765
 msgid "Aspect ratio"
 msgstr "Соотношение сторон"
 
-#: mjvartorg/templates/std.mako:763
+#: mjvartorg/templates/std.mako:767
 msgid "common"
 msgstr "стандартные"
 
-#: mjvartorg/templates/std.mako:787
+#: mjvartorg/templates/std.mako:791
 msgid "square"
 msgstr "квадрат"
 
-#: mjvartorg/templates/std.mako:801
+#: mjvartorg/templates/std.mako:805
 msgid "Sortings"
 msgstr "Сортировки"
 
-#: mjvartorg/templates/std.mako:805
+#: mjvartorg/templates/std.mako:809
 msgid "by star date"
 msgstr "по дате звезды"
 
-#: mjvartorg/templates/std.mako:810
+#: mjvartorg/templates/std.mako:814
 msgid "by date (revers)"
 msgstr "по дате (обратно)"
 
-#: mjvartorg/templates/std.mako:812
+#: mjvartorg/templates/std.mako:816
 msgid "by rating"
 msgstr "по рейтингу"
 
-#: mjvartorg/templates/std.mako:814
+#: mjvartorg/templates/std.mako:818
 msgid "by downloads"
 msgstr "по скачиваниям"
 
-#: mjvartorg/templates/std.mako:816
+#: mjvartorg/templates/std.mako:820
 msgid "by size"
 msgstr "по размеру"
 
-#: mjvartorg/templates/std.mako:818
+#: mjvartorg/templates/std.mako:822
 msgid "by tag count"
 msgstr "по количеству тегов"
 
-#: mjvartorg/templates/std.mako:820
+#: mjvartorg/templates/std.mako:824
 msgid "How recent"
 msgstr "За какое время"
 
-#: mjvartorg/templates/std.mako:822
+#: mjvartorg/templates/std.mako:826
 msgid "anytime"
 msgstr "всё"
 
-#: mjvartorg/templates/std.mako:823
+#: mjvartorg/templates/std.mako:827
 msgid "past day"
 msgstr "последний день"
 
-#: mjvartorg/templates/std.mako:824
+#: mjvartorg/templates/std.mako:828
 msgid "past week"
 msgstr "последняя неделя"
 
-#: mjvartorg/templates/std.mako:825
+#: mjvartorg/templates/std.mako:829
 msgid "past month"
 msgstr "последний месяц"
 
-#: mjvartorg/templates/std.mako:826
+#: mjvartorg/templates/std.mako:830
 msgid "past 6 months"
 msgstr "последнии 6 месяцев"
 
-#: mjvartorg/templates/std.mako:827
+#: mjvartorg/templates/std.mako:831
 msgid "past year"
 msgstr "последний год"
 
-#: mjvartorg/templates/std.mako:828
+#: mjvartorg/templates/std.mako:832
 msgid "past 2 years"
 msgstr "последнии 2 года"
 
-#: mjvartorg/templates/std.mako:829
+#: mjvartorg/templates/std.mako:833
 msgid "past 3 years"
 msgstr "последнии 3 года"
 
-#: mjvartorg/templates/std.mako:837
+#: mjvartorg/templates/std.mako:842
 msgid "small preview"
 msgstr "маленькое превью"
 
-#: mjvartorg/templates/std.mako:839
+#: mjvartorg/templates/std.mako:846
 msgid "Show"
 msgstr "Показывать"
 
-#: mjvartorg/templates/std.mako:842
+#: mjvartorg/templates/std.mako:850
 msgid "big preview"
 msgstr "большое превью"
 
-#: mjvartorg/templates/std.mako:846
+#: mjvartorg/templates/std.mako:857
 msgid "disable moderators images"
 msgstr "откл. картинки модераторов"
 
-#: mjvartorg/templates/std.mako:847
+#: mjvartorg/templates/std.mako:860
 msgid "Extension"
 msgstr "Расширения"
 
 #: mjvartorg/templates/jvwall/post_body.mako:101
-#: mjvartorg/templates/jvwall/posts.mako:8 mjvartorg/templates/std.mako:858
+#: mjvartorg/templates/jvwall/posts.mako:8 mjvartorg/templates/std.mako:892
 msgid "Color"
 msgstr "Цвет"
 
-#: mjvartorg/templates/std.mako:861
+#: mjvartorg/templates/std.mako:895
 msgid "clear"
 msgstr "очистить"
 
-#: mjvartorg/templates/std.mako:867
+#: mjvartorg/templates/std.mako:901
 msgid "Advanced"
 msgstr "Дополнительно"
 
-#: mjvartorg/templates/chat/users.mako:21 mjvartorg/templates/chat/view.mako:74
+#: mjvartorg/templates/chat/users.mako:21 mjvartorg/templates/chat/view.mako:53
 msgid "profile"
 msgstr "профиль"
 
@@ -782,12 +787,11 @@ msgstr "профиль"
 msgid "Not live %i minuts"
 msgstr "Мёртв %i минут"
 
-#: mjvartorg/templates/chat/view.mako:83
-#: mjvartorg/templates/profile/register.mako:111
-msgid "Send"
-msgstr "Отправить"
+#: mjvartorg/templates/chat/view.mako:54 thandler/messages.py:166
+msgid "New message"
+msgstr "Новое сообщение"
 
-#: mjvartorg/templates/chat/view.mako:95
+#: mjvartorg/templates/chat/view.mako:55
 msgid "Chat users"
 msgstr "Пользователи в чате"
 
@@ -818,11 +822,12 @@ msgid "Add pictures"
 msgstr "Добавить картинки"
 
 #: mjvartorg/templates/jvwall/add_wall.mako:22
-#, python-format
 msgid ""
 "You have {unproven_pictures} unproven pictures you can still upload "
 "{upload_free_slots}"
-msgstr "У вас есть {unproven_pictures} непроверенных картинок, вы можете загрузить {upload_free_slots}"
+msgstr ""
+"У вас есть {unproven_pictures} непроверенных картинок, вы можете "
+"загрузить {upload_free_slots}"
 
 #: mjvartorg/templates/jvwall/add_wall.mako:28
 msgid "Picture"
@@ -1080,47 +1085,47 @@ msgstr "Эти обои забанены:"
 
 #: mjvartorg/templates/jvwall/post_body.mako:23
 #: mjvartorg/templates/jvwall/post_body.mako:41
-#: mjvartorg/templates/jvwall/post_body.mako:130
+#: mjvartorg/templates/jvwall/post_body.mako:133
 msgid "Unknown"
 msgstr "Неизвестный"
 
 #: mjvartorg/templates/jvwall/post_body.mako:25
-#: mjvartorg/templates/jvwall/post_body.mako:131
+#: mjvartorg/templates/jvwall/post_body.mako:134
 msgid "Poor quality"
 msgstr "Плохое качество"
 
 #: mjvartorg/templates/jvwall/post_body.mako:27
-#: mjvartorg/templates/jvwall/post_body.mako:132
+#: mjvartorg/templates/jvwall/post_body.mako:135
 msgid "Duplicate"
 msgstr "Дубликат"
 
 #: mjvartorg/templates/jvwall/post_body.mako:29
-#: mjvartorg/templates/jvwall/post_body.mako:133
+#: mjvartorg/templates/jvwall/post_body.mako:136
 msgid "Not subjects of a site"
 msgstr "Не формат сайта"
 
 #: mjvartorg/templates/jvwall/post_body.mako:31
-#: mjvartorg/templates/jvwall/post_body.mako:134
+#: mjvartorg/templates/jvwall/post_body.mako:137
 msgid "The author's request"
 msgstr "По запросу автора"
 
 #: mjvartorg/templates/jvwall/post_body.mako:33
-#: mjvartorg/templates/jvwall/post_body.mako:135
+#: mjvartorg/templates/jvwall/post_body.mako:138
 msgid "Upscale"
 msgstr "Апскейл"
 
 #: mjvartorg/templates/jvwall/post_body.mako:35
-#: mjvartorg/templates/jvwall/post_body.mako:137
+#: mjvartorg/templates/jvwall/post_body.mako:140
 msgid "Screenshot"
 msgstr "Скриншот"
 
 #: mjvartorg/templates/jvwall/post_body.mako:37
-#: mjvartorg/templates/jvwall/post_body.mako:136
+#: mjvartorg/templates/jvwall/post_body.mako:139
 msgid "Downscale"
 msgstr "Даунскейл"
 
 #: mjvartorg/templates/jvwall/post_body.mako:39
-#: mjvartorg/templates/jvwall/post_body.mako:138
+#: mjvartorg/templates/jvwall/post_body.mako:141
 msgid "Cropping"
 msgstr "Обрезка"
 
@@ -1174,43 +1179,43 @@ msgstr "Размытость"
 msgid "Complex"
 msgstr "Общий"
 
-#: mjvartorg/templates/jvwall/post_body.mako:124
+#: mjvartorg/templates/jvwall/post_body.mako:113
+msgid "Position"
+msgstr "Позиция"
+
+#: mjvartorg/templates/jvwall/post_body.mako:127
 msgid "New"
 msgstr "Новый"
 
-#: mjvartorg/templates/jvwall/post_body.mako:125
+#: mjvartorg/templates/jvwall/post_body.mako:128
 msgid "Pre public"
 msgstr "Пред публичный"
 
-#: mjvartorg/templates/jvwall/post_body.mako:126
+#: mjvartorg/templates/jvwall/post_body.mako:129
 msgid "Public"
 msgstr "Публичный"
 
-#: mjvartorg/templates/jvwall/post_body.mako:127
+#: mjvartorg/templates/jvwall/post_body.mako:130
 msgid "Banned"
 msgstr "Забанены"
 
-#: mjvartorg/templates/jvwall/post_body.mako:140
+#: mjvartorg/templates/jvwall/post_body.mako:143
 msgid "Redirect ID..."
 msgstr ""
 
-#: mjvartorg/templates/jvwall/post_body.mako:141
+#: mjvartorg/templates/jvwall/post_body.mako:144
 #: mjvartorg/templates/profile/ext_profile.mako:76
 #: mjvartorg/templates/profile/ext_profile.mako:87
 msgid "Set"
 msgstr "Выставить"
 
-#: mjvartorg/templates/jvwall/post_body.mako:145
+#: mjvartorg/templates/jvwall/post_body.mako:148
 msgid "Erotic integer"
 msgstr "Значение эротики"
 
-#: mjvartorg/templates/jvwall/post_body.mako:146
+#: mjvartorg/templates/jvwall/post_body.mako:149
 msgid "Spoiler"
 msgstr "Спойлер"
-
-#: mjvartorg/templates/jvwall/post_body.mako:148
-msgid "Position"
-msgstr "Позиция"
 
 #: mjvartorg/templates/jvwall/post_body.mako:152
 msgid "Number of posts, from where you need to add tags"
@@ -1329,11 +1334,15 @@ msgstr ""
 "Любой зарегистрированный пользователь может оставить здесь свой "
 "комментарий."
 
-#: mjvartorg/templates/jvwall/post_tags_ajax.mako:32
+#: mjvartorg/templates/jvwall/post_tags_ajax.mako:16
+msgid "deleted by moderator"
+msgstr "удалено модератором"
+
+#: mjvartorg/templates/jvwall/post_tags_ajax.mako:40
 msgid "Delete tag"
 msgstr "Удалить тег"
 
-#: mjvartorg/templates/jvwall/post_tags_ajax.mako:37
+#: mjvartorg/templates/jvwall/post_tags_ajax.mako:45
 msgid "Set tag rect"
 msgstr "Выделение тега на изображении"
 
@@ -1639,6 +1648,10 @@ msgid ""
 "blabla@docomo.ne.jp"
 msgstr "пожалуйста, указывайте работающую электронную почту"
 
+#: mjvartorg/templates/profile/register.mako:111
+msgid "Send"
+msgstr "Отправить"
+
 #: mjvartorg/templates/profile/register.mako:112
 msgid "Privacy policy"
 msgstr "Политика конфиденциальности"
@@ -1747,7 +1760,7 @@ msgstr "Потяните и отпустите для сортировки"
 msgid "Can't open image file"
 msgstr "Не могу открыть файл картинки"
 
-#: thandler/add_wall.py:34 thandler/add_wall.py:371
+#: thandler/add_wall.py:34 thandler/add_wall.py:373
 msgid "Not rigth image format"
 msgstr "Неверный формат картинки"
 
@@ -1759,27 +1772,27 @@ msgstr "Разрешение большей стороны менее 800 пик
 msgid "The image size is greater than 50 megabyte"
 msgstr "Размер изображения более 50 мегабайт"
 
-#: thandler/add_wall.py:57
+#: thandler/add_wall.py:58
 msgid "The error in calculating the md5"
 msgstr "Ошибка в расчёте md5 суммы"
 
-#: thandler/add_wall.py:224
+#: thandler/add_wall.py:225
 msgid "Error! Not the normal color scheme."
 msgstr "Ошибка! Цветовая схема не поддерживается."
 
-#: thandler/add_wall.py:227
+#: thandler/add_wall.py:228
 msgid "Error! This format is not full support."
 msgstr "Ошибка! Этот формат не полностью поддерживается."
 
-#: thandler/add_wall.py:381
+#: thandler/add_wall.py:383
 msgid "text"
 msgstr ""
 
-#: thandler/add_wall.py:389 thandler/add_wall.py:397 thandler/add_wall.py:455
+#: thandler/add_wall.py:391 thandler/add_wall.py:399 thandler/add_wall.py:457
 msgid "Duplicate! Such a image is already in the database"
 msgstr "Дубликат! Эта картинка уже есть в базе данных"
 
-#: thandler/add_wall.py:418
+#: thandler/add_wall.py:420
 msgid "error"
 msgstr "ошибка"
 
@@ -1888,10 +1901,6 @@ msgstr "Текст более 6000 символов"
 msgid "Too little text"
 msgstr "Слишком маленький текст"
 
-#: thandler/messages.py:166
-msgid "New message"
-msgstr "Новое сообщение"
-
 #: thandler/messages.py:167
 #, python-format
 msgid "You have a new message from %s."
@@ -1901,8 +1910,8 @@ msgstr "У вас есть новое сообщение от %s."
 msgid "Image with that id is not exist"
 msgstr "Картинка с этим id не существует"
 
-#: thandler/post.py:567 thandler/post.py:648 thandler/tags.py:284
-#: thandler/tags.py:413 thandler/tags.py:463
+#: thandler/post.py:567 thandler/post.py:648 thandler/tags.py:295
+#: thandler/tags.py:424 thandler/tags.py:481
 msgid "You not have rights"
 msgstr "Вы не имеете прав"
 
@@ -2090,79 +2099,79 @@ msgstr ""
 msgid "Anime-Pictures.NET: Verify new email"
 msgstr "Anime-Pictures.NET: Верификация новой почты"
 
-#: thandler/tags.py:178
+#: thandler/tags.py:179
 msgid "Alias tag not found"
 msgstr "Тег синонима не найден"
 
-#: thandler/tags.py:185
+#: thandler/tags.py:186
 msgid "The new tag is not in English"
 msgstr "Новый тег не на англиском языке"
 
-#: thandler/tags.py:188
+#: thandler/tags.py:189
 msgid "Create realy new tag"
 msgstr "Создать совершенно новый тег"
 
-#: thandler/tags.py:288
+#: thandler/tags.py:299
 msgid "Empty string"
 msgstr "Пустая строка"
 
-#: thandler/tags.py:390
+#: thandler/tags.py:401
 msgid "You not have rights delete system tag"
 msgstr "У вас нету прав, что бы удалить системный тег"
 
-#: thandler/tags.py:862 thandler/tags.py:950 thandler/tags.py:977
-#: thandler/tags.py:1070 thandler/tags.py:1291
+#: thandler/tags.py:881 thandler/tags.py:969 thandler/tags.py:996
+#: thandler/tags.py:1089 thandler/tags.py:1311
 msgid "You not rights!"
 msgstr "Вы не имеете прав!"
 
-#: thandler/tags.py:868
+#: thandler/tags.py:887
 msgid "Merging when from_tag == to_tag"
 msgstr "Нельзя обьединить тег сам с собой"
 
-#: thandler/tags.py:880
+#: thandler/tags.py:899
 #, python-format
 msgid "This tag have children. Example: %i. "
 msgstr "Этот тег имеет детей. Пример: %i. "
 
-#: thandler/tags.py:1052
+#: thandler/tags.py:1071
 #, python-format
 msgid "Not have tag %i as parent for tag %i."
 msgstr "Не найден родительский тег %i для тега %i."
 
-#: thandler/tags.py:1055
+#: thandler/tags.py:1074
 #, python-format
 msgid "Loop tag from %i to %i."
 msgstr "Образовалась петля между тегами %i и %i."
 
-#: thandler/tags.py:1079
+#: thandler/tags.py:1098
 msgid "English field of tag can`t be empty"
 msgstr "Английское поле тега не может быть пустым"
 
-#: thandler/tags.py:1085
+#: thandler/tags.py:1104
 msgid "English field of tag need unique!"
 msgstr "Английское поле тега не уникально!"
 
-#: thandler/tags.py:1106
+#: thandler/tags.py:1125
 msgid "Tag parent must be integer."
 msgstr "Tag parent должен быть числом."
 
-#: thandler/tags.py:1118
+#: thandler/tags.py:1137
 msgid "Alias must be a number!"
 msgstr "Синоним должен быть числом!"
 
-#: thandler/tags.py:1124
+#: thandler/tags.py:1143
 msgid "Alias tag not found!"
 msgstr "Тег синонима не найден!"
 
-#: thandler/tags.py:1126
+#: thandler/tags.py:1145
 msgid "For alias this tag must be in a single copy!"
 msgstr "Что бы сделать синоним этот тег должен быть в единственном экземпляре!"
 
-#: thandler/tags.py:1128
+#: thandler/tags.py:1147
 msgid "You can't make alias tag if this tag has a parent."
 msgstr "Вы не можете сделать этот тег алиасом т.к. у него есть родитель."
 
-#: thandler/tags.py:1134
+#: thandler/tags.py:1153
 msgid "You can't make alias tag if this tag has childrens."
 msgstr "Вы не можете сделать этот тег алиасом т.к. у него есть дети."
 
