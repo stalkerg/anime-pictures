@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mjv-art.org 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-20 17:36+0900\n"
+"POT-Creation-Date: 2020-01-18 18:40+0900\n"
 "PO-Revision-Date: 2011-10-18 12:09+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: es\n"
@@ -281,18 +281,18 @@ msgstr "Configuraciones"
 msgid "Login"
 msgstr "Iniciar sesion"
 
-#: mjvartorg/templates/bone.mako:255 mjvartorg/templates/bone.mako:400
+#: mjvartorg/templates/bone.mako:255 mjvartorg/templates/bone.mako:406
 #: mjvartorg/templates/jvwall/all_comments.mako:26
 #: mjvartorg/templates/jvwall/post_body.mako:442
 msgid "Comments"
 msgstr "Comentarios"
 
-#: mjvartorg/templates/bone.mako:257 mjvartorg/templates/bone.mako:402
-#: mjvartorg/templates/bone.mako:582
+#: mjvartorg/templates/bone.mako:257 mjvartorg/templates/bone.mako:408
+#: mjvartorg/templates/bone.mako:584
 msgid "Last stars"
 msgstr "Últimas estrellas"
 
-#: mjvartorg/templates/bone.mako:258 mjvartorg/templates/bone.mako:404
+#: mjvartorg/templates/bone.mako:258 mjvartorg/templates/bone.mako:410
 #: mjvartorg/templates/jvwall/anime_girls.mako:6
 #: mjvartorg/templates/jvwall/anime_girls.mako:22
 msgid "Anime girls"
@@ -392,65 +392,65 @@ msgstr "Publicar"
 msgid "Registration"
 msgstr "Registrarse"
 
-#: mjvartorg/templates/bone.mako:383
-#: mjvartorg/templates/profile/login_body.mako:32
-msgid "Enter through"
-msgstr "Entrar con"
-
-#: mjvartorg/templates/bone.mako:391
+#: mjvartorg/templates/bone.mako:385
 #: mjvartorg/templates/profile/login_body.mako:40
 msgid "Recovery password"
 msgstr "Recuperación de la contraseña"
 
-#: mjvartorg/templates/bone.mako:403
+#: mjvartorg/templates/bone.mako:397
+#: mjvartorg/templates/profile/login_body.mako:32
+msgid "Enter through"
+msgstr "Entrar con"
+
+#: mjvartorg/templates/bone.mako:409
 #, fuzzy
 msgid "Pre pictures"
 msgstr "Añadir imágenes"
 
-#: mjvartorg/templates/bone.mako:406
+#: mjvartorg/templates/bone.mako:412
 msgid "Moderators statistic"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:431
+#: mjvartorg/templates/bone.mako:437
 #: mjvartorg/templates/jvwall/all_tags.mako:101
 #: mjvartorg/templates/jvwall/tag_changes.mako:33
-#: mjvartorg/templates/std.mako:902
+#: mjvartorg/templates/std.mako:901
 msgid "Search"
 msgstr "Buscar"
 
-#: mjvartorg/templates/bone.mako:440 mjvartorg/templates/profile/view.mako:519
+#: mjvartorg/templates/bone.mako:446 mjvartorg/templates/profile/view.mako:519
 #, fuzzy
 msgid "Subscribed tags"
 msgstr "Tags prohibidos"
 
-#: mjvartorg/templates/bone.mako:440
+#: mjvartorg/templates/bone.mako:446
 msgid "all pics"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:461
+#: mjvartorg/templates/bone.mako:467
 msgid "Now watching"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:475
+#: mjvartorg/templates/bone.mako:481
 msgid "Buttons"
 msgstr "Teclas"
 
-#: mjvartorg/templates/bone.mako:493
+#: mjvartorg/templates/bone.mako:499
 msgid "Desktop version"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:496
+#: mjvartorg/templates/bone.mako:502
 msgid "Mobile version"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:583 mjvartorg/templates/index.mako:100
+#: mjvartorg/templates/bone.mako:585 mjvartorg/templates/index.mako:100
 #: mjvartorg/templates/index.mako:126
 #: mjvartorg/templates/profile/ext_profile.mako:137
 msgid "all"
 msgstr "todo"
 
 #: mjvartorg/templates/faq.mako:20 mjvartorg/templates/jvwall/all_tags.mako:29
-#: mjvartorg/templates/std.mako:508 mjvartorg/templates/std.mako:526
+#: mjvartorg/templates/std.mako:507 mjvartorg/templates/std.mako:525
 msgid "Edit"
 msgstr "Editar"
 
@@ -545,7 +545,7 @@ msgid "day"
 msgstr ""
 
 #: mjvartorg/templates/moderator_statistic.mako:232
-#: mjvartorg/templates/std.mako:812
+#: mjvartorg/templates/std.mako:811
 msgid "by date"
 msgstr "por fecha"
 
@@ -604,9 +604,9 @@ msgstr ""
 #: mjvartorg/templates/jvwall/post_body.mako:262
 #: mjvartorg/templates/jvwall/post_body.mako:278
 #: mjvartorg/templates/std.mako:236 mjvartorg/templates/std.mako:321
-#: mjvartorg/templates/std.mako:369 mjvartorg/templates/std.mako:547
-#: mjvartorg/templates/std.mako:561 mjvartorg/templates/std.mako:586
-#: mjvartorg/templates/std.mako:606
+#: mjvartorg/templates/std.mako:369 mjvartorg/templates/std.mako:546
+#: mjvartorg/templates/std.mako:560 mjvartorg/templates/std.mako:585
+#: mjvartorg/templates/std.mako:605
 msgid "Anime picture"
 msgstr "Imagen anime"
 
@@ -648,164 +648,164 @@ msgstr "Iniciar sesion"
 msgid "remove"
 msgstr ""
 
-#: mjvartorg/templates/std.mako:449
+#: mjvartorg/templates/std.mako:448
 msgid "Anime pictures with tag"
 msgstr "Imágenes anime con tag"
 
-#: mjvartorg/templates/std.mako:450
+#: mjvartorg/templates/std.mako:449
 #, python-format
 msgid "removed by %(moderator_id)d"
 msgstr ""
 
-#: mjvartorg/templates/std.mako:527
+#: mjvartorg/templates/std.mako:526
 msgid "Are you sure?"
 msgstr "Estas seguro?"
 
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:103
-#: mjvartorg/templates/jvwall/pre_tags.mako:64 mjvartorg/templates/std.mako:527
+#: mjvartorg/templates/jvwall/pre_tags.mako:64 mjvartorg/templates/std.mako:526
 msgid "Delete"
 msgstr "Borrar"
 
-#: mjvartorg/templates/std.mako:616
+#: mjvartorg/templates/std.mako:615
 msgid "Page"
 msgstr "Página"
 
-#: mjvartorg/templates/std.mako:618
+#: mjvartorg/templates/std.mako:617
 msgid "page of"
 msgstr "página de"
 
-#: mjvartorg/templates/std.mako:738
+#: mjvartorg/templates/std.mako:737
 #, python-format
 msgid "Tags (separated by %s or %s, no spaces)"
 msgstr "Tags (separados por %s o %s, no espacios)"
 
-#: mjvartorg/templates/profile/view.mako:479 mjvartorg/templates/std.mako:741
+#: mjvartorg/templates/profile/view.mako:479 mjvartorg/templates/std.mako:740
 msgid "Prohibited Tags"
 msgstr "Tags prohibidos"
 
 #: mjvartorg/templates/jvwall/post_body.mako:91
-#: mjvartorg/templates/std.mako:751
+#: mjvartorg/templates/std.mako:750
 msgid "Resolution"
 msgstr "Resolucion"
 
-#: mjvartorg/templates/std.mako:756
+#: mjvartorg/templates/std.mako:755
 msgid "Auto"
 msgstr "Auto"
 
-#: mjvartorg/templates/std.mako:765
+#: mjvartorg/templates/std.mako:764
 msgid "Aspect ratio"
 msgstr "Proporcion de aspecto"
 
-#: mjvartorg/templates/std.mako:767
+#: mjvartorg/templates/std.mako:766
 msgid "common"
 msgstr "común"
 
-#: mjvartorg/templates/std.mako:791
+#: mjvartorg/templates/std.mako:790
 msgid "square"
 msgstr ""
 
-#: mjvartorg/templates/std.mako:805
+#: mjvartorg/templates/std.mako:804
 msgid "Sortings"
 msgstr "Clasificaciones"
 
-#: mjvartorg/templates/std.mako:809
+#: mjvartorg/templates/std.mako:808
 msgid "by star date"
 msgstr "por estrella fecha"
 
-#: mjvartorg/templates/std.mako:814
+#: mjvartorg/templates/std.mako:813
 msgid "by date (revers)"
 msgstr "por fecha (solapa)"
 
-#: mjvartorg/templates/std.mako:816
+#: mjvartorg/templates/std.mako:815
 msgid "by rating"
 msgstr "por clasificacion"
 
-#: mjvartorg/templates/std.mako:818
+#: mjvartorg/templates/std.mako:817
 msgid "by downloads"
 msgstr "por descargas"
 
-#: mjvartorg/templates/std.mako:820
+#: mjvartorg/templates/std.mako:819
 msgid "by size"
 msgstr "por tamaño"
 
-#: mjvartorg/templates/std.mako:822
+#: mjvartorg/templates/std.mako:821
 #, fuzzy
 msgid "by tag count"
 msgstr "Clasificar por cuentas"
 
-#: mjvartorg/templates/std.mako:824
+#: mjvartorg/templates/std.mako:823
 msgid "How recent"
 msgstr "Cómo de reciente"
 
-#: mjvartorg/templates/std.mako:826
+#: mjvartorg/templates/std.mako:825
 msgid "anytime"
 msgstr "en cualquier momento"
 
-#: mjvartorg/templates/std.mako:827
+#: mjvartorg/templates/std.mako:826
 msgid "past day"
 msgstr "día pasada"
 
-#: mjvartorg/templates/std.mako:828
+#: mjvartorg/templates/std.mako:827
 msgid "past week"
 msgstr "semana pasada"
 
-#: mjvartorg/templates/std.mako:829
+#: mjvartorg/templates/std.mako:828
 msgid "past month"
 msgstr "mes pasado"
 
-#: mjvartorg/templates/std.mako:830
+#: mjvartorg/templates/std.mako:829
 #, fuzzy
 msgid "past 6 months"
 msgstr "mes pasado"
 
-#: mjvartorg/templates/std.mako:831
+#: mjvartorg/templates/std.mako:830
 #, fuzzy
 msgid "past year"
 msgstr "día pasada"
 
-#: mjvartorg/templates/std.mako:832
+#: mjvartorg/templates/std.mako:831
 #, fuzzy
 msgid "past 2 years"
 msgstr "Buscar"
 
-#: mjvartorg/templates/std.mako:833
+#: mjvartorg/templates/std.mako:832
 #, fuzzy
 msgid "past 3 years"
 msgstr "Buscar"
 
-#: mjvartorg/templates/std.mako:842
+#: mjvartorg/templates/std.mako:841
 #, fuzzy
 msgid "small preview"
 msgstr "vista previa grande"
 
-#: mjvartorg/templates/std.mako:846
+#: mjvartorg/templates/std.mako:845
 msgid "Show"
 msgstr "Mostrar"
 
-#: mjvartorg/templates/std.mako:850
+#: mjvartorg/templates/std.mako:849
 #, fuzzy
 msgid "big preview"
 msgstr "vista previa grande"
 
-#: mjvartorg/templates/std.mako:857
+#: mjvartorg/templates/std.mako:856
 msgid "disable moderators images"
 msgstr "desactivar los moderadores imágenes"
 
-#: mjvartorg/templates/std.mako:860
+#: mjvartorg/templates/std.mako:859
 msgid "Extension"
 msgstr "Extensión"
 
 #: mjvartorg/templates/jvwall/post_body.mako:101
-#: mjvartorg/templates/jvwall/posts.mako:8 mjvartorg/templates/std.mako:892
+#: mjvartorg/templates/jvwall/posts.mako:8 mjvartorg/templates/std.mako:891
 msgid "Color"
 msgstr "Color"
 
-#: mjvartorg/templates/std.mako:895
+#: mjvartorg/templates/std.mako:894
 #, fuzzy
 msgid "clear"
 msgstr "Buscar"
 
-#: mjvartorg/templates/std.mako:901
+#: mjvartorg/templates/std.mako:900
 msgid "Advanced"
 msgstr "Avanzado"
 
@@ -1369,7 +1369,6 @@ msgstr "Comentarios de Facebook"
 
 #: mjvartorg/templates/jvwall/post_tags_ajax.mako:16
 #, fuzzy
-#| msgid "Delete folder"
 msgid "deleted by moderator"
 msgstr "Quite la carpeta?"
 
@@ -1600,6 +1599,10 @@ msgstr ""
 
 #: mjvartorg/templates/profile/ext_profile.mako:217
 msgid "Average number of stars per picture"
+msgstr ""
+
+#: mjvartorg/templates/profile/ext_profile.mako:227
+msgid "Corrected tags for latest 20 pictures"
 msgstr ""
 
 #: mjvartorg/templates/profile/login_body.mako:8
@@ -1868,11 +1871,11 @@ msgstr "No hay imágen"
 msgid "Not have access."
 msgstr "No hay acceso"
 
-#: thandler/login.py:223
+#: thandler/login.py:225
 msgid "Sorry, can't send email"
 msgstr "Lo sentimos, no se puede enviar correo electrónico"
 
-#: thandler/login.py:246
+#: thandler/login.py:248
 #, python-format
 msgid ""
 "\n"
@@ -1882,7 +1885,7 @@ msgid ""
 "\t\t\t"
 msgstr ""
 
-#: thandler/login.py:253
+#: thandler/login.py:255
 #, python-format
 msgid ""
 "\n"
@@ -1894,37 +1897,37 @@ msgid ""
 "\t\t\t"
 msgstr ""
 
-#: thandler/login.py:264
+#: thandler/login.py:266
 msgid "Anime-Pictures.NET: Email verify"
 msgstr ""
 
-#: thandler/login.py:293
+#: thandler/login.py:295
 msgid "Wrong username"
 msgstr "Nombre de usuario incorrecto"
 
-#: thandler/login.py:300 thandler/register.py:66
+#: thandler/login.py:309 thandler/register.py:67
 msgid "Password must be in latin symbols"
 msgstr ""
 
-#: thandler/login.py:302
+#: thandler/login.py:311
 msgid "Wrong password"
 msgstr "Contraseña incorrecta"
 
-#: thandler/login.py:304 thandler/login.py:308
+#: thandler/login.py:313 thandler/login.py:317
 msgid "Your banned"
 msgstr "Estas baneado"
 
-#: thandler/login.py:306
+#: thandler/login.py:315
 msgid "Your need confirm email. Please check mailbox."
 msgstr ""
 
 #: thandler/messages.py:19 thandler/messages.py:86 thandler/messages.py:126
-#: thandler/messages.py:181 thandler/profile.py:28 thandler/profile.py:31
-#: thandler/profile.py:39 thandler/profile.py:58 thandler/profile.py:79
-#: thandler/profile.py:89 thandler/profile.py:180 thandler/profile.py:216
-#: thandler/profile.py:249 thandler/profile.py:300 thandler/profile.py:333
-#: thandler/profile.py:347 thandler/profile.py:363 thandler/profile.py:405
-#: thandler/register.py:292
+#: thandler/messages.py:181 thandler/profile.py:29 thandler/profile.py:32
+#: thandler/profile.py:40 thandler/profile.py:59 thandler/profile.py:80
+#: thandler/profile.py:90 thandler/profile.py:194 thandler/profile.py:230
+#: thandler/profile.py:263 thandler/profile.py:314 thandler/profile.py:347
+#: thandler/profile.py:361 thandler/profile.py:377 thandler/profile.py:419
+#: thandler/register.py:306
 #, fuzzy
 msgid "You have no rights"
 msgstr "No tienes permiso"
@@ -1954,118 +1957,118 @@ msgstr "Demasiado poco texto"
 msgid "You have a new message from %s."
 msgstr "Número de mensajes nuevos"
 
-#: thandler/post.py:561 thandler/post.py:572
+#: thandler/post.py:564 thandler/post.py:575
 msgid "Image with that id is not exist"
 msgstr ""
 
-#: thandler/post.py:567 thandler/post.py:648 thandler/tags.py:295
-#: thandler/tags.py:424 thandler/tags.py:481
+#: thandler/post.py:570 thandler/post.py:651 thandler/tags.py:298
+#: thandler/tags.py:427 thandler/tags.py:486
 msgid "You not have rights"
 msgstr "No tienes permiso"
 
-#: thandler/profile.py:123
+#: thandler/profile.py:137
 msgid "Password at least 5 characters, or does not match with the check"
 msgstr "Contraseña de al menos 5 caracteres o no coincide con la comprobación"
 
-#: thandler/profile.py:125
+#: thandler/profile.py:139
 msgid "Wrong old password"
 msgstr "Contraseña antigua incorrecta"
 
-#: thandler/profile.py:148
+#: thandler/profile.py:162
 #, fuzzy
 msgid "Wrong birthday format"
 msgstr "Formato de imagen erroneo"
 
-#: thandler/profile.py:187
+#: thandler/profile.py:201
 msgid "Name of folder must be less than 128 chars"
 msgstr ""
 
-#: thandler/profile.py:190 thandler/profile.py:265
+#: thandler/profile.py:204 thandler/profile.py:279
 msgid "You can't use next names for folders: default and Null"
 msgstr ""
 
-#: thandler/profile.py:198 thandler/profile.py:271
+#: thandler/profile.py:212 thandler/profile.py:285
 msgid "You have a folder with the same name."
 msgstr ""
 
-#: thandler/profile.py:221 thandler/profile.py:257
+#: thandler/profile.py:235 thandler/profile.py:271
 msgid "Not found that folder."
 msgstr ""
 
-#: thandler/profile.py:367
+#: thandler/profile.py:381
 msgid "Not found tag name"
 msgstr ""
 
-#: thandler/profile.py:371
+#: thandler/profile.py:385
 #, fuzzy
 msgid "Wrong tag name"
 msgstr "Nombre de usuario incorrecto"
 
-#: thandler/register.py:44
+#: thandler/register.py:45
 msgid "Wrong login length"
 msgstr "Extensión del login errónea"
 
-#: thandler/register.py:46
+#: thandler/register.py:47
 msgid "Login is empty"
 msgstr "El login está vacío"
 
-#: thandler/register.py:55
+#: thandler/register.py:56
 msgid "Wrong password length (minimum 6 characters)"
 msgstr "Extensión errónea de la contraseña (mínimo 6 símbolos)"
 
-#: thandler/register.py:58
+#: thandler/register.py:59
 msgid "Password is empty"
 msgstr "La contraseña está vacía"
 
-#: thandler/register.py:70
+#: thandler/register.py:71
 msgid "Passwords do not match"
 msgstr "Las contraseñas no coinciden"
 
-#: thandler/register.py:76 thandler/register.py:303
+#: thandler/register.py:77 thandler/register.py:317
 msgid "Invalid email structure"
 msgstr "Estructura de mail no válida"
 
-#: thandler/register.py:78 thandler/register.py:305
+#: thandler/register.py:79 thandler/register.py:319
 msgid "Email is empty"
 msgstr "El buzón esta vacío"
 
-#: thandler/register.py:85
+#: thandler/register.py:86
 msgid "A user with this login already registered on the site"
 msgstr "Ya existe un usuario con este nombre"
 
-#: thandler/register.py:92 thandler/register.py:314
+#: thandler/register.py:93 thandler/register.py:328
 msgid "A user with this email already registered on the site"
 msgstr "Ya existe un usuario con este email"
 
-#: thandler/register.py:112
+#: thandler/register.py:113
 msgid "Captcha server problem"
 msgstr ""
 
-#: thandler/register.py:119
+#: thandler/register.py:120
 msgid "Captcha not valid, try again"
 msgstr ""
 
-#: thandler/register.py:156 thandler/register.py:207
+#: thandler/register.py:164 thandler/register.py:215
 msgid "Bad token"
 msgstr ""
 
-#: thandler/register.py:159 thandler/register.py:210
+#: thandler/register.py:167 thandler/register.py:218
 msgid "Token has expired"
 msgstr ""
 
-#: thandler/register.py:229
+#: thandler/register.py:243
 msgid "Login should be more than 2 symbols."
 msgstr ""
 
-#: thandler/register.py:239
+#: thandler/register.py:253
 msgid "There is no user with this email"
 msgstr "No existe ningun usuario con este mail"
 
-#: thandler/register.py:245 thandler/register.py:296
+#: thandler/register.py:259 thandler/register.py:310
 msgid "You can send a message only once per hour"
 msgstr "Puede enviar un mensaje sólo una vez por hora"
 
-#: thandler/register.py:256
+#: thandler/register.py:270
 #, python-format
 msgid ""
 "\n"
@@ -2076,7 +2079,7 @@ msgid ""
 "\t\t\t\t\t"
 msgstr ""
 
-#: thandler/register.py:263
+#: thandler/register.py:277
 #, python-format
 msgid ""
 "\n"
@@ -2090,19 +2093,19 @@ msgid ""
 "\t\t\t\t\t"
 msgstr ""
 
-#: thandler/register.py:275
+#: thandler/register.py:289
 msgid "Anime-Pictures.NET: Recovery password"
 msgstr ""
 
-#: thandler/register.py:299
+#: thandler/register.py:313
 msgid "You user auth by social network"
 msgstr ""
 
-#: thandler/register.py:308
+#: thandler/register.py:322
 msgid "New email is the same as the old"
 msgstr ""
 
-#: thandler/register.py:327
+#: thandler/register.py:341
 #, python-format
 msgid ""
 "\n"
@@ -2112,7 +2115,7 @@ msgid ""
 "\t\t\t\t\t"
 msgstr ""
 
-#: thandler/register.py:334
+#: thandler/register.py:348
 #, python-format
 msgid ""
 "\n"
@@ -2124,7 +2127,7 @@ msgid ""
 "\t\t\t\t\t"
 msgstr ""
 
-#: thandler/register.py:345
+#: thandler/register.py:359
 msgid "Anime-Pictures.NET: Verify new email"
 msgstr ""
 
@@ -2140,72 +2143,69 @@ msgstr "El nuevo tag no está en inglés"
 msgid "Create realy new tag"
 msgstr ""
 
-#: thandler/tags.py:299
+#: thandler/tags.py:302
 #, fuzzy
 msgid "Empty string"
 msgstr "Configuraciones"
 
-#: thandler/tags.py:401
+#: thandler/tags.py:404
 #, fuzzy
 msgid "You not have rights delete system tag"
 msgstr "No tienes permiso"
 
-#: thandler/tags.py:881 thandler/tags.py:969 thandler/tags.py:996
-#: thandler/tags.py:1089 thandler/tags.py:1311
+#: thandler/tags.py:886 thandler/tags.py:974 thandler/tags.py:1001
+#: thandler/tags.py:1094 thandler/tags.py:1316
 msgid "You not rights!"
 msgstr "No tienes permiso!"
 
-#: thandler/tags.py:887
+#: thandler/tags.py:892
 msgid "Merging when from_tag == to_tag"
 msgstr ""
 
-#: thandler/tags.py:899
+#: thandler/tags.py:904
 #, python-format
 msgid "This tag have children. Example: %i. "
 msgstr ""
 
-#: thandler/tags.py:1071
+#: thandler/tags.py:1076
 #, python-format
 msgid "Not have tag %i as parent for tag %i."
 msgstr ""
 
-#: thandler/tags.py:1074
+#: thandler/tags.py:1079
 #, python-format
 msgid "Loop tag from %i to %i."
 msgstr ""
 
-#: thandler/tags.py:1098
+#: thandler/tags.py:1103
 msgid "English field of tag can`t be empty"
 msgstr "El campo del tag en inglés no puede estar vacío"
 
-#: thandler/tags.py:1104
+#: thandler/tags.py:1109
 msgid "English field of tag need unique!"
 msgstr "El campo del tag en inglés debe ser único"
 
-#: thandler/tags.py:1125
+#: thandler/tags.py:1130
 msgid "Tag parent must be integer."
 msgstr ""
 
-#: thandler/tags.py:1137
+#: thandler/tags.py:1142
 msgid "Alias must be a number!"
 msgstr ""
 
-#: thandler/tags.py:1143
+#: thandler/tags.py:1148
 msgid "Alias tag not found!"
 msgstr ""
 
-#: thandler/tags.py:1145
+#: thandler/tags.py:1150
 msgid "For alias this tag must be in a single copy!"
 msgstr ""
 
-#: thandler/tags.py:1147
+#: thandler/tags.py:1152
 msgid "You can't make alias tag if this tag has a parent."
 msgstr ""
 
-#: thandler/tags.py:1153
+#: thandler/tags.py:1158
 msgid "You can't make alias tag if this tag has childrens."
 msgstr ""
-
-#~ msgid "You have %i unproven pictures you can still upload %i"
-#~ msgstr ""
 
