@@ -23,7 +23,7 @@ Also note, that using waifu2x is prohibited as well.
 6) Wallpapers with identical quality are being filtered as follows: the latest ones are being banned.
 
 How do I delete a picture or why I can not remove it?
-Pictures can be removed before moderators publish them. You can do it by clicking on the small basket icon next to the wallpaper number (¹).
+Pictures can be removed before moderators publish them. You can do it by clicking on the small basket icon next to the wallpaper number (№).
 After the moderator has verified the image, it can not be deleted.
 
 Shall the banned wallpaper be deleted?
