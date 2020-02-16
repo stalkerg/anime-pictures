@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mjv-art.org 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-18 18:40+0900\n"
+"POT-Creation-Date: 2020-02-16 13:27+0900\n"
 "PO-Revision-Date: 2011-07-02 01:44+0400\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ja\n"
@@ -120,157 +120,157 @@ msgid ""
 "100,000 pictures"
 msgstr "200,000枚以上のイラストと壁紙の中から独自の方法で検索できます"
 
-#: mjvartorg/templates/bone.mako:108
+#: mjvartorg/templates/bone.mako:109
 msgid "Ok"
 msgstr "Ok"
 
-#: mjvartorg/templates/bone.mako:109
+#: mjvartorg/templates/bone.mako:110
 #: mjvartorg/templates/jvwall/edit_tag.mako:94
 #: mjvartorg/templates/jvwall/edit_tag.mako:128
 msgid "Error"
 msgstr "エラー"
 
-#: mjvartorg/templates/bone.mako:110
+#: mjvartorg/templates/bone.mako:111
 #: mjvartorg/templates/jvwall/post_body.mako:222
 msgid "Download picture"
 msgstr "画像をダウンロード"
 
-#: mjvartorg/templates/bone.mako:111
+#: mjvartorg/templates/bone.mako:112
 #: mjvartorg/templates/jvwall/edit_tag.mako:90
 msgid "Done"
 msgstr "実行"
 
-#: mjvartorg/templates/bone.mako:112
+#: mjvartorg/templates/bone.mako:113
 #, fuzzy
 msgid "Cancel"
 msgstr "取消"
 
-#: mjvartorg/templates/bone.mako:113
+#: mjvartorg/templates/bone.mako:114
 msgid "WARNING! You add a completely new tag: "
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:114
+#: mjvartorg/templates/bone.mako:115
 msgid ""
 "ERROR! You should not add new tags. Please choose existing tag. Any "
 "requests please write in comments. Tag:"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:115
+#: mjvartorg/templates/bone.mako:116
 msgid "Remove the tag?"
 msgstr "タグを削除しますか？"
 
-#: mjvartorg/templates/bone.mako:116
+#: mjvartorg/templates/bone.mako:117
 #: mjvartorg/templates/jvwall/all_tags.mako:52
 #: mjvartorg/templates/jvwall/all_tags.mako:53
 #: mjvartorg/templates/jvwall/post_tags_ajax.mako:52
 msgid "Edit tag"
 msgstr "タグを編集"
 
-#: mjvartorg/templates/bone.mako:117
+#: mjvartorg/templates/bone.mako:118
 #, fuzzy
 msgid "Remove area"
 msgstr "タグを削除しますか？"
 
-#: mjvartorg/templates/bone.mako:118
+#: mjvartorg/templates/bone.mako:119
 #: mjvartorg/templates/jvwall/posts_body_head.mako:21
 #, fuzzy
 msgid "subscribe"
 msgstr "追加したタグ"
 
-#: mjvartorg/templates/bone.mako:119
+#: mjvartorg/templates/bone.mako:120
 #: mjvartorg/templates/jvwall/posts_body_head.mako:15
 #, fuzzy
 msgid "unsubscribe"
 msgstr "追加したタグ"
 
-#: mjvartorg/templates/bone.mako:120 mjvartorg/templates/jvwall/posts.mako:10
+#: mjvartorg/templates/bone.mako:121 mjvartorg/templates/jvwall/posts.mako:10
 msgid "Anime pictures and wallpapers search"
 msgstr "イラストと壁紙の検索"
 
-#: mjvartorg/templates/bone.mako:121
+#: mjvartorg/templates/bone.mako:122
 msgid "but we have problems with next tags:"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:122
+#: mjvartorg/templates/bone.mako:123
 #, fuzzy
 msgid "unknown tag"
 msgstr "不明"
 
-#: mjvartorg/templates/bone.mako:123
+#: mjvartorg/templates/bone.mako:124
 msgid "have already in recommendation"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:124
+#: mjvartorg/templates/bone.mako:125
 msgid "have already on picture"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:152 mjvartorg/templates/bone.mako:154
+#: mjvartorg/templates/bone.mako:153 mjvartorg/templates/bone.mako:155
 msgid "Main"
 msgstr "ホーム"
 
-#: mjvartorg/templates/bone.mako:158
+#: mjvartorg/templates/bone.mako:159
 msgid "Pictures"
 msgstr "壁紙を探す"
 
-#: mjvartorg/templates/bone.mako:159 mjvartorg/templates/jvwall/post.mako:94
+#: mjvartorg/templates/bone.mako:160 mjvartorg/templates/jvwall/post.mako:102
 #: mjvartorg/templates/jvwall/post_body.mako:287
 msgid "Tags"
 msgstr "タグ"
 
-#: mjvartorg/templates/bone.mako:160 mjvartorg/templates/faq.mako:6
+#: mjvartorg/templates/bone.mako:161 mjvartorg/templates/faq.mako:6
 #: mjvartorg/templates/faq.mako:15 mjvartorg/templates/jvwall/add_wall.mako:19
 msgid "FAQ"
 msgstr "FAQ"
 
-#: mjvartorg/templates/bone.mako:161 mjvartorg/templates/bone.mako:249
+#: mjvartorg/templates/bone.mako:162 mjvartorg/templates/bone.mako:250
 #: mjvartorg/templates/chat/view.mako:6 mjvartorg/templates/chat/view.mako:10
 #, fuzzy
 msgid "Chat"
 msgstr "チャット"
 
-#: mjvartorg/templates/bone.mako:162
+#: mjvartorg/templates/bone.mako:163
 msgid "About"
 msgstr "サイトについて"
 
-#: mjvartorg/templates/bone.mako:166 mjvartorg/templates/bone.mako:251
-#: mjvartorg/templates/bone.mako:337
+#: mjvartorg/templates/bone.mako:167 mjvartorg/templates/bone.mako:252
+#: mjvartorg/templates/bone.mako:338
 #: mjvartorg/templates/profile/ext_profile.mako:115
 msgid "Add image"
 msgstr "画像を追加"
 
-#: mjvartorg/templates/bone.mako:175 mjvartorg/templates/bone.mako:177
-#: mjvartorg/templates/bone.mako:198
+#: mjvartorg/templates/bone.mako:176 mjvartorg/templates/bone.mako:178
+#: mjvartorg/templates/bone.mako:199
 msgid "New images"
 msgstr "新しい画像"
 
-#: mjvartorg/templates/bone.mako:189
+#: mjvartorg/templates/bone.mako:190
 msgid "New messages"
 msgstr "新着メッセージ"
 
-#: mjvartorg/templates/bone.mako:210 mjvartorg/templates/bone.mako:266
+#: mjvartorg/templates/bone.mako:211 mjvartorg/templates/bone.mako:267
 msgid "Language"
 msgstr "言語"
 
-#: mjvartorg/templates/bone.mako:221 mjvartorg/templates/bone.mako:278
+#: mjvartorg/templates/bone.mako:222 mjvartorg/templates/bone.mako:279
 msgid "Theme"
 msgstr "テーマ"
 
-#: mjvartorg/templates/bone.mako:232 mjvartorg/templates/bone.mako:248
+#: mjvartorg/templates/bone.mako:233 mjvartorg/templates/bone.mako:249
 msgid "Logout"
 msgstr "ログアウト"
 
-#: mjvartorg/templates/bone.mako:246
+#: mjvartorg/templates/bone.mako:247
 #, fuzzy
 msgid "My profile"
 msgstr "プロフィール"
 
-#: mjvartorg/templates/bone.mako:250 mjvartorg/templates/bone.mako:334
+#: mjvartorg/templates/bone.mako:251 mjvartorg/templates/bone.mako:335
 #: mjvartorg/templates/profile/ext_profile.mako:114
 #: mjvartorg/templates/profile/view.mako:385
 msgid "Settings"
 msgstr "設定"
 
-#: mjvartorg/templates/bone.mako:253 mjvartorg/templates/bone.mako:369
+#: mjvartorg/templates/bone.mako:254 mjvartorg/templates/bone.mako:370
 #: mjvartorg/templates/profile/login.mako:6
 #: mjvartorg/templates/profile/login_body.mako:4
 #: mjvartorg/templates/profile/password_recovery.mako:59
@@ -279,162 +279,162 @@ msgstr "設定"
 msgid "Login"
 msgstr "ログイン"
 
-#: mjvartorg/templates/bone.mako:255 mjvartorg/templates/bone.mako:406
+#: mjvartorg/templates/bone.mako:256 mjvartorg/templates/bone.mako:407
 #: mjvartorg/templates/jvwall/all_comments.mako:26
-#: mjvartorg/templates/jvwall/post_body.mako:442
+#: mjvartorg/templates/jvwall/post.mako:59
 msgid "Comments"
 msgstr "コメント"
 
-#: mjvartorg/templates/bone.mako:257 mjvartorg/templates/bone.mako:408
-#: mjvartorg/templates/bone.mako:584
+#: mjvartorg/templates/bone.mako:258 mjvartorg/templates/bone.mako:409
+#: mjvartorg/templates/bone.mako:585
 msgid "Last stars"
 msgstr "最後の星"
 
-#: mjvartorg/templates/bone.mako:258 mjvartorg/templates/bone.mako:410
+#: mjvartorg/templates/bone.mako:259 mjvartorg/templates/bone.mako:411
 #: mjvartorg/templates/jvwall/anime_girls.mako:6
 #: mjvartorg/templates/jvwall/anime_girls.mako:22
 msgid "Anime girls"
 msgstr "女の子のイラスト"
 
-#: mjvartorg/templates/bone.mako:296
+#: mjvartorg/templates/bone.mako:297
 msgid ""
 "In the last 24 hours <span "
 "class='sub_menu_number'>{approved_images}</span> approved pictures."
 msgstr "過去24時間で<span class='sub_menu_number'>{approved_images}</span>枚の写真が承認されました。"
 
-#: mjvartorg/templates/bone.mako:297
+#: mjvartorg/templates/bone.mako:298
 msgid "New pictures: <span class='sub_menu_number'>{new_pictures}</span>."
 msgstr "新しい写真 : <span class='sub_menu_number'>{new_pictures}</span>。"
 
-#: mjvartorg/templates/bone.mako:298
+#: mjvartorg/templates/bone.mako:299
 msgid "In pre public mode: <span class='sub_menu_number'>{pre_images}</span>."
 msgstr "事前公開モードでは：<span class='sub_menu_number'>{pre_images}</span>。"
 
-#: mjvartorg/templates/bone.mako:299
+#: mjvartorg/templates/bone.mako:300
 msgid "Banned: <span class='sub_menu_number'>{banned_pictures}</span>."
 msgstr "禁止された: <span class='sub_menu_number'>{banned_pictures}</span>。"
 
-#: mjvartorg/templates/bone.mako:322
+#: mjvartorg/templates/bone.mako:323
 msgid "Hello"
 msgstr "ようこそ"
 
-#: mjvartorg/templates/bone.mako:340
+#: mjvartorg/templates/bone.mako:341
 #: mjvartorg/templates/profile/ext_profile.mako:116
 msgid "Your own wallpapers "
 msgstr "投稿した壁紙"
 
-#: mjvartorg/templates/bone.mako:343
+#: mjvartorg/templates/bone.mako:344
 #: mjvartorg/templates/profile/ext_profile.mako:117
 msgid "Your own stars"
 msgstr "あなた自身の星"
 
-#: mjvartorg/templates/bone.mako:346
+#: mjvartorg/templates/bone.mako:347
 #: mjvartorg/templates/profile/ext_profile.mako:118
 msgid "Comments for your posts"
 msgstr "あなたの投稿に対するコメント"
 
-#: mjvartorg/templates/bone.mako:349
+#: mjvartorg/templates/bone.mako:350
 #: mjvartorg/templates/profile/ext_profile.mako:119
 msgid "Recommend tags"
 msgstr "推奨中のタグ"
 
-#: mjvartorg/templates/bone.mako:352
+#: mjvartorg/templates/bone.mako:353
 #: mjvartorg/templates/jvwall/accepted_pre_tags.mako:6
 #: mjvartorg/templates/profile/ext_profile.mako:120
 msgid "Accepted recommend tags"
 msgstr "受理されたタグ"
 
-#: mjvartorg/templates/bone.mako:356
+#: mjvartorg/templates/bone.mako:357
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:6
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:79
 #: mjvartorg/templates/profile/ext_profile.mako:123
 msgid "Moderating recommend tags"
 msgstr "推奨されたタグを受理"
 
-#: mjvartorg/templates/bone.mako:359
+#: mjvartorg/templates/bone.mako:360
 #: mjvartorg/templates/jvwall/tags_history.mako:6
 #: mjvartorg/templates/jvwall/tags_history.mako:22
 #: mjvartorg/templates/profile/ext_profile.mako:124
 msgid "Tags history"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:362
+#: mjvartorg/templates/bone.mako:363
 msgid "Tags changes"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:373
+#: mjvartorg/templates/bone.mako:374
 #: mjvartorg/templates/profile/login_body.mako:13
 msgid "Username"
 msgstr "ユーザー名"
 
-#: mjvartorg/templates/bone.mako:374
+#: mjvartorg/templates/bone.mako:375
 #: mjvartorg/templates/profile/login_body.mako:19
 #: mjvartorg/templates/profile/register.mako:96
 msgid "Password"
 msgstr "パスワード"
 
-#: mjvartorg/templates/bone.mako:378
+#: mjvartorg/templates/bone.mako:379
 #: mjvartorg/templates/jvwall/add_wall.mako:33
 #: mjvartorg/templates/profile/login_body.mako:27
 #: mjvartorg/templates/profile/password_recovery.mako:73
 msgid "Submit"
 msgstr "送信"
 
-#: mjvartorg/templates/bone.mako:379
+#: mjvartorg/templates/bone.mako:380
 #: mjvartorg/templates/profile/login_body.mako:28
 msgid "Registration"
 msgstr "登録"
 
-#: mjvartorg/templates/bone.mako:385
+#: mjvartorg/templates/bone.mako:386
 #: mjvartorg/templates/profile/login_body.mako:40
 msgid "Recovery password"
 msgstr "パスワードの復旧"
 
-#: mjvartorg/templates/bone.mako:397
+#: mjvartorg/templates/bone.mako:398
 #: mjvartorg/templates/profile/login_body.mako:32
 msgid "Enter through"
 msgstr "他サイトからログイン"
 
-#: mjvartorg/templates/bone.mako:409
+#: mjvartorg/templates/bone.mako:410
 msgid "Pre pictures"
 msgstr "予備写真"
 
-#: mjvartorg/templates/bone.mako:412
+#: mjvartorg/templates/bone.mako:413
 msgid "Moderators statistic"
 msgstr "モデレーター統計"
 
-#: mjvartorg/templates/bone.mako:437
+#: mjvartorg/templates/bone.mako:438
 #: mjvartorg/templates/jvwall/all_tags.mako:101
 #: mjvartorg/templates/jvwall/tag_changes.mako:33
-#: mjvartorg/templates/std.mako:901
+#: mjvartorg/templates/std.mako:957
 msgid "Search"
 msgstr "検索"
 
-#: mjvartorg/templates/bone.mako:446 mjvartorg/templates/profile/view.mako:519
+#: mjvartorg/templates/bone.mako:447 mjvartorg/templates/profile/view.mako:519
 msgid "Subscribed tags"
 msgstr "サブスクライブされたタグ"
 
-#: mjvartorg/templates/bone.mako:446
+#: mjvartorg/templates/bone.mako:447
 msgid "all pics"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:467
+#: mjvartorg/templates/bone.mako:468
 msgid "Now watching"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:481
+#: mjvartorg/templates/bone.mako:482
 msgid "Buttons"
 msgstr "リンク"
 
-#: mjvartorg/templates/bone.mako:499
+#: mjvartorg/templates/bone.mako:500
 msgid "Desktop version"
 msgstr ""
 
-#: mjvartorg/templates/bone.mako:502
+#: mjvartorg/templates/bone.mako:503
 msgid "Mobile version"
 msgstr "モバイル版"
 
-#: mjvartorg/templates/bone.mako:585 mjvartorg/templates/index.mako:100
+#: mjvartorg/templates/bone.mako:586 mjvartorg/templates/index.mako:100
 #: mjvartorg/templates/index.mako:126
 #: mjvartorg/templates/profile/ext_profile.mako:137
 msgid "all"
@@ -529,7 +529,7 @@ msgid "day"
 msgstr "日"
 
 #: mjvartorg/templates/moderator_statistic.mako:232
-#: mjvartorg/templates/std.mako:811
+#: mjvartorg/templates/std.mako:867
 msgid "by date"
 msgstr "年月日で"
 
@@ -580,9 +580,9 @@ msgstr ""
 #: mjvartorg/templates/jvwall/post_body.mako:262
 #: mjvartorg/templates/jvwall/post_body.mako:278
 #: mjvartorg/templates/std.mako:236 mjvartorg/templates/std.mako:321
-#: mjvartorg/templates/std.mako:369 mjvartorg/templates/std.mako:546
-#: mjvartorg/templates/std.mako:560 mjvartorg/templates/std.mako:585
-#: mjvartorg/templates/std.mako:605
+#: mjvartorg/templates/std.mako:369 mjvartorg/templates/std.mako:557
+#: mjvartorg/templates/std.mako:585 mjvartorg/templates/std.mako:623
+#: mjvartorg/templates/std.mako:658
 msgid "Anime picture"
 msgstr "イラスト"
 
@@ -643,148 +643,148 @@ msgstr "よろしいですか？"
 msgid "Delete"
 msgstr "削除"
 
-#: mjvartorg/templates/std.mako:615
+#: mjvartorg/templates/std.mako:671
 msgid "Page"
 msgstr "ページ"
 
-#: mjvartorg/templates/std.mako:617
+#: mjvartorg/templates/std.mako:673
 msgid "page of"
 msgstr "/"
 
-#: mjvartorg/templates/std.mako:737
+#: mjvartorg/templates/std.mako:793
 #, python-format
 msgid "Tags (separated by %s or %s, no spaces)"
 msgstr "タグ (複数のタグは%sまたは%sでつないで空白を入れない)"
 
-#: mjvartorg/templates/profile/view.mako:479 mjvartorg/templates/std.mako:740
+#: mjvartorg/templates/profile/view.mako:479 mjvartorg/templates/std.mako:796
 msgid "Prohibited Tags"
 msgstr "表示禁止タグ"
 
 #: mjvartorg/templates/jvwall/post_body.mako:91
-#: mjvartorg/templates/std.mako:750
+#: mjvartorg/templates/std.mako:806
 msgid "Resolution"
 msgstr "画像の大きさ"
 
-#: mjvartorg/templates/std.mako:755
+#: mjvartorg/templates/std.mako:811
 msgid "Auto"
 msgstr "自動"
 
-#: mjvartorg/templates/std.mako:764
+#: mjvartorg/templates/std.mako:820
 msgid "Aspect ratio"
 msgstr "アスペクト比"
 
-#: mjvartorg/templates/std.mako:766
+#: mjvartorg/templates/std.mako:822
 msgid "common"
 msgstr "代表的な値"
 
-#: mjvartorg/templates/std.mako:790
+#: mjvartorg/templates/std.mako:846
 msgid "square"
 msgstr ""
 
-#: mjvartorg/templates/std.mako:804
+#: mjvartorg/templates/std.mako:860
 msgid "Sortings"
 msgstr "並べ替え方"
 
-#: mjvartorg/templates/std.mako:808
+#: mjvartorg/templates/std.mako:864
 msgid "by star date"
 msgstr "星年月日で"
 
-#: mjvartorg/templates/std.mako:813
+#: mjvartorg/templates/std.mako:869
 msgid "by date (revers)"
 msgstr "年月日で(逆順)"
 
-#: mjvartorg/templates/std.mako:815
+#: mjvartorg/templates/std.mako:871
 msgid "by rating"
 msgstr "評価で"
 
-#: mjvartorg/templates/std.mako:817
+#: mjvartorg/templates/std.mako:873
 msgid "by downloads"
 msgstr "ダウンロード数で"
 
-#: mjvartorg/templates/std.mako:819
+#: mjvartorg/templates/std.mako:875
 msgid "by size"
 msgstr "容量で"
 
-#: mjvartorg/templates/std.mako:821
+#: mjvartorg/templates/std.mako:877
 #, fuzzy
 msgid "by tag count"
 msgstr "登録数でソート"
 
-#: mjvartorg/templates/std.mako:823
+#: mjvartorg/templates/std.mako:879
 msgid "How recent"
 msgstr "期間"
 
-#: mjvartorg/templates/std.mako:825
+#: mjvartorg/templates/std.mako:881
 msgid "anytime"
 msgstr "全期間"
 
-#: mjvartorg/templates/std.mako:826
+#: mjvartorg/templates/std.mako:882
 msgid "past day"
 msgstr "最後の日"
 
-#: mjvartorg/templates/std.mako:827
+#: mjvartorg/templates/std.mako:883
 msgid "past week"
 msgstr "この一週間"
 
-#: mjvartorg/templates/std.mako:828
+#: mjvartorg/templates/std.mako:884
 msgid "past month"
 msgstr "この一ヶ月"
 
-#: mjvartorg/templates/std.mako:829
+#: mjvartorg/templates/std.mako:885
 #, fuzzy
 msgid "past 6 months"
 msgstr "この一ヶ月"
 
-#: mjvartorg/templates/std.mako:830
+#: mjvartorg/templates/std.mako:886
 #, fuzzy
 msgid "past year"
 msgstr "最後の日"
 
-#: mjvartorg/templates/std.mako:831
+#: mjvartorg/templates/std.mako:887
 #, fuzzy
 msgid "past 2 years"
 msgstr "2年"
 
-#: mjvartorg/templates/std.mako:832
+#: mjvartorg/templates/std.mako:888
 #, fuzzy
 msgid "past 3 years"
 msgstr "3年"
 
-#: mjvartorg/templates/std.mako:841
+#: mjvartorg/templates/std.mako:897
 msgid "small preview"
 msgstr "小さなサムネイル"
 
-#: mjvartorg/templates/std.mako:845
+#: mjvartorg/templates/std.mako:901
 msgid "Show"
 msgstr "表示"
 
-#: mjvartorg/templates/std.mako:849
+#: mjvartorg/templates/std.mako:905
 msgid "big preview"
 msgstr "ビッグサムネイル"
 
-#: mjvartorg/templates/std.mako:856
+#: mjvartorg/templates/std.mako:912
 msgid "disable moderators images"
 msgstr "無効モデレーター画像"
 
-#: mjvartorg/templates/std.mako:859
+#: mjvartorg/templates/std.mako:915
 msgid "Extension"
 msgstr "画像拡張子"
 
 #: mjvartorg/templates/jvwall/post_body.mako:101
-#: mjvartorg/templates/jvwall/posts.mako:8 mjvartorg/templates/std.mako:891
+#: mjvartorg/templates/jvwall/posts.mako:8 mjvartorg/templates/std.mako:947
 msgid "Color"
 msgstr "色彩"
 
-#: mjvartorg/templates/std.mako:894
+#: mjvartorg/templates/std.mako:950
 #, fuzzy
 msgid "clear"
 msgstr "年"
 
-#: mjvartorg/templates/std.mako:900
+#: mjvartorg/templates/std.mako:956
 msgid "Advanced"
 msgstr ""
 
-#: mjvartorg/templates/chat/users.mako:21 mjvartorg/templates/chat/view.mako:53
+#: mjvartorg/templates/chat/users.mako:21 mjvartorg/templates/chat/view.mako:52
 #, fuzzy
 msgid "profile"
 msgstr "プロフィール"
@@ -794,12 +794,12 @@ msgstr "プロフィール"
 msgid "Not live %i minuts"
 msgstr ""
 
-#: mjvartorg/templates/chat/view.mako:54 thandler/messages.py:166
+#: mjvartorg/templates/chat/view.mako:53 thandler/messages.py:166
 #, fuzzy
 msgid "New message"
 msgstr "新着メッセージ"
 
-#: mjvartorg/templates/chat/view.mako:55
+#: mjvartorg/templates/chat/view.mako:54
 #, fuzzy
 msgid "Chat users"
 msgstr "チャット参加者"
@@ -1042,37 +1042,42 @@ msgstr ""
 msgid "Accept"
 msgstr "了承"
 
-#: mjvartorg/templates/jvwall/post.mako:96
-#: mjvartorg/templates/jvwall/post_body.mako:289
-msgid "About tag(desc)"
-msgstr "タグについて(desc)"
-
-#: mjvartorg/templates/jvwall/post.mako:106
-#: mjvartorg/templates/jvwall/post.mako:124
+#: mjvartorg/templates/jvwall/post.mako:57
+#: mjvartorg/templates/jvwall/post.mako:114
+#: mjvartorg/templates/jvwall/post.mako:132
 #: mjvartorg/templates/jvwall/post_body.mako:156
 #: mjvartorg/templates/jvwall/post_body.mako:165
 #: mjvartorg/templates/jvwall/post_body.mako:179
 #: mjvartorg/templates/jvwall/post_body.mako:299
 #: mjvartorg/templates/jvwall/post_body.mako:317
-#: mjvartorg/templates/jvwall/post_body.mako:468
 #: mjvartorg/templates/profile/view.mako:512
 #: mjvartorg/templates/profile/view.mako:534
 msgid "Add"
 msgstr "追加"
 
-#: mjvartorg/templates/jvwall/post.mako:107
+#: mjvartorg/templates/jvwall/post.mako:58
+#, fuzzy
+msgid "About comments(desc)"
+msgstr "コメントについて(desc)"
+
+#: mjvartorg/templates/jvwall/post.mako:104
+#: mjvartorg/templates/jvwall/post_body.mako:289
+msgid "About tag(desc)"
+msgstr "タグについて(desc)"
+
+#: mjvartorg/templates/jvwall/post.mako:115
 #: mjvartorg/templates/jvwall/post_body.mako:300
 msgid "New tags can be added only in English!"
 msgstr "新しいタグは英語でのみ追加することができます！"
 
-#: mjvartorg/templates/jvwall/post.mako:111
-#: mjvartorg/templates/jvwall/post.mako:126
+#: mjvartorg/templates/jvwall/post.mako:119
+#: mjvartorg/templates/jvwall/post.mako:134
 #: mjvartorg/templates/jvwall/post_body.mako:304
 #: mjvartorg/templates/jvwall/post_body.mako:319
 msgid "Recommend tag"
 msgstr "申請するタグ"
 
-#: mjvartorg/templates/jvwall/post.mako:125
+#: mjvartorg/templates/jvwall/post.mako:133
 #: mjvartorg/templates/jvwall/post_body.mako:318
 msgid "You can`t recommend new tags"
 msgstr "あなたは新規のタグを承認できません"
@@ -1340,11 +1345,6 @@ msgstr "説明を表示"
 #, fuzzy
 msgid "About tag description(desc)"
 msgstr "タグの説明について(desc)"
-
-#: mjvartorg/templates/jvwall/post_body.mako:444
-#, fuzzy
-msgid "About comments(desc)"
-msgstr "コメントについて(desc)"
 
 #: mjvartorg/templates/jvwall/post_tags_ajax.mako:16
 #, fuzzy
@@ -1837,21 +1837,51 @@ msgstr "重複です！この壁紙はすでに登録されています"
 msgid "error"
 msgstr "エラー"
 
-#: thandler/comments.py:164 thandler/comments.py:224
+#: thandler/comments.py:176 thandler/comments.py:320 thandler/comments.py:466
 msgid "More than 2000 chars"
 msgstr "コメントは2000バイト以下にしてください"
 
-#: thandler/comments.py:166
+#: thandler/comments.py:178 thandler/comments.py:322
 msgid "Less than 2 characters"
 msgstr "2文字以上入力してください"
 
-#: thandler/comments.py:171
+#: thandler/comments.py:187 thandler/comments.py:327
 msgid "Not have image"
 msgstr "画像がありません"
 
-#: thandler/comments.py:222 thandler/comments.py:239 thandler/comments.py:254
+#: thandler/comments.py:191 thandler/comments.py:331
+#, fuzzy
+msgid "You have not rights"
+msgstr "権限がありません"
+
+#: thandler/comments.py:229 thandler/comments.py:464 thandler/comments.py:485
 msgid "Not have access."
 msgstr "権限がありません"
+
+#: thandler/comments.py:304
+msgid "Wrong image id"
+msgstr ""
+
+#: thandler/comments.py:344
+msgid "You can't add a comment now, please try later."
+msgstr ""
+
+#: thandler/comments.py:364 thandler/register.py:113
+msgid "Captcha server problem"
+msgstr ""
+
+#: thandler/comments.py:371 thandler/register.py:120
+msgid "Captcha not valid, try again"
+msgstr ""
+
+#: thandler/comments.py:452 thandler/comments.py:481
+msgid "Wrong comment id"
+msgstr ""
+
+#: thandler/comments.py:458
+#, fuzzy
+msgid "Have no comment"
+msgstr "最後のコメント"
 
 #: thandler/login.py:225
 msgid "Sorry, can't send email"
@@ -1906,9 +1936,9 @@ msgstr ""
 #: thandler/messages.py:19 thandler/messages.py:86 thandler/messages.py:126
 #: thandler/messages.py:181 thandler/profile.py:29 thandler/profile.py:32
 #: thandler/profile.py:40 thandler/profile.py:59 thandler/profile.py:80
-#: thandler/profile.py:90 thandler/profile.py:194 thandler/profile.py:230
-#: thandler/profile.py:263 thandler/profile.py:314 thandler/profile.py:347
-#: thandler/profile.py:361 thandler/profile.py:377 thandler/profile.py:419
+#: thandler/profile.py:90 thandler/profile.py:195 thandler/profile.py:231
+#: thandler/profile.py:264 thandler/profile.py:315 thandler/profile.py:348
+#: thandler/profile.py:362 thandler/profile.py:378 thandler/profile.py:420
 #: thandler/register.py:306
 #, fuzzy
 msgid "You have no rights"
@@ -1961,27 +1991,27 @@ msgstr "以前のパスワードが違います"
 msgid "Wrong birthday format"
 msgstr "生年月日が異常です"
 
-#: thandler/profile.py:201
+#: thandler/profile.py:202
 msgid "Name of folder must be less than 128 chars"
 msgstr ""
 
-#: thandler/profile.py:204 thandler/profile.py:279
+#: thandler/profile.py:205 thandler/profile.py:280
 msgid "You can't use next names for folders: default and Null"
 msgstr ""
 
-#: thandler/profile.py:212 thandler/profile.py:285
+#: thandler/profile.py:213 thandler/profile.py:286
 msgid "You have a folder with the same name."
 msgstr ""
 
-#: thandler/profile.py:235 thandler/profile.py:271
+#: thandler/profile.py:236 thandler/profile.py:272
 msgid "Not found that folder."
 msgstr ""
 
-#: thandler/profile.py:381
+#: thandler/profile.py:382
 msgid "Not found tag name"
 msgstr ""
 
-#: thandler/profile.py:385
+#: thandler/profile.py:386
 #, fuzzy
 msgid "Wrong tag name"
 msgstr "ユーザー名が違います"
@@ -2021,14 +2051,6 @@ msgstr "そのユーザーはすでに登録されています"
 #: thandler/register.py:93 thandler/register.py:328
 msgid "A user with this email already registered on the site"
 msgstr "このメールアドレスはすでに登録されています"
-
-#: thandler/register.py:113
-msgid "Captcha server problem"
-msgstr ""
-
-#: thandler/register.py:120
-msgid "Captcha not valid, try again"
-msgstr ""
 
 #: thandler/register.py:164 thandler/register.py:215
 msgid "Bad token"
