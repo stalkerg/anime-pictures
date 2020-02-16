@@ -1,4 +1,4 @@
-Pros of the registration.
+[b]Pros of the registration.[/b]
 What do you gain by registering:
 -upload images
 -add comments to the pictures and chat with other users
@@ -8,115 +8,114 @@ What do you gain by registering:
 -add pictures to favorites
 -organize item them into your favorite folders
 
-What pictures can I upload?
-1) The pictures fitting the site theme
-2) Larger side is at least 800 pixels
-3) Good quality only
+[b]What pictures can I upload?[/b]
+  1) The pictures fitting the site theme 
+  2) The larger side is at least 800 pixels 
+  3) Good quality only
 
-On what criteria are wallpapers banned?
-1) Poor quality images (it refers to both bad style (childish, begging artist, quick sketch) and much-overcompressed images).
-2) Duplicate wallpapers of worse quality independently of resolution with similar or identical aspect ratio.
-3) Upscaled and downscaled wallpapers: your image should have the same resolution as the image uploaded by the artist (usually on pixiv/Twitter/DevianArt/ArtStation and so on). If the artist has uploaded on different sites the same image with different resolutions, you should choose the biggest one. Check that a large picture is created without using the site's capabilities to stretch/zoom a picture for display. 
-Also note, that using waifu2x is prohibited as well.
-4) Cropped copies of original (if the original is on the site) without valuable altering the aspect ratio.
-5) The wallpaper doesn't fit the site theme (wallpaper from movies, art paintings, photographs, 3D games, screenshots).
-6) Wallpapers with identical quality are being filtered as follows: the latest ones are being banned.
+[b]On what criteria are wallpapers banned?[/b]
+  1) Poor quality images (it refers to both bad style (childish, begging artist, quick sketch) and much-overcompressed images).
+  2) Duplicate wallpapers of worse quality independently of resolution with similar or identical aspect ratio.
+  3) Upscaled and downscaled wallpapers: your image should have the same resolution as the image uploaded by the artist (usually on pixiv/Twitter/DevianArt/ArtStation and so on). If the artist has uploaded on different sites the same image with different resolutions, you should choose the biggest one. Check that a large picture is created without using the site's capabilities to stretch/zoom a picture for display. Also note, that using waifu2x is prohibited as well.
+  4) Cropped copies of original (if the original is on the site) without valuable altering the aspect ratio.
+  5) The wallpaper doesn't fit the site theme (wallpaper from movies, art paintings, photographs, 3D games, screenshots).
+  6) Wallpapers with identical quality are being filtered as follows: the latest ones are being banned.
 
-How do I delete a picture or why I can not remove it?
+[b]How do I delete a picture or why I can not remove it?[/b]
 Pictures can be removed before moderators publish them. You can do it by clicking on the small basket icon next to the wallpaper number (№).
 After the moderator has verified the image, it can not be deleted.
 
-Shall the banned wallpaper be deleted?
+[b]Shall the banned wallpaper be deleted?[/b]
 The banned wallpaper won’t be deleted. They’ll stay in order to create an ideal duplicate filtering system in the future.
 
-I am the author of the image and do not agree with its publication on this site. What to do?
+[b]I am the author of the image and do not agree with its publication on this site. What to do?[/b]
 The issue is discussed individually. Contact via messages with the user 'stalkerg' or click on 'stalkerg' at the bottom of the site.
 
-Why can I upload only 15 pictures?
+[b]Why can I upload only 15 pictures?[/b]
 If your pictures are properly tagged, then they should be approved quicker by the moderators. You can ask any moderator to increase your limit.
 
-Why do you limit the downloading of images?
+[b]Why do you limit the downloading of images?[/b]
 Restrictions introduced to users who are poorly tagging their pictures, or do not tag them at all.
 
-How fast are moderators checking wallpapers?
+[b]How fast are moderators checking wallpapers?[/b]
 Wallpapers are checked more or less in the order of uploading. The uploader and moderators can see the wallpaper position in the queue.
 Passing the queue takes a few days and depends on the availability and work capacity of the moderators.
 If wallpaper is poorly tagged, it can get status PRE. Such wallpapers cannot be starred or favorited, and any registered user can add tags to it. It will be published later when it'll get enough tags.
 
-What is a basic tag set?
-1) The title of the manufacturer (of anime, manga or game) or “original” tag if the picture is an artist’s work of authorship.
-2) Names of characters.
-3) The name of the author.
-4) Gender.
-5) The color of eyes and hair color.
-6) Hair length.
-7) The essential clothing elements.
-8) The basic background elements.
-Important: the tag object must be really drawn in the picture, nothing can be thought out. In addition, do not put a lot of tags. You should not put obvious (eyebrow, collarbone, hand, etc.) tags if this object is not noticeable by something.
+[b]What is a basic tag set?[/b]
+  1) The title of the manufacturer (of anime, manga or game) or “original” tag if the picture is an artist’s work of authorship.
+  2) Names of characters.
+  3) The name of the author.
+  4) Gender.
+  5) The color of eyes and hair color.
+  6) Hair length.
+  7) The essential clothing elements.
+  8) The basic background elements.
+     Important: the tag object must be really drawn in the picture, nothing can be thought out. In addition, do not put a lot of tags. You should not put obvious (eyebrow, collarbone, hand, etc.) tags if this object is not noticeable by something.
 
-What is upscale?
+[b]What is upscale?[/b]
 Upscale - this is a hardware resolution increase, often leading to a deterioration of image quality.
 
-How can I highlight new anime\character\author tags?
+[b]How can I highlight new anime\character\author tags?[/b]
 Moderators do this. Write the name of the anime\character\author's website (in English) in a comment, and when the moderator checks the wallpaper, he will set the tag accordingly. If the English name is missing and doubt the correctness of the proposed tag, then write the name in the original language.
 
-Is it necessary to specify the artist?
+[b]Is it necessary to specify the artist?[/b]
 Yes, if it's possible.
 It’ll help moderators to find the artist, display an original source page and his name (if the author is from pixiv.net).
 
-When must I set "long hair" tag or "very long hair"?
+[b]When must I set "long hair" tag or "very long hair"?[/b]
 You put long hair if the hair is knee-long. If longer - very long hair.
 
-Because of what I can’t recommend a tag?
-You can only recommend the tags from the <a href="https://anime-pictures.net/pictures/view_all_tags/0" rel="nofollow">data base</a>.
+[b]Because of what I can’t recommend a tag?[/b]
+You can only recommend the tags from the [url="https://anime-pictures.net/pictures/view_all_tags/0?lang=en"]data base[/url].
 
-Why can’t I search pictures by several tags in the "All tags" zone?
+[b]Why can’t I search pictures by several tags in the [url="/pictures/view_all_tags/0?lang=en"]"All tags"[/url] zone?[/b]
 "All tags" zone is a data base of all the tags of the site, it’s possible to search just one tag only there, not several tags or pictures.
 Note: you can search for part of the tag / description. For example, 'femal' from 'female'.
 
-How can I search for wallpaper by several tags at once?
+[b]How can I search for wallpaper by several tags at once?[/b]
 Using search operators:
-Logical OR:|| (to search for mutiple tags as separate)
-Logical AND: && (search for multiple tags in total)
+[notag]Logical OR:|| (to search for mutiple tags as separate)[/notag]
+[notag]Logical AND: && (search for multiple tags in total)[/notag]
 
-An example of a query with ||:
-rosario+vampire||striped
+[notag]An example of a query with ||:[/notag]
+[notag]rosario+vampire||striped[/notag]
 will search for pictures that have been tagged "rosario+vampire", "striped", or both of them.
 
 An example of a query with &&:
-2girls&&breasts
+[notag]2girls&&breasts[/notag]
 will search for all pictures that have both "2girls" and "breasts" tags.
 
 You can also combine || and &&, where AND operator && has higher priority.
-A&&B||C will be evaluated as A && ( B || C )
+[notag]A&&B||C will be evaluated as A && ( B || C )[/notag]
 
 Example:
-2girls&&rosario+vampire||striped
+[notag]2girls&&rosario+vampire||striped[/notag]
 will search for all pictures that have "2girls" tag and either "rosario+vampire", "striped", or both.
 
-Why my uploads with the loli tag had their erotic rating changed?
+[b]Why my uploads with the loli tag had their erotic rating changed?[/b]
 Due to the controversial nature of loli content and how it is interpreted by law in many countries, we were required to set content with loli, which contains even a minimal amount of erotic context, to be visible only to registered users who have expressly allowed viewing of erotic content in settings. It, in turn, requires such pictures to be specifically tagged as "erotic" or "hard erotic".
 The basic principle is that what usually would be tagged as "light erotic", on loli content, needs to be "erotic", and what would usually be "erotic" needs to be tagged as "hard erotic". Wallpapers tagged as hard erotic stays unchanged.
 
-From where beautiful wallpapers are taken?
+[b]From where beautiful wallpapers are taken?[/b]
 Mainly from pixiv.net and deviantart.com these are the original sources for the most wallpaper and pictures, related to the site theme.
 
-How is the ratio being calculated?
+[b]How is the ratio being calculated?[/b]
 This is actually a secret. In general terms, the number of images you uploaded with their rating, plus how many tags are put to other people's images (through a recommendation).
 Formula: comments/2 + (walls*k_score)/100.0 + tags*0.25 where comments and score for last month.
 
-How can I organize my favorites?
+[b]How can I organize my favorites?[/b]
 You can create an unlimited number of folders by going into your profile options.
 When you create it, you can add any picture to it by going to the post with it, and selecting the appropriate option from the Your favorite menu (that's why it's a menu, not a button).
 Each post can be in one folder at a time.
 If you want to remove a picture from the folder, but leave it in favorites, select Add to favorites.
 Removing a folder containing pictures will not remove them from your favorites. (by deFco247)
 
-Who can I ask about the site?
-You can ask in a chat or just ask any moderator. List of actual moderators on <a href="https://anime-pictures.net/index/about" rel="nofollow">about page</a>.
+[b]Who can I ask about the site?[/b]
+You can ask in a chat or just ask any moderator. List of actual moderators on [url="https://anime-pictures.net/index/about?lang=en"]about page[/url].
 
-How can I help site?
-It's possible on <a href="https://www.patreon.com/bePatron?u=8248400" rel="nofollow">Patreon</a>
+[b]How can I help site?[/b]
+It's possible on [url=https://www.patreon.com/bePatron?u=8248400]Patreon[/url]
 
-How long does this site exist?
+[b]How long does this site exist?[/b]
 This site exists since early 2010 as it is now.
