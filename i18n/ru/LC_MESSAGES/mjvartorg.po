@@ -345,6 +345,7 @@ msgstr "Рекомендованные теги"
 
 #: mjvartorg/templates/bone.mako:353
 #: mjvartorg/templates/jvwall/accepted_pre_tags.mako:6
+#: mjvartorg/templates/jvwall/accepted_pre_tags.mako:22
 #: mjvartorg/templates/profile/ext_profile.mako:120
 msgid "Accepted recommend tags"
 msgstr "Принятые рек. тег"
@@ -575,11 +576,6 @@ msgstr "Обновить"
 msgid "Statistic"
 msgstr "Статистика"
 
-#: mjvartorg/templates/privacy_policy.mako:6
-#: mjvartorg/templates/privacy_policy.mako:14
-msgid "Privacy Policy"
-msgstr "Политика приватности"
-
 #: mjvartorg/templates/jvwall/post.mako:9
 #: mjvartorg/templates/jvwall/post.mako:21
 #: mjvartorg/templates/jvwall/post_body.mako:56
@@ -715,7 +711,7 @@ msgstr "За какое время"
 
 #: mjvartorg/templates/std.mako:881
 msgid "anytime"
-msgstr "всё"
+msgstr "всё время"
 
 #: mjvartorg/templates/std.mako:882
 msgid "past day"
@@ -731,7 +727,7 @@ msgstr "последний месяц"
 
 #: mjvartorg/templates/std.mako:885
 msgid "past 6 months"
-msgstr "последнии 6 месяцев"
+msgstr "последние 6 месяцев"
 
 #: mjvartorg/templates/std.mako:886
 msgid "past year"
@@ -739,11 +735,11 @@ msgstr "последний год"
 
 #: mjvartorg/templates/std.mako:887
 msgid "past 2 years"
-msgstr "последнии 2 года"
+msgstr "последние 2 года"
 
 #: mjvartorg/templates/std.mako:888
 msgid "past 3 years"
-msgstr "последнии 3 года"
+msgstr "последние 3 года"
 
 #: mjvartorg/templates/std.mako:897
 msgid "small preview"
@@ -795,11 +791,10 @@ msgstr "Новое сообщение"
 msgid "Chat users"
 msgstr "Пользователи в чате"
 
-#: mjvartorg/templates/jvwall/accepted_pre_tags.mako:22
 #: mjvartorg/templates/jvwall/pre_tags.mako:6
 #: mjvartorg/templates/jvwall/pre_tags.mako:48
 msgid "Your recommend tags"
-msgstr "Ваши рек. теги"
+msgstr "Ваши рекомендованные теги"
 
 #: mjvartorg/templates/jvwall/accepted_pre_tags.mako:32
 #: mjvartorg/templates/jvwall/all_comments.mako:6
@@ -896,7 +891,7 @@ msgstr "Тег"
 
 #: mjvartorg/templates/jvwall/all_tags.mako:74
 msgid "Tag description"
-msgstr "Описание тегов"
+msgstr "Описание тега"
 
 #: mjvartorg/templates/jvwall/all_tags.mako:77
 msgid "Sort by count"
@@ -912,7 +907,7 @@ msgstr "Только синонимы (алиасы)"
 
 #: mjvartorg/templates/jvwall/all_tags.mako:82
 msgid "Sort by type"
-msgstr "Сортировка по типу"
+msgstr "Фильтр по типу"
 
 #: mjvartorg/templates/jvwall/all_tags.mako:84 thandler/base.py:119
 msgid "unknown"
@@ -1418,7 +1413,7 @@ msgstr "Пользователь"
 
 #: mjvartorg/templates/jvwall/tag_changes.mako:40
 msgid "Changes"
-msgstr "Изменения"
+msgstr "История изменений"
 
 #: mjvartorg/templates/profile/comments_for_your_posts.mako:22
 msgid "Comments for your images"
@@ -1467,6 +1462,7 @@ msgid "Site score"
 msgstr "Очки на сайте"
 
 #: mjvartorg/templates/profile/ext_profile.mako:57
+#: mjvartorg/templates/jvwall/accepted_pre_tags.mako:22
 msgid "Accepted tags"
 msgstr "Принятые теги"
 
@@ -1590,7 +1586,7 @@ msgstr "Заголовок"
 
 #: mjvartorg/templates/profile/messages_from_user.mako:92
 msgid "Send to"
-msgstr "Отправить к"
+msgstr "Отправить"
 
 #: mjvartorg/templates/profile/messages_from_user.mako:98
 msgid "Messages"
@@ -1632,7 +1628,7 @@ msgstr "Новый пароль"
 
 #: mjvartorg/templates/profile/register.mako:85
 msgid "After registration, we will send you an e-mail confirmation link."
-msgstr "После регистрации мы отправим к вам на почту ссылку для подтверждения."
+msgstr "После регистрации мы отправим вам на почту ссылку для подтверждения."
 
 #: mjvartorg/templates/profile/register.mako:86
 msgid "We use Google reCaptcha to validate you are not a bot."
@@ -1644,19 +1640,21 @@ msgstr "Регистрация"
 
 #: mjvartorg/templates/profile/register.mako:101
 msgid "Repeat password"
-msgstr "Повторить пароль"
+msgstr "Повторите пароль"
 
 #: mjvartorg/templates/profile/register.mako:107
 msgid ""
 "for confirmation code, please don't use phone email like "
 "blabla@docomo.ne.jp"
-msgstr "пожалуйста, указывайте работающую электронную почту"
+msgstr "пожалуйста, напишите существующую электронную почту"
 
 #: mjvartorg/templates/profile/register.mako:111
 msgid "Send"
 msgstr "Отправить"
 
 #: mjvartorg/templates/profile/register.mako:112
+#: mjvartorg/templates/privacy_policy.mako:6
+#: mjvartorg/templates/privacy_policy.mako:14
 msgid "Privacy policy"
 msgstr "Политика конфиденциальности"
 
@@ -1989,7 +1987,7 @@ msgstr "Неверное имя тега"
 
 #: thandler/register.py:45
 msgid "Wrong login length"
-msgstr "Ошибочная длина логина"
+msgstr "Ошибочная длина логина (от 4 до 100)"
 
 #: thandler/register.py:47
 msgid "Login is empty"
