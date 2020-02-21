@@ -345,7 +345,6 @@ msgstr "Рекомендованные теги"
 
 #: mjvartorg/templates/bone.mako:353
 #: mjvartorg/templates/jvwall/accepted_pre_tags.mako:6
-#: mjvartorg/templates/jvwall/accepted_pre_tags.mako:22
 #: mjvartorg/templates/profile/ext_profile.mako:120
 msgid "Accepted recommend tags"
 msgstr "Принятые рек. тег"
@@ -791,6 +790,7 @@ msgstr "Новое сообщение"
 msgid "Chat users"
 msgstr "Пользователи в чате"
 
+#: mjvartorg/templates/jvwall/accepted_pre_tags.mako:22
 #: mjvartorg/templates/jvwall/pre_tags.mako:6
 #: mjvartorg/templates/jvwall/pre_tags.mako:48
 msgid "Your recommend tags"
@@ -1462,7 +1462,6 @@ msgid "Site score"
 msgstr "Очки на сайте"
 
 #: mjvartorg/templates/profile/ext_profile.mako:57
-#: mjvartorg/templates/jvwall/accepted_pre_tags.mako:22
 msgid "Accepted tags"
 msgstr "Принятые теги"
 
@@ -1987,7 +1986,7 @@ msgstr "Неверное имя тега"
 
 #: thandler/register.py:45
 msgid "Wrong login length"
-msgstr "Ошибочная длина логина (от 4 до 100)"
+msgstr "Ошибочная длина логина (допускается от 4 до 100 символов)"
 
 #: thandler/register.py:47
 msgid "Login is empty"
@@ -2200,4 +2199,3 @@ msgstr "Вы не можете сделать этот тег алиасом т.
 #: thandler/tags.py:1158
 msgid "You can't make alias tag if this tag has childrens."
 msgstr "Вы не можете сделать этот тег алиасом т.к. у него есть дети."
-
