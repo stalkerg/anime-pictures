@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: stalkerg@gmail.com\n"
 "POT-Creation-Date: 2020-02-16 13:27+0900\n"
 "PO-Revision-Date: 2020-01-18 10:00+0000\n"
-"Last-Translator: FULL NAME <stalkerg@gmail.com>\n"
+"Last-Translator: Yury Zhuravlev <stalkerg@gmail.com>\n"
 "Language: ru\n"
 "Language-Team: ru <stalkerg@gmail.com>\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
@@ -56,19 +56,19 @@ msgstr "Заслуженный коммитер"
 
 #: mjvartorg/templates/about.mako:47
 msgid "The French translation team:"
-msgstr "Комманда переводчиков на французкий язык:"
+msgstr "Команда переводчиков на французский язык:"
 
 #: mjvartorg/templates/about.mako:55
 msgid "The Japanese translation team:"
-msgstr "Комманда переводчиков на японский язык:"
+msgstr "Команда переводчиков на японский язык:"
 
 #: mjvartorg/templates/about.mako:63
 msgid "German translation team:"
-msgstr "Комманда переводчиков на немецкий язык:"
+msgstr "Команда переводчиков на немецкий язык:"
 
 #: mjvartorg/templates/about.mako:71
 msgid "Italian translation team:"
-msgstr "Комманда переводчиков на итальянский язык:"
+msgstr "Команда переводчиков на итальянский язык:"
 
 #: mjvartorg/templates/about.mako:79
 msgid "People who helped the site before:"
@@ -347,7 +347,7 @@ msgstr "Рекомендованные теги"
 #: mjvartorg/templates/jvwall/accepted_pre_tags.mako:6
 #: mjvartorg/templates/profile/ext_profile.mako:120
 msgid "Accepted recommend tags"
-msgstr "Принятые рек. тег"
+msgstr "Принятые рекомендованные теги"
 
 #: mjvartorg/templates/bone.mako:357
 #: mjvartorg/templates/jvwall/moderating_pre_tags.mako:6
@@ -393,7 +393,7 @@ msgstr "Регистрация"
 #: mjvartorg/templates/bone.mako:386
 #: mjvartorg/templates/profile/login_body.mako:40
 msgid "Recovery password"
-msgstr "Востановление пароля"
+msgstr "Воcстановление пароля"
 
 #: mjvartorg/templates/bone.mako:398
 #: mjvartorg/templates/profile/login_body.mako:32
@@ -754,7 +754,7 @@ msgstr "большое превью"
 
 #: mjvartorg/templates/std.mako:912
 msgid "disable moderators images"
-msgstr "откл. картинки модераторов"
+msgstr "скрыть картинки модераторов"
 
 #: mjvartorg/templates/std.mako:915
 msgid "Extension"
@@ -1417,7 +1417,7 @@ msgstr "История изменений"
 
 #: mjvartorg/templates/profile/comments_for_your_posts.mako:22
 msgid "Comments for your images"
-msgstr "Коментарии к вашим картинкам"
+msgstr "Комментарии к вашим картинкам"
 
 #: mjvartorg/templates/profile/ext_profile.mako:6
 #: mjvartorg/templates/profile/ext_profile.mako:19
@@ -1593,7 +1593,7 @@ msgstr "Сообщения"
 
 #: mjvartorg/templates/profile/messages_from_user.mako:117
 msgid "Mark read"
-msgstr "Отметить прочтёным"
+msgstr "Отметить прочтённым"
 
 #: mjvartorg/templates/profile/messages_users.mako:6
 #: mjvartorg/templates/profile/messages_users.mako:22
@@ -1613,7 +1613,7 @@ msgstr "Количество новых сообщений"
 #: mjvartorg/templates/profile/password_recovery_verify.mako:6
 #: mjvartorg/templates/profile/password_recovery_verify.mako:15
 msgid "Password recovery"
-msgstr "Востановление пароля"
+msgstr "Воcстановление пароля"
 
 #: mjvartorg/templates/profile/password_recovery.mako:29
 #: mjvartorg/templates/profile/view.mako:359
@@ -1807,7 +1807,7 @@ msgstr "Меньше чем 2 символа"
 
 #: thandler/comments.py:187 thandler/comments.py:327
 msgid "Not have image"
-msgstr "Нету такого изображения"
+msgstr "Нет такого изображения"
 
 #: thandler/comments.py:191 thandler/comments.py:331
 #, fuzzy
@@ -1829,11 +1829,11 @@ msgstr ""
 
 #: thandler/comments.py:364 thandler/register.py:113
 msgid "Captcha server problem"
-msgstr "Проблема с сервером каптчи"
+msgstr "Проблема с сервером капчи"
 
 #: thandler/comments.py:371 thandler/register.py:120
 msgid "Captcha not valid, try again"
-msgstr "Каптча не неверна, попробуйте ещё"
+msgstr "Капча не неверна, попробуйте ещё"
 
 #: thandler/comments.py:452 thandler/comments.py:481
 msgid "Wrong comment id"
@@ -1902,7 +1902,7 @@ msgstr "Вы забанены"
 
 #: thandler/login.py:315
 msgid "Your need confirm email. Please check mailbox."
-msgstr "Вам нужно подтвердить ваш емаил. Пожалуйтса проверьте ваш почтовой ящик."
+msgstr "Вам нужно подтвердить ваш емаил. Пожалуйста, проверьте ваш почтовой ящик."
 
 #: thandler/messages.py:19 thandler/messages.py:86 thandler/messages.py:126
 #: thandler/messages.py:181 thandler/profile.py:29 thandler/profile.py:32
@@ -2051,9 +2051,9 @@ msgid ""
 "\t\t\t\t\t"
 msgstr ""
 "\n"
-"\t\t\t\t\tДля востановления пароля, перейдите по ссылке "
+"\t\t\t\t\tДля восстановления пароля, перейдите по ссылке "
 "https://%s/login/password_recovery_verify/%s .\n"
-"\t\t\t\t\tЕсли вы не запрашивали востановление пароля то удалите это "
+"\t\t\t\t\tЕсли вы не запрашивали восстановление пароля то удалите это "
 "сообщение.\n"
 "\t\t\t\t\t"
 
@@ -2070,16 +2070,16 @@ msgid ""
 " this message.\n"
 "\t\t\t\t\t"
 msgstr ""
-"\t\t\tДля востановления пароля, перейдите по ссылке\n"
+"\t\t\tДля восстановления пароля, перейдите по ссылке\n"
 "\t\t\t<a "
 "href=\"https://%(host)s/login/password_recovery_verify/%(token)s\"\n"
 "\t\t\t>https://%(host)s/login/password_recovery_verify/%(token)s</a>.\n"
-"\t\t\tЕсли вы не запрашивали востановление пароля то удалите это "
+"\t\t\tЕсли вы не запрашивали восстановление пароля то удалите это "
 "сообщение."
 
 #: thandler/register.py:289
 msgid "Anime-Pictures.NET: Recovery password"
-msgstr "Anime-Pictures.NET: Востановление пароля"
+msgstr "Anime-Pictures.NET: Воcстановление пароля"
 
 #: thandler/register.py:313
 msgid "You user auth by social network"
@@ -2130,7 +2130,7 @@ msgstr "Тег синонима не найден"
 
 #: thandler/tags.py:186
 msgid "The new tag is not in English"
-msgstr "Новый тег не на англиском языке"
+msgstr "Новый тег не на английском языке"
 
 #: thandler/tags.py:189
 msgid "Create realy new tag"
@@ -2151,7 +2151,7 @@ msgstr "Вы не имеете прав!"
 
 #: thandler/tags.py:892
 msgid "Merging when from_tag == to_tag"
-msgstr "Нельзя обьединить тег сам с собой"
+msgstr "Нельзя объединить тег сам с собой"
 
 #: thandler/tags.py:904
 #, python-format
@@ -2199,3 +2199,4 @@ msgstr "Вы не можете сделать этот тег алиасом т.
 #: thandler/tags.py:1158
 msgid "You can't make alias tag if this tag has childrens."
 msgstr "Вы не можете сделать этот тег алиасом т.к. у него есть дети."
+
