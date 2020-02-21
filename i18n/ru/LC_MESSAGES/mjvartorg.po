@@ -742,7 +742,7 @@ msgstr "последние 3 года"
 
 #: mjvartorg/templates/std.mako:897
 msgid "small preview"
-msgstr "маленькое превью"
+msgstr "уменьшенные миниатюры"
 
 #: mjvartorg/templates/std.mako:901
 msgid "Show"
@@ -750,7 +750,7 @@ msgstr "Показывать"
 
 #: mjvartorg/templates/std.mako:905
 msgid "big preview"
-msgstr "большое превью"
+msgstr "большие миниатюры"
 
 #: mjvartorg/templates/std.mako:912
 msgid "disable moderators images"
@@ -1743,7 +1743,7 @@ msgstr "Блокировать эротические элементы по ум
 
 #: mjvartorg/templates/profile/view.mako:491
 msgid "Use small preview"
-msgstr "Использовать маленькие миниатюры"
+msgstr "Использовать уменьшенные миниатюры"
 
 #: mjvartorg/templates/profile/view.mako:495
 msgid "Blur the spoilers"
