@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  anime-pictures.net\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-02-16 13:27+0900\n"
+"POT-Creation-Date: 2020-02-22 12:27+0900\n"
 "PO-Revision-Date: 2019-10-23 13:53+0200\n"
 "Last-Translator: \n"
 "Language: it\n"
@@ -207,7 +207,7 @@ msgstr "Main"
 msgid "Pictures"
 msgstr "Immagini"
 
-#: mjvartorg/templates/bone.mako:160 mjvartorg/templates/jvwall/post.mako:102
+#: mjvartorg/templates/bone.mako:160 mjvartorg/templates/jvwall/post.mako:103
 #: mjvartorg/templates/jvwall/post_body.mako:287
 msgid "Tags"
 msgstr "Tags"
@@ -880,7 +880,6 @@ msgid "Searching tag options"
 msgstr "Ricerca opzioni dei tag"
 
 #: mjvartorg/templates/jvwall/all_tags.mako:72
-#: mjvartorg/templates/jvwall/tag_changes.mako:39
 msgid "Tag"
 msgstr "Tag"
 
@@ -1020,13 +1019,13 @@ msgid "Accept"
 msgstr "Accetto"
 
 #: mjvartorg/templates/jvwall/post.mako:57
-#: mjvartorg/templates/jvwall/post.mako:114
-#: mjvartorg/templates/jvwall/post.mako:132
+#: mjvartorg/templates/jvwall/post.mako:116
+#: mjvartorg/templates/jvwall/post.mako:134
 #: mjvartorg/templates/jvwall/post_body.mako:156
 #: mjvartorg/templates/jvwall/post_body.mako:165
 #: mjvartorg/templates/jvwall/post_body.mako:179
-#: mjvartorg/templates/jvwall/post_body.mako:299
-#: mjvartorg/templates/jvwall/post_body.mako:317
+#: mjvartorg/templates/jvwall/post_body.mako:300
+#: mjvartorg/templates/jvwall/post_body.mako:318
 #: mjvartorg/templates/profile/view.mako:512
 #: mjvartorg/templates/profile/view.mako:534
 msgid "Add"
@@ -1036,25 +1035,25 @@ msgstr "Aggiungi"
 msgid "About comments(desc)"
 msgstr "Informazioni sui commenti (desc)"
 
-#: mjvartorg/templates/jvwall/post.mako:104
+#: mjvartorg/templates/jvwall/post.mako:105
 #: mjvartorg/templates/jvwall/post_body.mako:289
 msgid "About tag(desc)"
 msgstr "Informazioni sul tag (desc)"
 
-#: mjvartorg/templates/jvwall/post.mako:115
-#: mjvartorg/templates/jvwall/post_body.mako:300
+#: mjvartorg/templates/jvwall/post.mako:117
+#: mjvartorg/templates/jvwall/post_body.mako:301
 msgid "New tags can be added only in English!"
 msgstr "I nuovi tag possono essere aggiunti solo in inglese!"
 
-#: mjvartorg/templates/jvwall/post.mako:119
-#: mjvartorg/templates/jvwall/post.mako:134
-#: mjvartorg/templates/jvwall/post_body.mako:304
-#: mjvartorg/templates/jvwall/post_body.mako:319
+#: mjvartorg/templates/jvwall/post.mako:121
+#: mjvartorg/templates/jvwall/post.mako:136
+#: mjvartorg/templates/jvwall/post_body.mako:305
+#: mjvartorg/templates/jvwall/post_body.mako:320
 msgid "Recommend tag"
 msgstr "Tag consigliato"
 
-#: mjvartorg/templates/jvwall/post.mako:133
-#: mjvartorg/templates/jvwall/post_body.mako:318
+#: mjvartorg/templates/jvwall/post.mako:135
+#: mjvartorg/templates/jvwall/post_body.mako:319
 msgid "You can`t recommend new tags"
 msgstr "Non puoi consigliare nuovi tag"
 
@@ -1248,67 +1247,67 @@ msgstr "Scarica immagine anime"
 msgid "with"
 msgstr "con"
 
-#: mjvartorg/templates/jvwall/post_body.mako:333
+#: mjvartorg/templates/jvwall/post_body.mako:334
 msgid "Favorites for"
 msgstr "Preferiti da"
 
-#: mjvartorg/templates/jvwall/post_body.mako:335
+#: mjvartorg/templates/jvwall/post_body.mako:336
 msgid "About favorites(desc)"
 msgstr "Informazioni sui preferiti (desc)"
 
-#: mjvartorg/templates/jvwall/post_body.mako:350
+#: mjvartorg/templates/jvwall/post_body.mako:352
 msgid "Your favorite"
 msgstr "Il tuo preferito"
 
-#: mjvartorg/templates/jvwall/post_body.mako:352
+#: mjvartorg/templates/jvwall/post_body.mako:354
 msgid "Not in favorites"
 msgstr "Non nei preferiti"
 
-#: mjvartorg/templates/jvwall/post_body.mako:356
+#: mjvartorg/templates/jvwall/post_body.mako:358
 msgid "In favorites"
 msgstr "Nei Preferiti"
 
-#: mjvartorg/templates/jvwall/post_body.mako:358
+#: mjvartorg/templates/jvwall/post_body.mako:360
 msgid "Add to favorites"
 msgstr "Aggiungi ai preferiti"
 
-#: mjvartorg/templates/jvwall/post_body.mako:363
+#: mjvartorg/templates/jvwall/post_body.mako:365
 msgid "In"
 msgstr "In"
 
-#: mjvartorg/templates/jvwall/post_body.mako:365
+#: mjvartorg/templates/jvwall/post_body.mako:367
 msgid "Add to"
 msgstr "Aggiungi a"
 
-#: mjvartorg/templates/jvwall/post_body.mako:377
+#: mjvartorg/templates/jvwall/post_body.mako:379
 msgid "Similar to"
 msgstr "Simile a"
 
-#: mjvartorg/templates/jvwall/post_body.mako:379
+#: mjvartorg/templates/jvwall/post_body.mako:381
 msgid "About similar image(desc)"
 msgstr "Informazioni sull'immagine simile (desc)"
 
-#: mjvartorg/templates/jvwall/post_body.mako:398
+#: mjvartorg/templates/jvwall/post_body.mako:401
 msgid "About artists"
 msgstr "Informazioni sugli Artisti"
 
-#: mjvartorg/templates/jvwall/post_body.mako:400
+#: mjvartorg/templates/jvwall/post_body.mako:403
 msgid "About artists(desc)"
 msgstr "Informazioni sugli artisti (desc)"
 
-#: mjvartorg/templates/jvwall/post_body.mako:414
+#: mjvartorg/templates/jvwall/post_body.mako:418
 msgid "Tags descriptions"
 msgstr "Descrizioni dei tag"
 
-#: mjvartorg/templates/jvwall/post_body.mako:416
+#: mjvartorg/templates/jvwall/post_body.mako:420
 msgid "Open Description"
 msgstr "Apri descrizione"
 
-#: mjvartorg/templates/jvwall/post_body.mako:418
+#: mjvartorg/templates/jvwall/post_body.mako:422
 msgid "Show descriptions"
 msgstr "Mostra le descrizioni"
 
-#: mjvartorg/templates/jvwall/post_body.mako:423
+#: mjvartorg/templates/jvwall/post_body.mako:427
 msgid "About tag description(desc)"
 msgstr "Informazioni sulla descrizione del tag (desc)"
 
@@ -1333,15 +1332,15 @@ msgstr "Opzioni di ricerca"
 msgid "About search options(desc)"
 msgstr "Informazioni sulle opzioni di ricerca (desc)"
 
-#: mjvartorg/templates/jvwall/posts.mako:56
+#: mjvartorg/templates/jvwall/posts.mako:57
 msgid "Multiaction"
 msgstr "Azioni multiple"
 
-#: mjvartorg/templates/jvwall/posts.mako:59
+#: mjvartorg/templates/jvwall/posts.mako:60
 msgid "Add tags"
 msgstr "Aggiungi tags"
 
-#: mjvartorg/templates/jvwall/posts.mako:61
+#: mjvartorg/templates/jvwall/posts.mako:62
 msgid "Check all"
 msgstr "Seleziona tutto"
 
@@ -1387,15 +1386,6 @@ msgstr "Punteggi"
 #: mjvartorg/templates/jvwall/tag_changes.mako:29
 msgid "Tag changes"
 msgstr "Modifiche tag"
-
-#: mjvartorg/templates/jvwall/tag_changes.mako:38
-#: mjvartorg/templates/profile/messages_users.mako:25
-msgid "User"
-msgstr "Utente"
-
-#: mjvartorg/templates/jvwall/tag_changes.mako:40
-msgid "Changes"
-msgstr "Modifiche"
 
 #: mjvartorg/templates/profile/comments_for_your_posts.mako:22
 msgid "Comments for your images"
@@ -1583,6 +1573,10 @@ msgstr "Segna come letto"
 #: mjvartorg/templates/profile/messages_users.mako:22
 msgid "Users messages"
 msgstr "Messaggi degli utenti"
+
+#: mjvartorg/templates/profile/messages_users.mako:25
+msgid "User"
+msgstr "Utente"
 
 #: mjvartorg/templates/profile/messages_users.mako:26
 msgid "Number of messages"
@@ -2193,4 +2187,7 @@ msgstr "You can't make alias tag if this tag has a parent."
 #: thandler/tags.py:1158
 msgid "You can't make alias tag if this tag has childrens."
 msgstr "Non puoi creare un tag alias se questo tag ha dei figli."
+
+#~ msgid "Changes"
+#~ msgstr "Modifiche"
 

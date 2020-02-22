@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mjv-art.org 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-02-16 13:27+0900\n"
+"POT-Creation-Date: 2020-02-22 12:27+0900\n"
 "PO-Revision-Date: 2011-07-02 01:44+0400\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ja\n"
@@ -212,7 +212,7 @@ msgstr "ホーム"
 msgid "Pictures"
 msgstr "壁紙を探す"
 
-#: mjvartorg/templates/bone.mako:160 mjvartorg/templates/jvwall/post.mako:102
+#: mjvartorg/templates/bone.mako:160 mjvartorg/templates/jvwall/post.mako:103
 #: mjvartorg/templates/jvwall/post_body.mako:287
 msgid "Tags"
 msgstr "タグ"
@@ -899,7 +899,6 @@ msgid "Searching tag options"
 msgstr "検索オプション"
 
 #: mjvartorg/templates/jvwall/all_tags.mako:72
-#: mjvartorg/templates/jvwall/tag_changes.mako:39
 msgid "Tag"
 msgstr "タグ"
 
@@ -1043,13 +1042,13 @@ msgid "Accept"
 msgstr "了承"
 
 #: mjvartorg/templates/jvwall/post.mako:57
-#: mjvartorg/templates/jvwall/post.mako:114
-#: mjvartorg/templates/jvwall/post.mako:132
+#: mjvartorg/templates/jvwall/post.mako:116
+#: mjvartorg/templates/jvwall/post.mako:134
 #: mjvartorg/templates/jvwall/post_body.mako:156
 #: mjvartorg/templates/jvwall/post_body.mako:165
 #: mjvartorg/templates/jvwall/post_body.mako:179
-#: mjvartorg/templates/jvwall/post_body.mako:299
-#: mjvartorg/templates/jvwall/post_body.mako:317
+#: mjvartorg/templates/jvwall/post_body.mako:300
+#: mjvartorg/templates/jvwall/post_body.mako:318
 #: mjvartorg/templates/profile/view.mako:512
 #: mjvartorg/templates/profile/view.mako:534
 msgid "Add"
@@ -1060,25 +1059,25 @@ msgstr "追加"
 msgid "About comments(desc)"
 msgstr "コメントについて(desc)"
 
-#: mjvartorg/templates/jvwall/post.mako:104
+#: mjvartorg/templates/jvwall/post.mako:105
 #: mjvartorg/templates/jvwall/post_body.mako:289
 msgid "About tag(desc)"
 msgstr "タグについて(desc)"
 
-#: mjvartorg/templates/jvwall/post.mako:115
-#: mjvartorg/templates/jvwall/post_body.mako:300
+#: mjvartorg/templates/jvwall/post.mako:117
+#: mjvartorg/templates/jvwall/post_body.mako:301
 msgid "New tags can be added only in English!"
 msgstr "新しいタグは英語でのみ追加することができます！"
 
-#: mjvartorg/templates/jvwall/post.mako:119
-#: mjvartorg/templates/jvwall/post.mako:134
-#: mjvartorg/templates/jvwall/post_body.mako:304
-#: mjvartorg/templates/jvwall/post_body.mako:319
+#: mjvartorg/templates/jvwall/post.mako:121
+#: mjvartorg/templates/jvwall/post.mako:136
+#: mjvartorg/templates/jvwall/post_body.mako:305
+#: mjvartorg/templates/jvwall/post_body.mako:320
 msgid "Recommend tag"
 msgstr "申請するタグ"
 
-#: mjvartorg/templates/jvwall/post.mako:133
-#: mjvartorg/templates/jvwall/post_body.mako:318
+#: mjvartorg/templates/jvwall/post.mako:135
+#: mjvartorg/templates/jvwall/post_body.mako:319
 msgid "You can`t recommend new tags"
 msgstr "あなたは新規のタグを承認できません"
 
@@ -1276,72 +1275,72 @@ msgstr "壁紙をダウンロード"
 msgid "with"
 msgstr ""
 
-#: mjvartorg/templates/jvwall/post_body.mako:333
+#: mjvartorg/templates/jvwall/post_body.mako:334
 msgid "Favorites for"
 msgstr "ブックマークしているユーザー"
 
-#: mjvartorg/templates/jvwall/post_body.mako:335
+#: mjvartorg/templates/jvwall/post_body.mako:336
 #, fuzzy
 msgid "About favorites(desc)"
 msgstr "ブックマーク(desc)"
 
-#: mjvartorg/templates/jvwall/post_body.mako:350
+#: mjvartorg/templates/jvwall/post_body.mako:352
 msgid "Your favorite"
 msgstr "ブックマークに追加"
 
-#: mjvartorg/templates/jvwall/post_body.mako:352
+#: mjvartorg/templates/jvwall/post_body.mako:354
 msgid "Not in favorites"
 msgstr "しない"
 
-#: mjvartorg/templates/jvwall/post_body.mako:356
+#: mjvartorg/templates/jvwall/post_body.mako:358
 msgid "In favorites"
 msgstr "登録済み"
 
-#: mjvartorg/templates/jvwall/post_body.mako:358
+#: mjvartorg/templates/jvwall/post_body.mako:360
 msgid "Add to favorites"
 msgstr "する"
 
-#: mjvartorg/templates/jvwall/post_body.mako:363
+#: mjvartorg/templates/jvwall/post_body.mako:365
 msgid "In"
 msgstr ""
 
-#: mjvartorg/templates/jvwall/post_body.mako:365
+#: mjvartorg/templates/jvwall/post_body.mako:367
 msgid "Add to"
 msgstr ""
 
-#: mjvartorg/templates/jvwall/post_body.mako:377
+#: mjvartorg/templates/jvwall/post_body.mako:379
 msgid "Similar to"
 msgstr "似ている壁紙"
 
-#: mjvartorg/templates/jvwall/post_body.mako:379
+#: mjvartorg/templates/jvwall/post_body.mako:381
 msgid "About similar image(desc)"
 msgstr "似ている壁紙（降順)"
 
-#: mjvartorg/templates/jvwall/post_body.mako:398
+#: mjvartorg/templates/jvwall/post_body.mako:401
 msgid "About artists"
 msgstr "アーティストについて"
 
-#: mjvartorg/templates/jvwall/post_body.mako:400
+#: mjvartorg/templates/jvwall/post_body.mako:403
 #, fuzzy
 msgid "About artists(desc)"
 msgstr "アーティストについて(desc)"
 
-#: mjvartorg/templates/jvwall/post_body.mako:414
+#: mjvartorg/templates/jvwall/post_body.mako:418
 #, fuzzy
 msgid "Tags descriptions"
 msgstr "タグの説明"
 
-#: mjvartorg/templates/jvwall/post_body.mako:416
+#: mjvartorg/templates/jvwall/post_body.mako:420
 #, fuzzy
 msgid "Open Description"
 msgstr "説明を開く"
 
-#: mjvartorg/templates/jvwall/post_body.mako:418
+#: mjvartorg/templates/jvwall/post_body.mako:422
 #, fuzzy
 msgid "Show descriptions"
 msgstr "説明を表示"
 
-#: mjvartorg/templates/jvwall/post_body.mako:423
+#: mjvartorg/templates/jvwall/post_body.mako:427
 #, fuzzy
 msgid "About tag description(desc)"
 msgstr "タグの説明について(desc)"
@@ -1368,15 +1367,15 @@ msgstr "検索オプション"
 msgid "About search options(desc)"
 msgstr "検索オプションについて（desc)"
 
-#: mjvartorg/templates/jvwall/posts.mako:56
+#: mjvartorg/templates/jvwall/posts.mako:57
 msgid "Multiaction"
 msgstr ""
 
-#: mjvartorg/templates/jvwall/posts.mako:59
+#: mjvartorg/templates/jvwall/posts.mako:60
 msgid "Add tags"
 msgstr "タグを追加"
 
-#: mjvartorg/templates/jvwall/posts.mako:61
+#: mjvartorg/templates/jvwall/posts.mako:62
 msgid "Check all"
 msgstr "全てをチェック"
 
@@ -1426,15 +1425,6 @@ msgstr "評価"
 
 #: mjvartorg/templates/jvwall/tag_changes.mako:29
 msgid "Tag changes"
-msgstr ""
-
-#: mjvartorg/templates/jvwall/tag_changes.mako:38
-#: mjvartorg/templates/profile/messages_users.mako:25
-msgid "User"
-msgstr "ユーザー"
-
-#: mjvartorg/templates/jvwall/tag_changes.mako:40
-msgid "Changes"
 msgstr ""
 
 #: mjvartorg/templates/profile/comments_for_your_posts.mako:22
@@ -1632,6 +1622,10 @@ msgstr "既読にする"
 #: mjvartorg/templates/profile/messages_users.mako:22
 msgid "Users messages"
 msgstr "ユーザーのメッセージ"
+
+#: mjvartorg/templates/profile/messages_users.mako:25
+msgid "User"
+msgstr "ユーザー"
 
 #: mjvartorg/templates/profile/messages_users.mako:26
 msgid "Number of messages"
@@ -2210,4 +2204,7 @@ msgstr ""
 #: thandler/tags.py:1158
 msgid "You can't make alias tag if this tag has childrens."
 msgstr ""
+
+#~ msgid "Changes"
+#~ msgstr ""
 
