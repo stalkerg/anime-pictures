@@ -1816,11 +1816,11 @@ msgstr "Нет доступа"
 
 #: thandler/comments.py:304
 msgid "Wrong image id"
-msgstr ""
+msgstr "Неправильный id картинки"
 
 #: thandler/comments.py:344
 msgid "You can't add a comment now, please try later."
-msgstr ""
+msgstr "Вы не можете добавить комментарий, повторите позднее"
 
 #: thandler/comments.py:364 thandler/register.py:113
 msgid "Captcha server problem"
