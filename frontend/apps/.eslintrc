@@ -1,0 +1,77 @@
+{
+    "extends": [
+        "eslint-config-airbnb-base",
+        "eslint-config-airbnb-base/rules/strict"
+    ],
+    "globals": {
+        "document": true,
+        "com_sbps_system": true
+    },
+    "plugins": [
+        "svelte3"
+    ],
+    "overrides": [
+        {
+            "files": [
+                "**/*.svelte"
+            ],
+            "processor": "svelte3/svelte3",
+            "rules": {
+                "import/first": "off",
+                "import/no-duplicates": "off",
+                "import/no-mutable-exports": "off",
+                "import/no-unresolved": "off",
+                "import/prefer-default-export": "off"
+            }
+        }
+    ],
+    "rules": {
+        "no-console": 0,
+        "import/no-extraneous-dependencies": [
+            "error",
+            {
+                "devDependencies": true,
+                "optionalDependencies": false,
+                "peerDependencies": false
+            }
+        ],
+        "no-restricted-syntax": [
+            "error",
+            "LabeledStatement",
+            "WithStatement"
+        ],
+        "eol-last": "off",
+        "arrow-parens": [
+            2,
+            "as-needed",
+            {
+                "requireForBlockBody": true
+            }
+        ],
+        "no-multiple-empty-lines": ["error", { "max": 2, "maxBOF": 2, "maxEOF": 0 }]
+    },
+    "env": {
+        "browser": true
+    },
+    "settings": {
+        "import/resolver": {
+            "babel-module": {
+                "root": [
+                    "./src"
+                ],
+                "extensions": [
+                    ".js",
+                    ".mjs",
+                    ".svelte"
+                ]
+            }
+        }
+    },
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "sourceType": "module",
+        "allowImportExportEverywhere": false,
+        "codeFrame": false,
+        "ecmaVersion": 2019
+    }
+}
