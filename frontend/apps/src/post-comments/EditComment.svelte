@@ -136,9 +136,9 @@
     const keynum = event.which || event.keyCode;
     if ((event.ctrlKey || event.metaKey) && keynum === 13) {
       if (editMessageId !== -1) {
-        addComment();
-      } else {
         updateComment();
+      } else {
+        addComment();
       }
     }
   }
