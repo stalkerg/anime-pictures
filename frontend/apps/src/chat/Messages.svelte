@@ -2,9 +2,8 @@
   import dayjs from 'dayjs';
   import VirtualList from '@sveltejs/svelte-virtual-list';
   import { createEventDispatcher } from 'svelte';
-  import { genAvatarUrl } from '../helpers';
-  import { _, language } from '../i18n';
   import Separator from '../Separator.svelte';
+  import Avatar from '../Avatar.svelte';
 
   export let messages = [];
   export let myUser = {};
@@ -46,21 +45,6 @@
     align-content: center;
     margin-top: 0.5rem;
     /* border-bottom: 1px solid #d5d5d5; */
-  }
-
-  .chat-avatar {
-    margin-right: 1.0rem;
-    margin-left: 0.5rem;
-    width: 4rem;
-    max-width: 4rem;
-    /* min-height: 5rem; */
-    text-align: center;
-  }
-
-  .chat-avatar img {
-    max-width: 100%;
-    cursor: pointer;
-    /* border-radius: 50%; */
   }
 
   .chat-text {
@@ -110,13 +94,7 @@
              isEdit={editMessageId === item.id}
              showToday={false}/>
   <div class="chat-row">
-    <div class="chat-avatar sub-text">
-      <img src="{genAvatarUrl(item.user)}"
-           alt="{item.user.name} avatar"
-           title="{$_('profile')}"
-           on:mouseup|preventDefault={() => window.open(`/profile/view_ext_profile/${item.user.id}?lang=${$language}`)}>
-      <!-- <a href="/profile/view_ext_profile/{item.user.id}?lang={$language}">{$_('profile')}</a> -->
-    </div>
+    <Avatar user={item.user} />
     <div class="chat-text">
       <div class="chat-text-head">
         <span class="name" on:click={() => dispatch('putUserName', item.user)}>{item.user.name}</span>

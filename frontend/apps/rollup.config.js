@@ -59,4 +59,5 @@ function generateConfig(baseName) {
 export default [
   generateConfig('chat'),
   generateConfig('post-comments'),
+  generateConfig('messages'),
 ];

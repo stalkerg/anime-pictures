@@ -6,15 +6,15 @@
   import Spinner from '../Spinner.svelte';
 
   export let text = '';
+  export let userId;
   let textarea;
   let disableInput = false;
-  export let editMessageId = -1;
   let errorMessage = '';
   let captchaScriptLoaded = false;
 
   const dispatch = createEventDispatcher();
 
-  async function addComment() {
+  async function sendMessage() {
     if (disableInput) {
       return;
     }
@@ -36,7 +36,7 @@
     let response;
     try {
       response = await fetch(
-        `/api/v3/posts/${window.post_id}/comments`,
+        `/api/v3/users/${userId}/messages`,
         {
           credentials: 'same-origin',
           method: 'POST',
@@ -44,6 +44,7 @@
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
+            title: '',
             text,
             token,
           }),
@@ -63,62 +64,15 @@
     }
 
     errorMessage = '';
-    dispatch('addComment', responseJson.comment);
-    text = '';
-  }
-
-  async function updateComment() {
-    if (disableInput) {
-      return;
-    }
-    disableInput = true;
-    let response;
-    try {
-      response = await fetch(
-        `/api/v3/comments/${editMessageId}`,
-        {
-          credentials: 'same-origin',
-          method: 'PUT',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({
-            text,
-          }),
-        },
-      );
-    } catch (error) {
-      console.log(error);
-      return;
-    } finally {
-      disableInput = false;
-    }
-
-    const responseJson = await response.json();
-    if (!responseJson.success) {
-      errorMessage = responseJson.errormsg;
-      return;
-    }
-
-    errorMessage = '';
-    dispatch('updateComment', { html: responseJson.html, text });
+    dispatch('addMessage', responseJson);
     text = '';
   }
 
   function keydownHandle(event) {
     const keynum = event.which || event.keyCode;
     if ((event.ctrlKey || event.metaKey) && keynum === 13) {
-      if (editMessageId !== -1) {
-        updateComment();
-      } else {
-        addComment();
-      }
+      sendMessage();
     }
-  }
-
-  function cancelEditComment() {
-    text = '';
-    editMessageId = -1;
   }
 </script>
 
@@ -131,16 +85,9 @@
   <div class="first-line">
     <BBTags disable={disableInput} {textarea} bind:text={text} />
     <div>
-      {#if editMessageId !== -1}
-        <button disabled={disableInput}
-                on:click|stopPropagation={updateComment}
-        >{$_('Save')} (Ctrl+Enter)</button>
-        <button on:click|stopPropagation={cancelEditComment}>{$_('Cancel')}</button>
-      {:else}
-         <button disabled={disableInput}
-                on:click|stopPropagation={addComment}
-        >{$_('Add')} (Ctrl+Enter)</button>
-      {/if}
+      <button disabled={disableInput}
+              on:click|stopPropagation={sendMessage}
+      >{$_('Send')} (Ctrl+Enter)</button>
     </div>
   </div>
   {#if disableInput}
@@ -157,9 +104,11 @@
 
 <style>
   .input {
-    margin-top: 10px;
+    padding: 0.5rem;
+    padding-bottom: 0;
     width: 100%;
     position: relative;
+    box-sizing: border-box;
   }
 
   .first-line {
@@ -182,7 +131,7 @@
     width: 100%;
     height: 50px;
     padding: 0;
-    margin: 10px 0;
+    margin-top: 0.5rem;
     resize: none;
   }
 

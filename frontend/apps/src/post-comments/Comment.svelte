@@ -2,8 +2,8 @@
   /* eslint no-alert: "off" */
   import dayjs from 'dayjs';
   import { createEventDispatcher } from 'svelte';
-  import { genAvatarUrl } from '../helpers';
-  import { _, language } from '../i18n';
+  import { _ } from '../i18n';
+  import Avatar from '../Avatar.svelte';
   import EditComment from './EditComment.svelte';
 
   export let comment;
@@ -41,12 +41,7 @@
                  text={comment.text.replace(/\\n+/g, '\n')}
                  on:updateComment={updateComment} />
   {:else}
-    <div class="comment-avatar sub-text">
-      <img src="{genAvatarUrl(user)}"
-           alt="{user.name} avatar"
-           title="{$_('profile')}"
-           on:mouseup|preventDefault={() => window.open(`/profile/view_ext_profile/${user.id}?lang=${$language}`)}>
-    </div>
+    <Avatar {user} />
     <div class="comment-text">
       <div class="comment-text-head">
         <span class="name">{user.name}</span>
@@ -72,23 +67,6 @@
     display: flex;
     align-content: center;
     margin-top: 0.5rem;
-    /* border-bottom: 1px solid #d5d5d5; */
-  }
-
-  .comment-avatar {
-    margin-right: 1.0rem;
-    margin-left: 0.5rem;
-    width: 4rem;
-    max-width: 4rem;
-    min-width: 4rem;
-    /* min-height: 5rem; */
-    text-align: center;
-  }
-
-  .comment-avatar img {
-    max-width: 100%;
-    cursor: pointer;
-    /* border-radius: 50%; */
   }
 
   .comment-text {
@@ -102,10 +80,6 @@
     margin-bottom: 0.5rem;
     font-weight: 700;
   }
-
-  /* .comment-text-head .name {
-    cursor: pointer;
-  } */
 
   .comment-body {
     word-wrap: break-word;
